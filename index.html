@@ -1,10 +1,8 @@
 {% extends "_base.html" %}
+
 {% block css %}
 <link rel="stylesheet" type="text/css" href="css/style.css" />
-
 {% endblock %}
-
-
 
 {% block content %}
 <div class="container">
@@ -15,16 +13,12 @@
     <img src="img/prueba.png" class="img-responsive"/>
   </div>
   <div class="row">
-  	<div class="col-md-4"><p>COLUMN</p>
-	<img src="img/prueba.png" class="img-responsive"/>
-  	</div>
-  	<div class="col-md-4">{{texto}}</div>
-  	<div class="col-md-4">COlumna 3</div>
-
+    <div class="col-md-4"><p>COLUMN</p>
+  <img src="img/prueba.png" class="img-responsive"/>
+    </div>
+    <div class="col-md-4">{{texto}}</div>
+    <div class="col-md-4">COlumna 3</div>
   </div>
-
-
-
 </div>
 {% endblock content %}
 
