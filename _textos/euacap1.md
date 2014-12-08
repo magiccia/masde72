@@ -7,6 +7,3 @@ El 22 de agosto 75 migrantes de Guatemala, Honduras, Brasil, Ecuador y un “hin
  Una mujer y un niño fueron separados del grupo, desde entonces no se volvió a saber de ellos. 
 
  Los demás fueron llevados a una bodega abandonada. Fueron amarrados, algunos vendados. Pagaron su negativa: uno por uno recibieron un tiro directo en la cabeza. En el crimen se usó una sola pistola. 
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
