@@ -1,3 +1,1 @@
-##Versión Oficial
-
 Entre los cuerpos de 58 hombres y 14 mujeres sobrevivió una persona: el ecuatoriano Fredy Lala XXX, quien sufrió xxx y se quedó xxx. Caminó hasta X kilómetros el amanecer del 23 hasta que encontró un puesto de la Marina, como a las 7 de la mañana, donde informó lo sucedido.  
