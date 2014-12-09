@@ -14,3 +14,26 @@ Delincuencia organizada, privación ilegal de la libertad en modalidad de secues
 ### Detenido en:
 
 Penal de máxima seguridad del Altiplano, en Almoloya de Juárez, Estado de México.
+
+### Comentarios:
+
+La PGR ofrecía una recompensa de 15 millones de pesos por información que llevara a su captura.
+Su detención ocurre un día antes de que "El Lazca" fuera abatido por la Marina en Progreso, Coahuila. El 6 de octubre del 2012, igualmente es aprehendido por la Marina, el 11 del mismo mes le dan arraigo por 40 días en las instalaciones del Centro de Investigaciones Federales en la Cd. de México hasta que finalmente es trasladado al  penal de máxima seguridad Almoloya de Juárez ubicado en el Estado de México.
+
+Sus testimonios formaron parte del expediente Nº: UEIARV/040/2012 por el abatimiento de "El Lazca"
+
+- "Comandante Ardilla Zetas" Rap de Néctar Lima dedicado a Salvador Alfonso Martínez Escobedo: https://www.youtube.com/watch?v=iQuKKcNE9Rw
+
+### Fuentes:
+
+
+- La Ardilla', uno de los más buscados es detenido - CNN México http://mexico.cnn.com/videos/2012/10/08/la-ardilla-uno-de-los-mas-buscados-es-detenido
+
+- Pleitos internos minaron estructura de Los Zetas -Terra http://noticias.terra.com.mx/mexico/seguridad/pleitos-internos-minaron-estructura-de-los-zetas,2c37a9bbc07b1410VgnVCM3000009af154d0RCRD.html
+
+- Adjudican 320 crímenes a reo fugado de Coatza- Imagen del Golfo http://www.imagendelgolfo.com.mx/resumen.php?id=345912
+
+- Los Zetas, los más violentos -  La opinión http://www.laopinion.com/noticiaslatinoamerica/article/20140204/Los-Zetas-los-mas-violentos
+
+- Presentan a “La Ardilla”, presunto líder de Los Zetas - El Economista http://eleconomista.com.mx/seguridad-publica/2012/10/08/presentan-ardilla-presunto-jefe-zetas
+
