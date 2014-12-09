@@ -1,7 +1,7 @@
-Entre los cuerpos de 58 hombres y 14 mujeres yacían dos migrantes heridos que por el impacto perdieron la conciencia, pero despertaron: eran un salvadoreño y un ecuatoriano de 18 años. Este último fue quien relató los hechos anteriores en los que se basa la información del cable. 
+ El único que conservó la vida fue un joven de 18 años que logró engañarlos cuando lo patearon, porque supo ponerse rígido. Ya de salida, uno de los criminales regresó por él. Le arrebató la medalla de la virgen que colgaba de su cuello, seguramente creyó que tendría algún valor económico. Era lo único que brillaba en la noche.
 
- Los sobrevivientes huyeron en distintas direcciones. El ecuatoriano escuchó que al salvadoreño lo persiguieron unas camionetas y escuchó después disparos. Imaginó que había sido asesinado. 
+  El sobreviviente esperó unos minutos más y cuando todo fue silencio, cuando sus sentidos exacerbados le dijeron que estaba solo, se atrevió a moverse. Salió de esa finca agazapado, deseando ser más sombra que nunca.  
 
- Mientras tanto, buscó auxilio en una casa o intentó acercarse a los policías locales (el cable destaca que la narración difiere en este punto); no lo ayudaron. 
+Regresó por donde habían entrado. Caminaba malherido, cuando entre las sombras escuchó ruidos. Fue alcanzado por otro hombre, aquel que dijo “yo” y sin saberlo salvó la vida. Se vieron, se reconocieron. Le ayudó a desatarse las manos. Por unos minutos caminaron juntos, hasta que el segundo sobreviviente lo dejó. 
 
- Caminó toda la noche. En la madrugada del lunes 23 de agosto llegó a un retén de la Marina donde avisó lo sucedido.  
+ –Lo siento, tú estás herido y no puedes correr. Yo tengo que irme por otro camino. Nos vemos –dijo el hombre con acento centroamericano y se marchó corriendo. 
