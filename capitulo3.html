@@ -1,0 +1,48 @@
+{% extends "_base.html" %}
+
+{% block css %}
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="jumbotron">
+
+    <h1>Capítulo 3</h1>
+    <h2>Las Víctimas</h2>
+
+      THIS ARE THE TITLES FOR THE MENU IN THIS CHAPTER
+       <h3>Brasil</h3>  
+       <h3>Guatemala</h3>   
+       <h3>El Salvador</h3>  
+       <h3>Honduras</h3> 
+        
+
+
+        <img src="img/cap_01.jpg" class="img-responsive"/>
+
+
+        <h2>Brasil</h2>
+
+        
+  <div class="row">
+    <div class="col-md-6"><p>Juliard Aires Fernándes</p>
+  {{read_file("_textos/cap3-brasil.md")|markdown}}
+    </div>
+
+
+
+   
+
+
+</div>
+{% endblock content %}
+
+{% block scripts %}
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.1.0/jquery.fitvids.min.js"></script>
+<script>
+$(document).ready(function() {
+  $('.video').fitVids();
+});
+</script>
+{% endblock %}
