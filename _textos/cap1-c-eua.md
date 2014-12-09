@@ -1,0 +1,1 @@
+“Reportes no confirmados indican que una o más de las mujeres víctimas estaban embarazadas. Las víctimas fueron encontradas sin ninguna identificación. Los tres camiones y el equipaje de los migrantes no fueron recuperados”, se lee en el texto. 
