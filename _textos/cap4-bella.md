@@ -1,6 +1,8 @@
 ### Biografía: 
 
-Delitos de los que se le acusa: Homicidio, delincuencia organizada, secuestro, tenencia ilícita de armas
+### Delitos de los que se le acusa:
+
+Homicidio, delincuencia organizada, secuestro, tenencia ilícita de armas
 
 ### Años de sentencia:
 
