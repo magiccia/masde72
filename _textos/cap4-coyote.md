@@ -28,17 +28,17 @@ Cayó junto con tres personas más identificadas como:  José Eder Ruiz Valero, 
 
 [LOS ZETAS: CAMBIO DE LIDERAZGO- Congreso de Guerrero:](http://congresogro.gob.mx/files/Sintesis-2013/julio/17_de_julio_13_Columnas.pdf)
 
-Kidnapping in Mexico - http://www.robertsonryan.com/wp-content/uploads/2012/07/Monthly-kidnap-news-Oct13.pdf
+[Kidnapping in Mexico](http://www.robertsonryan.com/wp-content/uploads/2012/07/Monthly-kidnap-news-Oct13.pdf)  
 
-Cae presunto líder Z en Tamaulipas- Red Política	http://www.redpolitica.mx/nacion/cae-presunto-lider-zeta-el-tamaulipas
+[Cae presunto líder Z en Tamaulipas- Red Política](http://www.redpolitica.mx/nacion/cae-presunto-lider-zeta-el-tamaulipas)	
 
-LA SECRETARÍA DE MARINA PRESENTA A SALVADOR ALFONSO MARTÍNEZ ESCOBEDO  Y/O CARLOS GARCÍA (A) “ARDILLA”	http://www.redpolitica.mx/nacion/cae-presunto-lider-zeta-el-tamaulipas
+[LA SECRETARÍA DE MARINA PRESENTA A SALVADOR ALFONSO MARTÍNEZ ESCOBEDO  Y/O CARLOS GARCÍA (A) “ARDILLA”](http://www.redpolitica.mx/nacion/cae-presunto-lider-zeta-el-tamaulipas)
 
-"Román palomo rincones se pasea en la colonia paso real ejercito no a hecho nada por detenerlo" - Valor por Tamaulipas- https://www.facebook.com/ValorPorTamaulipas/posts/313015338807811
+["Román palomo rincones se pasea en la colonia paso real ejercito no a hecho nada por detenerlo" - Valor por Tamaulipas-](https://www.facebook.com/ValorPorTamaulipas/posts/313015338807811) 
 
-"Roman palomo rincones el coyote (Z) se oculta en el fraccionamiento Villarreal en cd victoria maneja un perfil no tan ostentoso" - Valor por Tamaulipas: @SF_Follow https://www.facebook.com/ValorPorTamaulipas/posts/388438314598846
+["Roman palomo rincones el coyote (Z) se oculta en el fraccionamiento Villarreal en cd victoria maneja un perfil no tan ostentoso" - Valor por Tamaulipas: @SF_Follow](https://www.facebook.com/ValorPorTamaulipas/posts/388438314598846) 
 
-"lo que ignoraba es la cantidad de familiares de este líder Z laborando en el municipio de SanFernando en posiciones clave" -  Valor Por Tamaulipas-  https://www.facebook.com/ValorPorTamaulipas/posts/297288440380501
+["lo que ignoraba es la cantidad de familiares de este líder Z laborando en el municipio de SanFernando en posiciones clave" -  Valor Por Tamaulipas-](https://www.facebook.com/ValorPorTamaulipas/posts/297288440380501)  
 
-El Coyote Investigado por 2 masacres en San Fernando - El Universal http://www.eluniversal.com.mx/nacion/184777.html - 
+[El Coyote Investigado por 2 masacres en San Fernando - El Universal](http://www.eluniversal.com.mx/nacion/184777.html) 
 
