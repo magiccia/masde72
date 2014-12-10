@@ -19,15 +19,14 @@ Cayó junto con tres personas más identificadas como:  José Eder Ruiz Valero, 
 
 ### Fuentes:
 
-Así queda la estructura de Los Zetas tras la captura del “Z-40" - Animal Político
-http://www.animalpolitico.com/2013/07/asi-queda-la-estructura-de-los-zetas-tras-la-captura-del-40/
+[Así queda la estructura de Los Zetas tras la captura del “Z-40" - Animal Político](http://www.animalpolitico.com/2013/07/asi-queda-la-estructura-de-los-zetas-tras-la-captura-del-40/)
 
-Capturan a líder de ‘Los Zetas’ en Tamaulipas - Milenio http://www.milenio.com/policia/Capturan-lider-Zetas-Tamaulipas_0_141585981.html
 
-Capos abatidos o detenidos - La Crónica http://www.lacronica.com/EdicionDigital/Ediciones/20131220/PDFS/General_35.pdf
+[Capturan a líder de ‘Los Zetas’ en Tamaulipas - Milenio](http://www.milenio.com/policia/Capturan-lider-Zetas-Tamaulipas_0_141585981.html) 
 
-LOS ZETAS: CAMBIO DE LIDERAZGO- Congreso de Guerrero:
-http://congresogro.gob.mx/files/Sintesis-2013/julio/17_de_julio_13_Columnas.pdf
+[Capos abatidos o detenidos - La Crónica](http://www.lacronica.com/EdicionDigital/Ediciones/20131220/PDFS/General_35.pdf) 
+
+[LOS ZETAS: CAMBIO DE LIDERAZGO- Congreso de Guerrero:](http://congresogro.gob.mx/files/Sintesis-2013/julio/17_de_julio_13_Columnas.pdf)
 
 Kidnapping in Mexico - http://www.robertsonryan.com/wp-content/uploads/2012/07/Monthly-kidnap-news-Oct13.pdf
 
