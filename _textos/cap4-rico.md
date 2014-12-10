@@ -20,19 +20,18 @@ Proceso en la AP AP/PGR/TAMPS/MAT-I/2281/2010.
 Él narró a La Jornada cómo enganchaba a los migrantes; precisamente ese era su rol en la organización de Los Zetas.
 
 
-Fuentes:
+### Fuentes:
 
-El Nuevo Heraldo: http://www.elnuevoheraldo.com/el_valle/editorial/article_fc7d9d96-7c14-5330-8d5a-9fe93959cf0e.html?mode=jqm
+[El Nuevo Heraldo](http://www.elnuevoheraldo.com/el_valle/editorial/article_fc7d9d96-7c14-5330-8d5a-9fe93959cf0e.html?mode=jqm) 
 
-Informador: http://www.informador.com.mx/mexico/2010/241874/6/la-matanza-de-tamaulipas-tiene-presuntos-responsables.htm
+[Informador](http://www.informador.com.mx/mexico/2010/241874/6/la-matanza-de-tamaulipas-tiene-presuntos-responsables.htm) 
 
-PGR: http://www.pgr.gob.mx/prensa/2007/bol10/Oct/b118910.shtm
+[PGR](http://www.pgr.gob.mx/prensa/2007/bol10/Oct/b118910.shtm) 
 
-América Economía: http://www.americaeconomia.com/politica-sociedad/politica/implicado-en-masacre-de-tamaulipas-narra-la-forma-en-que-reclutan-migrant
+[América Economía](http://www.americaeconomia.com/politica-sociedad/politica/implicado-en-masacre-de-tamaulipas-narra-la-forma-en-que-reclutan-migrant) 
 
-http://mx.datajuridica.com/default.aspx
+[datajuridica.com](http://mx.datajuridica.com/default.aspx)
 
-La Jornada: http://www.jornada.unam.mx/2010/09/06/politica/003n1pol
-
+[La Jornada](http://www.jornada.unam.mx/2010/09/06/politica/003n1pol) 
 
 
