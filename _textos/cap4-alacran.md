@@ -16,7 +16,7 @@ No se tiene claridad si se encuentra en  el CEFERESO número 4 "El Rincón" en T
 
 [Ciudad Victoria, balaceras y reacomodoZ - Chuy news blogspot](http://chuynews.blogspot.mx/2012/03/ciudad-victoria-balaceras-y-reacomodoz.html) 
 
-"Tengo información con lo ocurrido con la familia Ramirez fue ordenada su ejecución por Juvenal Burciaga el Alacrán" @SF_Follow - Valor por Tamaulipas 
+["Tengo información con lo ocurrido con la familia Ramirez fue ordenada su ejecución por Juvenal Burciaga el Alacrán" @SF_Follow - Valor por Tamaulipas](https://www.facebook.com/ValorPorTamaulipas/posts/261808223928523)
 
-PGR ofrece recompensas por información de las personas que planearon y ejecutaron - http://www.pgr.gob.mx/Prensa/2007/bol11/ene/b09311.shtm
+[PGR ofrece recompensas por información de las personas que planearon y ejecutaron](http://www.pgr.gob.mx/Prensa/2007/bol11/ene/b09311.shtm) 
 
