@@ -22,18 +22,18 @@ Su detención ocurre un día antes de que "El Lazca" fuera abatido por la Marina
 
 Sus testimonios formaron parte del expediente Nº: UEIARV/040/2012 por el abatimiento de "El Lazca"
 
-- "Comandante Ardilla Zetas" Rap de Néctar Lima dedicado a Salvador Alfonso Martínez Escobedo: https://www.youtube.com/watch?v=iQuKKcNE9Rw
+["Comandante Ardilla Zetas" Rap de Néctar Lima dedicado a Salvador Alfonso Martínez Escobedo](https://www.youtube.com/watch?v=iQuKKcNE9Rw)
 
 ### Fuentes:
 
 
-- La Ardilla', uno de los más buscados es detenido - CNN México http://mexico.cnn.com/videos/2012/10/08/la-ardilla-uno-de-los-mas-buscados-es-detenido
+[- La Ardilla', uno de los más buscados es detenido - CNN México](http://mexico.cnn.com/videos/2012/10/08/la-ardilla-uno-de-los-mas-buscados-es-detenido) 
 
-- Pleitos internos minaron estructura de Los Zetas -Terra http://noticias.terra.com.mx/mexico/seguridad/pleitos-internos-minaron-estructura-de-los-zetas,2c37a9bbc07b1410VgnVCM3000009af154d0RCRD.html
+[- Pleitos internos minaron estructura de Los Zetas -Terra](http://noticias.terra.com.mx/mexico/seguridad/pleitos-internos-minaron-estructura-de-los-zetas,2c37a9bbc07b1410VgnVCM3000009af154d0RCRD.html) 
 
-- Adjudican 320 crímenes a reo fugado de Coatza- Imagen del Golfo http://www.imagendelgolfo.com.mx/resumen.php?id=345912
+[- Adjudican 320 crímenes a reo fugado de Coatza- Imagen del Golfo](http://www.imagendelgolfo.com.mx/resumen.php?id=345912) 
 
-- Los Zetas, los más violentos -  La opinión http://www.laopinion.com/noticiaslatinoamerica/article/20140204/Los-Zetas-los-mas-violentos
+[- Los Zetas, los más violentos -  La opinión](http://www.laopinion.com/noticiaslatinoamerica/article/20140204/Los-Zetas-los-mas-violentos) 
 
-- Presentan a “La Ardilla”, presunto líder de Los Zetas - El Economista http://eleconomista.com.mx/seguridad-publica/2012/10/08/presentan-ardilla-presunto-jefe-zetas
+[- Presentan a “La Ardilla”, presunto líder de Los Zetas - El Economista](http://eleconomista.com.mx/seguridad-publica/2012/10/08/presentan-ardilla-presunto-jefe-zetas)
 
