@@ -3,26 +3,31 @@
 {% block content %}
 <div class="container">
   <div class="jumbotron">
+
     <h1>Mas de 72</h1>
-    <p>Replace this message with your own content in <code>{{ PROJECT_PATH }}/index.html</code>.</p>
-   {{read_file("_textos/matanza.md")|markdown}}
-    <img src="img/prueba.png" class="img-responsive"/>
-  </div>
+
+    <p>El 23 de agosto de 2010 la Secretaría de Marina informó del hallazgo de 72 cadáveres en un rancho-bodega abandonado en el municipio de San Fernando, Tamaulipas. </p>
+
+    <p>Eran 58 hombres y 14 mujeres, todos migrantes, todos con las manos amarradas y con tiro de gracia.
+    </p>
+
+    <p>Este proyecto realizado por el equipo de investigación de Periodistas de a Pie y periodistas invitados, con fondos de la iniciativa Connectas y el ICIJ, evidencia de manera gráfica, con fuentes y de forma sistematizada las inconsistencias de la información oficial y plantea las preguntas que aún deben responder las diversas instancias de gobierno.</p>
 
   <div class="video">
-    <iframe src="//player.vimeo.com/video/20020648" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="//player.vimeo.com/video/113537501" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </div>
+  
+<p>
+LOGOS
+  <div> <img src="img/periodistaspie.jpg" class="img-responsive"/>
 
-  <div class="row">
-    
+      <p>  <img src="img/connectas.jpg" class="img-responsive"/> </p>
 
-    <div class="col-md-4"><p>Version Embajada EUA</p>
-  <img src="img/prueba.png" class="img-responsive"/>
+This is the way it shoud look:
+    <div><img src="img/home.jpg" class="img-responsive"/>
     </div>
+    </p>
+  
 
-
-    <div class="col-md-4">{{texto}}</div>
-    <div class="col-md-4">COlumna 3</div>
-  </div>
-</div>
+  
 {% endblock content %}
