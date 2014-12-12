@@ -1,51 +1,52 @@
 {% extends "_masde72_base.html" %}
 
 {% block content %}
+
+<nav class="section-nav navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#la-matanza">La Matanza</a></li>
+      <li><a href="#los-sobrevientes">Los Sobrevivientes</a></li>
+      <li><a href="">El Hallazgo</a></li>
+      <li><a href="">Hipótesis</a></li>
+      <li><a href="">Hallazgo de la Prensa</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="intro">
+  <h2>Capítulo 1</h2>
+  <h1>"La Masacre"</h1>
+</div>
+
 <div class="container">
-  <div class="jumbotron">
 
-    <h2>Capítulo 1</h2>
-    <h1>"La Masacre"</h1>
+  <section id="la-matanza">
+    <h2>La Matanza</h2>
 
-      THIS ARE THE TITLES FOR THE MENU IN THIS CHAPTER
-       <h3>La Matanza</h3>  
-       <h3>Los Sobrevivientes</h3>   
-       <h3>El Hallazgo</h3>  
-       <h3>Hipótesis</h3> 
-        <h3>Hallazgo de la Prensa</h3>  
+    <h3>Versión Oficial</h3>
+
+    {{read_file("_textos/cap1-a-oficial.md")|markdown}}
 
 
-        <img src="img/cap1_home.jpg" class="img-responsive"/>
+    <div class="row">
+      <div class="col-md-4"><p>Versión Embajada EUA</p>
+        {{read_file("_textos/cap1-a-eua.md")|markdown}}
+      </div>
+
+      <div class="col-md-4"><p>Versión Tesís</p>
+        {{read_file("_textos/cap1-a-tesis.md")|markdown}}
+      </div>
 
 
-        <h2>La Matanza</h2>
 
-        <h3>Versión Oficial</h3>
-
-    
-{{read_file("_textos/cap1-a-oficial.md")|markdown}}
-
-
-  <div class="row">
-    <div class="col-md-4"><p>Versión Embajada EUA</p>
-  {{read_file("_textos/cap1-a-eua.md")|markdown}}
+      <div class="col-md-4"><p>Versión CNDH</p>
+        {{read_file("_textos/cap1-a-cndh.md")|markdown}}
+      </div>
     </div>
+  </section>
 
-
-
-    <div class="col-md-4"><p>Versión Tesís</p>
-  {{read_file("_textos/cap1-a-tesis.md")|markdown}}
-    </div>
-
-
-
-    <div class="col-md-4"><p>Versión CNDH</p>
-  {{read_file("_textos/cap1-a-cndh.md")|markdown}}
-    </div>
- </div>
-
-
-
+  <section id="los-sobrevientes">
      <h2>Los Sobrevivientes</h2>
      <h3>Versión Oficial</h3>
 
@@ -73,6 +74,7 @@
 
 <img src="img/cap1_sobreviviente.jpg" class="img-responsive">
 AP
+  </section>
 
 
      <h2>El Hallazgo</h2>
@@ -126,7 +128,6 @@ AP
      <h2>El Hallazgo en la Prensa</h2>
      <h3>Versión Oficial</h3>
 
-    
 {{read_file("_textos/cap1-e-oficial.md")|markdown}}
 
 
@@ -137,7 +138,5 @@ AP
   </div>
  </div>
 
-    
- 
 </div>
 {% endblock content %}

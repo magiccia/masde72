@@ -1,6 +1,9 @@
 {% extends "_base.html" %}
 
+{% block bodyattrs %}{{ super () }} data-spy="scroll" data-target=".section-nav"{% endblock %}
+
 {% block css %}
+<link href="http://fonts.googleapis.com/css?family=Sanchez&subset=latin,latin-ext" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 {% endblock %}
 
