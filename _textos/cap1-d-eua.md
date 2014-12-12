@@ -1,0 +1,3 @@
+En el comentario final, el funcionario de la embajada que realizó el reporte señala: “Si el relato del sobreviviente es preciso, esto representa un nuevo nivel de violencia de Los Zetas”. Esto porque no parece haber una utilidad aparente para los Zetas de estas muertes, ya que esta vez no parece haber pedido rescate por sus secuestrados como era su costumbre. 
+
+ “Una teoría planteada –el nombre de la fuente está borrado— es que como las ganancias de la introducción ilegal de migrantes a Estados Unidos son destinadas al Cártel del Golfo, los asesinatos fueron la manera que Los Zetas encontraron para herir financieramente los intereses de CDG”. Los asesinatos, entonces, fueron preventivos.  

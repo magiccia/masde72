@@ -1,0 +1,157 @@
+{% extends "_base.html" %}
+
+{% block css %}
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="jumbotron">
+
+    <h2>Capítulo 1</h2>
+    <h1>"La Masacre"</h1>
+
+      THIS ARE THE TITLES FOR THE MENU IN THIS CHAPTER
+       <h3>La Matanza</h3>  
+       <h3>Los Sobrevivientes</h3>   
+       <h3>El Hallazgo</h3>  
+       <h3>Hipótesis</h3> 
+        <h3>Hallazgo de la Prensa</h3>  
+
+
+        <img src="img/cap1_home.jpg" class="img-responsive"/>
+
+
+        <h2>La Matanza</h2>
+
+        <h3>Versión Oficial</h3>
+
+    
+{{read_file("_textos/cap1-a-oficial.md")|markdown}}
+
+
+  <div class="row">
+    <div class="col-md-4"><p>Versión Embajada EUA</p>
+  {{read_file("_textos/cap1-a-eua.md")|markdown}}
+    </div>
+
+
+
+    <div class="col-md-4"><p>Versión Tesís</p>
+  {{read_file("_textos/cap1-a-tesis.md")|markdown}}
+    </div>
+
+
+
+    <div class="col-md-4"><p>Versión CNDH</p>
+  {{read_file("_textos/cap1-a-cndh.md")|markdown}}
+    </div>
+ </div>
+
+
+
+     <h2>Los Sobrevivientes</h2>
+     <h3>Versión Oficial</h3>
+
+    
+{{read_file("_textos/cap1-b-oficial.md")|markdown}}
+
+
+  <div class="row">
+    <div class="col-md-4"><p>Versión Embajada EUA</p>
+  {{read_file("_textos/cap1-b-eua.md")|markdown}}
+    </div>
+
+
+
+    <div class="col-md-4"><p>Versión Tesís</p>
+  {{read_file("_textos/cap1-b-tesis.md")|markdown}}
+    </div>
+
+
+
+    <div class="col-md-4"><p>Versión Moore</p>
+  {{read_file("_textos/cap1-b-moore.md")|markdown}}
+    </div>
+ </div>
+
+<img src="img/cap1_sobreviviente.jpg" class="img-responsive">
+AP
+
+
+     <h2>El Hallazgo</h2>
+     <h3>Versión Oficial</h3>
+
+    
+{{read_file("_textos/cap1-c-oficial.md")|markdown}}
+
+
+  <div class="row">
+    <div class="col-md-6"><p>Versión Embajada EUA</p>
+  {{read_file("_textos/cap1-c-eua.md")|markdown}}
+    </div>
+
+
+
+    <div class="col-md-6"><p>Versión Insight Crime</p>
+  {{read_file("_textos/cap1-c-incrime.md")|markdown}}
+    </div>
+
+
+
+
+     <h2>La Hipótesis</h2>
+     <h3>Versión Oficial</h3>
+
+    
+{{read_file("_textos/cap1-d-oficial.md")|markdown}}
+
+
+  <div class="row">
+    <div class="col-md-4"><p>Versión Embajada EUA</p>
+  {{read_file("_textos/cap1-d-eua.md")|markdown}}
+    </div>
+
+
+
+    <div class="col-md-4"><p>Versión Insight Crime</p>
+  {{read_file("_textos/cap1-d-incrime.md")|markdown}}
+    </div>
+
+
+
+    <div class="col-md-4"><p>Versión Moore</p>
+  {{read_file("_textos/cap1-d-moore.md")|markdown}}
+    </div>
+ </div>
+
+
+
+     <h2>El Hallazgo en la Prensa</h2>
+     <h3>Versión Oficial</h3>
+
+    
+{{read_file("_textos/cap1-e-oficial.md")|markdown}}
+
+
+  <div class="row">
+    <div class="col-md-12"><p>Versión Tésis</p>
+  {{read_file("_textos/cap1-e-tesis.md")|markdown}}
+    </div>
+  </div>
+ </div>
+
+    
+ 
+</div>
+{% endblock content %}
+
+{% block scripts %}
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.1.0/jquery.fitvids.min.js"></script>
+<script>
+$(document).ready(function() {
+  $('.video').fitVids();
+});
+</script>
+{% endblock %}
+
