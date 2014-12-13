@@ -9,7 +9,6 @@ body {
 }
 
 .intro {
-  background-image: url('../img/cap1_home.jpg');
   background-size: cover;
   display: table;
   width: 100%;
@@ -34,6 +33,22 @@ body {
   display: inline-block;
   margin: 0 20px;
   font-size: 20px;
+}
+
+.page-capitulo1 .intro {
+  background-image: url('../img/cap1_home.jpg');
+}
+
+.page-capitulo2 .intro {
+  background-image: url('../img/cap2_home.jpg');
+}
+
+.page-capitulo3 .intro {
+  background-image: url('../img/cap3_home.jpg');
+}
+
+.page-capitulo4 .intro {
+  background-image: url('../img/cap4_home.jpg');
 }
 
 .navbar {
