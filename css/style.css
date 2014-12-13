@@ -10,7 +10,7 @@ h1,h2,h3,h4,h5,h6 {
 
 h2 {
   margin-top: 0;
-  margin-bottom: 3vmin;
+  margin-bottom: 0;
   font-size: 4.5vmax;
 }
 
@@ -84,6 +84,9 @@ section {
 .nav {
   font-family: 'Sanchez', serif;
 }
+.navbar {
+  font-size: 13px;
+}
 
 .tab-content {
   border-left: 1px solid #ddd;
@@ -93,8 +96,9 @@ section {
   min-height: 50vh;
 }
 
-@media (min-width: 768px) {
-  .col-media {
-    margin-top: 70px;
-  }
+.sub-title {
+  font-family: 'Sanchez', serif;
+  margin-bottom: 30px;
+  font-style: italic;
+  color: #999;
 }
