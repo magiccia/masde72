@@ -73,6 +73,7 @@ section {
   text-align: center;
   position: relative;
   z-index: 2030;
+  overflow: hidden;
 }
 
 .intro h1 {
@@ -153,4 +154,40 @@ section {
   background-image: url('../img/cap4_home.jpg');
 }
 
+.intro .intro-video {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+}
+.intro .intro-video iframe {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+.intro .logos {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  height: 90px;
+  z-index: 20;
+}
+.intro .logos img {
+  width: auto;
+  margin: 12px 5px;
+}
+.intro .logos .periodistas-logo {
+  height: 72px;
+  margin: 8px 18px 0 0;
+}
+.intro .logos .connectas-logo {
+  height: 48px;
+  margin: 6px 0 0 18px;
+}
 
