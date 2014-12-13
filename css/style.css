@@ -132,6 +132,9 @@ section {
   background-attachment: fixed;
   background-position: left center;
   padding-bottom: 30px;
+  padding-right: 40px;
+  padding-left: 40px;
+  font-size: 16px;
 }
 .page-capitulo3 #juliard {
   background-image: url('../img/cap3_brasil.jpg');
