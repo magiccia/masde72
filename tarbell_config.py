@@ -5,7 +5,7 @@ Tarbell project configuration
 """
 
 # Google spreadsheet key
-SPREADSHEET_KEY = "1HEyueJ3M7IyDPOj-HZdNhsgHDqrQEqCr87Hmq30XX_Y"
+#SPREADSHEET_KEY = "1HEyueJ3M7IyDPOj-HZdNhsgHDqrQEqCr87Hmq30XX_Y"
 
 # Exclude these files from publication
 EXCLUDES = ["*.md", "requirements.txt"]
@@ -38,5 +38,17 @@ EXCLUDES = ["*.md", "requirements.txt"]
 # Default template variables
 DEFAULT_CONTEXT = {
     'name': 'masde72',
-    'title': 'Mas de 72'
+    'title': 'Mas de 72',
+    'la_matanza_versions': [
+        ('Oficial', 'oficial', '_textos/cap1-a-oficial.md'),
+        ('Embajada EUA', 'eua', '_textos/cap1-a-eua.md'),
+        ('Tesis', 'tesis', '_textos/cap1-a-tesis.md'),
+        ('CNDH', 'cndh', '_textos/cap1-a-cndh.md'),
+    ],
+    'los_sobrevivientes_versions': [
+        ('Oficial', 'oficial', '_textos/cap1-b-oficial.md'),
+        ('Embajada EUA', 'eua', '_textos/cap1-b-eua.md'),
+        ('Tesis', 'tesis', '_textos/cap1-b-tesis.md'),
+        ('Moore', 'moore', '_textos/cap1-b-moore.md'),
+    ]
 }
