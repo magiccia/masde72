@@ -17,3 +17,25 @@
 {% block nav %}{% endblock %}
 {% block footer %}{% endblock %}
 
+{# Macros #}
+{% macro tab_panel(section, tabs) %}
+<div class="tabpanel" role="tabpanel">
+  <h3>Versións</h3>
+  <ul class="nav nav-tabs" role="tablist">
+    {% for title, id, file in tabs %}
+    <li role="presentation"{% if loop.first %} class="active"{% endif %}>
+      <a href="#{{ section }}-{{ id }}" data-toggle="tab">{{ title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+    {% for title, id, file in tabs %}
+    <div role="tabpanel" class="tab-pane{% if loop.first %} active{% endif %}" id="{{ section }}-{{ id }}">
+      {{read_file(file)|markdown}}
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endmacro %}
