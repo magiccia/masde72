@@ -1,11 +1,25 @@
 body {
   position: relative;
+  font-size: 18px;
+  font-family: Georgia, serif;
 }
 
-.row div {
-  background-color: #959494;
-  color:#ffffff;
-  font-size:20px;
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Sanchez', serif;
+}
+
+h2 {
+  margin-top: 8vmin;
+  margin-bottom: 3vmin;
+  font-size: 4.5vmax;
+}
+
+h3 {
+  font-size: 14px;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #999;
 }
 
 .intro {
@@ -19,13 +33,14 @@ body {
 
 
 .intro h1 {
-  font-size: 4.5vw;
+  font-size: 5.5vmax;
   margin-top: 0;
 }
 
 .intro h2 {
   margin-top: 65px;
-  font-size: 2vw;
+  margin-bottom: 20px;
+  font-size: 1.8vmax;
 }
 
 .intro li {
@@ -60,4 +75,16 @@ body {
     padding-top: 5px;
     padding-bottom: 5px;
   }
+}
+
+.nav {
+  font-family: 'Sanchez', serif;
+}
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 20px;
+  min-height: 50vh;
 }

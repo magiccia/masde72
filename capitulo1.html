@@ -23,35 +23,42 @@
   <section id="la-matanza">
     <h2>La Matanza</h2>
 
-    <div role="tabpanel">
+    <div class="row">
+      <div class="col-sm-8">
+        <div class="tabpanel" role="tabpanel">
+          <h3>Versións</h3>
+          <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active">
+              <a href="#la-matanza-oficial" data-toggle="tab">Oficial</a>
+            </li>
+            <li role="presentation">
+              <a href="#la-matanza-eua" role="tab" data-toggle="tab">Embajada EUA</a>
+            </li>
+            <li role="presentation">
+              <a href="#la-matanza-tesis" role="tab" data-toggle="tab">Tesís</a>
+            </li>
+            <li role="presentation">
+              <a href="#la-matanza-cndh" role="tab" data-toggle="tab">CNDH</a>
+            </li>
+          </ul>
 
-      <ul class="nav nav-tabs" role="tablist">
-        <li role="presentation" class="active"><a href="#la-matanza-oficial" data-toggle="tab">Versión Oficial</a></li>
-        <li role="presentation"><a href="#la-matanza-eua" role="tab" data-toggle="tab">Versión Embajada EUA</a></li>
-        <li role="presentation"><a href="#la-matanza-tesis" role="tab" data-toggle="tab">Versión Tesís</a></li>
-        <li role="presentation"><a href="#la-matanza-cndh" role="tab" data-toggle="tab">Versión CNDH</a></li>
-      </ul>
-
-      <!-- Tab panes -->
-      <div class="tab-content">
-        <div role="tabpanel" class="tab-pane active" id="la-matanza-oficial">
-          <h3>Versión Oficial</h3>
-          {{read_file("_textos/cap1-a-oficial.md")|markdown}}
-        </div>
-        <div role="tabpanel" class="tab-pane" id="la-matanza-eua">
-          <h3>Versión Embajada EUA</h3>
-          {{read_file("_textos/cap1-a-eua.md")|markdown}}
-        </div>
-        <div role="tabpanel" class="tab-pane" id="la-matanza-tesis">
-          <h3>Versión Tesís</h3>
-          {{read_file("_textos/cap1-a-tesis.md")|markdown}}
-        </div>
-        <div role="tabpanel" class="tab-pane" id="la-matanza-cndh">
-          <h3>Versión CNDH</h3>
-          {{read_file("_textos/cap1-a-cndh.md")|markdown}}
+          <!-- Tab panes -->
+          <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="la-matanza-oficial">
+              {{read_file("_textos/cap1-a-oficial.md")|markdown}}
+            </div>
+            <div role="tabpanel" class="tab-pane" id="la-matanza-eua">
+              {{read_file("_textos/cap1-a-eua.md")|markdown}}
+            </div>
+            <div role="tabpanel" class="tab-pane" id="la-matanza-tesis">
+              {{read_file("_textos/cap1-a-tesis.md")|markdown}}
+            </div>
+            <div role="tabpanel" class="tab-pane" id="la-matanza-cndh">
+              {{read_file("_textos/cap1-a-cndh.md")|markdown}}
+            </div>
+          </div>
         </div>
       </div>
-
     </div>
 
   </section>
