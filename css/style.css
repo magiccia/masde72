@@ -2,6 +2,7 @@ body {
   position: relative;
   font-size: 18px;
   font-family: Georgia, serif;
+  padding-bottom: 30px;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -23,7 +24,7 @@ h3 {
 }
 
 section {
-  margin-top: 5vmax;
+  padding-top: 5vmax;
 }
 
 .intro {
@@ -33,6 +34,8 @@ section {
   height: 2000px;
   font-family: 'Sanchez', serif;
   text-align: center;
+  position: relative;
+  z-index: 2030;
 }
 
 
@@ -47,11 +50,15 @@ section {
   font-size: 1.8vmax;
 }
 
-.intro li {
-  list-style: none;
-  display: inline-block;
-  margin: 0 20px;
-  font-size: 20px;
+.intro nav {
+  margin-top: 250px;
+}
+.intro .navbar .nav {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+.intro a {
+  color: #000;
+  text-shadow: 0 0 4px rgba(255, 255, 255, 0.7);
 }
 
 .page-capitulo1 .intro {
@@ -71,7 +78,18 @@ section {
 }
 
 .navbar {
-  min-height: 32px;
+  font-size: 18px;
+  text-align: center;
+  min-height: 30px;
+}
+.navbar .nav {
+  font-family: 'Sanchez', serif;
+  display: inline-block;
+  float: none;
+  height: 30px;
+}
+.section-nav, .section-nav .nav {
+  height: 24px;
 }
 
 @media (min-width: 768px) {
@@ -79,13 +97,6 @@ section {
     padding-top: 5px;
     padding-bottom: 5px;
   }
-}
-
-.nav {
-  font-family: 'Sanchez', serif;
-}
-.navbar {
-  font-size: 13px;
 }
 
 .tab-content {
