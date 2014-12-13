@@ -65,23 +65,47 @@
 
   <section id="los-sobrevientes">
     <h2>Los Sobrevivientes</h2>
-    <h3>Versión Oficial</h3>
-
-    {{read_file("_textos/cap1-b-oficial.md")|markdown}}
 
     <div class="row">
-      <div class="col-sm-4"><p>Versión Embajada EUA</p>
-        {{read_file("_textos/cap1-b-eua.md")|markdown}}
+      <div class="col-sm-8">
+        <div class="tabpanel" role="tabpanel">
+          <h3>Versións</h3>
+          <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active">
+              <a href="#los-sobrevientes-oficial" data-toggle="tab">Oficial</a>
+            </li>
+            <li role="presentation">
+              <a href="#los-sobrevientes-eua" role="tab" data-toggle="tab">Embajada EUA</a>
+            </li>
+            <li role="presentation">
+              <a href="#los-sobrevientes-tesis" role="tab" data-toggle="tab">Tesís</a>
+            </li>
+            <li role="presentation">
+              <a href="#los-sobrevientes-cndh" role="tab" data-toggle="tab">CNDH</a>
+            </li>
+          </ul>
+
+          <!-- Tab panes -->
+          <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="los-sobrevientes-oficial">
+              {{read_file("_textos/cap1-a-oficial.md")|markdown}}
+            </div>
+            <div role="tabpanel" class="tab-pane" id="los-sobrevientes-eua">
+              {{read_file("_textos/cap1-b-eua.md")|markdown}}
+            </div>
+            <div role="tabpanel" class="tab-pane" id="los-sobrevientes-tesis">
+              {{read_file("_textos/cap1-b-tesis.md")|markdown}}
+            </div>
+            <div role="tabpanel" class="tab-pane" id="los-sobrevientes-moore">
+              {{read_file("_textos/cap1-b-moore.md")|markdown}}
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="col-sm-4"><p>Versión Tesís</p>
-        {{read_file("_textos/cap1-b-tesis.md")|markdown}}
-      </div>
-      <div class="col-sm-4"><p>Versión Moore</p>
-        {{read_file("_textos/cap1-b-moore.md")|markdown}}
+      <div class="col-sm-4 col-media">
+        <img src="img/cap1_sobreviviente.jpg" class="img-responsive">
       </div>
     </div>
-
-    <img src="img/cap1_sobreviviente.jpg" class="img-responsive">
   </section>
 
   <section id="el-hallazgo">

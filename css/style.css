@@ -9,7 +9,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h2 {
-  margin-top: 8vmin;
+  margin-top: 0;
   margin-bottom: 3vmin;
   font-size: 4.5vmax;
 }
@@ -20,6 +20,10 @@ h3 {
   margin-top: 0;
   margin-bottom: 10px;
   color: #999;
+}
+
+section {
+  margin-top: 5vmax;
 }
 
 .intro {
@@ -87,4 +91,10 @@ h3 {
   border-bottom: 1px solid #ddd;
   padding: 20px;
   min-height: 50vh;
+}
+
+@media (min-width: 768px) {
+  .col-media {
+    margin-top: 70px;
+  }
 }
