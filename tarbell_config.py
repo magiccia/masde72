@@ -50,5 +50,18 @@ DEFAULT_CONTEXT = {
         ('Embajada EUA', 'eua', '_textos/cap1-b-eua.md'),
         ('Tesis', 'tesis', '_textos/cap1-b-tesis.md'),
         ('Moore', 'moore', '_textos/cap1-b-moore.md'),
-    ]
+    ],
+    'el_hallazgo_versions': [
+        ('Embajada EUA', 'eua', '_textos/cap1-c-eua.md'),
+        ('Insight Crime', 'incrime', '_textos/cap1-c-incrime.md'),
+    ],
+    'la_hipotesis_versions': [
+        ('Embajada EUA', 'eua', '_textos/cap1-d-eua.md'),
+        ('Insight Crime', 'incrime', '_textos/cap1-d-incrime.md'),
+        ('Moore', 'moore', '_textos/cap1-d-moore.md'),
+    ],
+    'prensa_versions': [
+        ('Tesis', 'tesis', '_textos/cap1-e-tesis.md'),
+    ],
+
 }
