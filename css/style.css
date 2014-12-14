@@ -160,22 +160,28 @@ section {
   padding-right: 40px;
   padding-left: 40px;
   font-size: 16px;
+  position: relative;
 }
 .page-capitulo3 #juliard {
   background-image: url('../img/cap3_brasil.jpg');
+  z-index: 100;
 }
 .page-capitulo3 #nancy {
   background-image: url('../img/cap3_guate.jpg');
+  z-index: 90;
 }
 .page-capitulo3 #yeimi {
   background-image: url('../img/cap3_salvador.jpg');
+  z-index: 70;
 }
 .page-capitulo3 #wilmer {
   background-image: url('../img/cap3_honduras.jpg');
+  z-index: 80;
 }
 
 .page-capitulo4 .intro {
   background-image: url('../img/cap4_home.jpg');
+  z-index: 110;
 }
 
 .intro .intro-video {
