@@ -12,16 +12,8 @@ h1,h2,h3,h4,h5,h6 {
 
 h2 {
   margin-top: 0;
-  margin-bottom: 0;
-  font-size: 4.5vmax;
-}
-
-h3 {
-  font-size: 14px;
-  text-transform: uppercase;
-  margin-top: 0;
-  margin-bottom: 10px;
-  color: #999;
+  margin-bottom: 20px;
+  font-size: 3.5vmax;
 }
 
 section {
@@ -39,11 +31,11 @@ section {
   min-height: 30px;
 }
 
-@media (min-width: 768px) {
-  .navbar-nav>li>a {
-    padding-top: 5px;
-    padding-bottom: 5px;
-  }
+.navbar-nav>li>a {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 .tab-content {
@@ -56,6 +48,7 @@ section {
 
 .sub-title {
   font-family: 'Sanchez', serif;
+  margin-top: -20px;
   margin-bottom: 30px;
   font-style: italic;
   color: #999;
@@ -84,14 +77,18 @@ section {
   font-size: 1.8vmax;
 }
 
-.intro .navbar {
+.intro nav {
   position: absolute;
   width: 100%;
   left: 0;
-  bottom: 7%;
+  bottom: 10%;
+  font-size: 20px;
+}
+.intro .nav>li>a {
+  padding: 5px;
 }
 .intro .navbar .nav {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.4);
 }
 .intro a {
   color: #000;
@@ -104,21 +101,25 @@ section {
 .page-capitulo1 .navbar li {
   width: 20%;
 }
+.page-capitulo1 h3 {
+  font-size: 14px;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #999;
+}
 
 .page-capitulo2 .intro {
   background-image: url('../img/cap2_home.jpg');
 }
-.page-capitulo2 h1, .page-capitulo2 h2 {
+.page-capitulo2 .intro h1, .page-capitulo2 .intro h2 {
   color: #fff;
   opacity: 0.8;
   text-shadow: 0 0 4px rgba(0,0,0,0.6);
 }
 .page-capitulo2 .navbar li {
   width: 20%;
-  font-size: 15px;
-}
-.page-capitulo2 .intro .navbar .nav {
-  background-color: rgba(0, 0, 0, 0.4);
+  font-size: 16px;
 }
 .page-capitulo2 .intro a {
   color: #fff;
@@ -198,3 +199,25 @@ section {
   height: 48px;
   margin: 6px 0 0 18px;
 }
+.row.photos {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+.photos img {
+  margin-bottom: 20px;
+}
+.video {
+  margin: 30px 0;
+}
+.timeline {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+p.caption {
+  margin-top: -10px;
+  font-size: 14px;
+  text-align: right;
+  font-style: italic;
+  color: #666;
+}
+
