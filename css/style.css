@@ -180,8 +180,7 @@ section {
 }
 
 .page-capitulo4 .intro {
-  background-image: url('../img/cap4_home.jpg');
-  z-index: 110;
+  background-image: url('../img/cap4_back.jpg');
 }
 
 .intro .intro-video {
