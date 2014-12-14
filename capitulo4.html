@@ -14,29 +14,28 @@
   </nav>
 </div>
 
-
-<div class="container">
-
-    <h2>Salvador Alfonso Martínez Escobedo</h2>
-
+{% for persona in culpables %}
+<section id="{{ persona.id }}">
+  <div class="container">
     <div class="row">
-      <div class="col-md-6">
-          <p>Alias: "La ardilla"</p>
-          <p>Edad: Actualmente 33 años</p>
-          <p>Origen: Nuevo Laredo, Tamaulipas</p>
+      <div class="col-md-8">
+        {# info #}
+        <h2>{{ persona.nombre }}</h2>
+        <p>Alias: "{{ persona.alias }}"</p>
+        <p>Edad: {{ persona.edad }}</p>
+        <p>Origen: {{ persona.origen }}</p>
+        {{read_file("_textos/cap4-%s.md" % persona.id)|markdown}}
       </div>
-
-
-      <div class="col-md-6">
-        <img src="img/cap4_ardilla.jpg">
+      <div class="col-md-4">
+        {# foto #}
+        <img src="img/cap4_{{ persona.id }}.jpg" class="img-responsive">
       </div>
     </div>
+  </div>
+</section>
+{% endfor %}
 
-      {{read_file("_textos/cap4-ardilla.md")|markdown}}
-
-
-
-
+<div class="container">
 
 <h2>Édgar Huerta Montiel</h2>
 
@@ -55,8 +54,6 @@
   </div>
 
       {{read_file("_textos/cap4-wacho.md")|markdown}}
-
-
 
 
 
