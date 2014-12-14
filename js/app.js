@@ -18,5 +18,7 @@ $(function() {
   $videos.fitVids();
   fitIntro();
   $window.on('resize', fitIntro);
-  $.localScroll();
+  $.localScroll({
+    'duration': 500
+  });
 });

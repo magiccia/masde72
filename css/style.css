@@ -15,6 +15,14 @@ h2 {
   margin-bottom: 20px;
   font-size: 3.5vmax;
 }
+h3 {
+  font-size: 2.8vmax;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+h4 {
+  font-size: 2vmax;
+}
 
 section {
   padding-top: 5vmax;
@@ -126,12 +134,19 @@ section {
   text-shadow: 0 0 4px rgba(0, 0, 0, 0.7);
 }
 
-.page-capitulo3 h1, .page-capitulo3 h2 {
+.page-capitulo3 h1, .page-capitulo3 h2, .page-capitulo3 h3 {
   color: #fff;
 }
-
 .page-capitulo3 .intro {
   background-image: url('../img/cap3_home.jpg');
+}
+.page-capitulo3 .intro, .page-capitulo3 section {
+  box-shadow: 0 0 15px 1px rgba(0,0,0,.7);
+  position: relative;
+}
+.page-capitulo3 .intro nav {
+  bottom: 10px;
+  font-size: 24px;
 }
 .page-capitulo3 .navbar li {
   width: 25%;
@@ -140,7 +155,7 @@ section {
   color: #fff;
   background-size: cover;
   background-attachment: fixed;
-  background-position: left center;
+  background-position: right center;
   padding-bottom: 30px;
   padding-right: 40px;
   padding-left: 40px;
