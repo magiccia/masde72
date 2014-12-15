@@ -28,12 +28,10 @@ EXCLUDES = ["*.md", "requirements.txt"]
 # CREDENTIALS_PATH = ""
 
 # S3 bucket configuration
-#S3_BUCKETS = {
-    # Provide target -> s3 url pairs, such as:
-    #     "mytarget": "mys3url.bucket.url/some/path"
-    # then use tarbell publish mytarget to publish to it
-    
-#}
+S3_BUCKETS = {
+    'staging': 'masde72.recoveredfactory.net',
+    'production': 'masde72.recoveredfactory.net',
+}
 
 # Default template variables
 DEFAULT_CONTEXT = {
