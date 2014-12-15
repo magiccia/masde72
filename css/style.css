@@ -118,6 +118,28 @@ section {
   height: 100%;
   z-index: 10;
 }
+.intro .intro-content {
+  position: relative;
+  z-index: 20;
+  color: #fff;
+  padding: 0 20px;
+  font-size: 1.4vmax;
+  text-shadow: 0 0 3px rgba(0,0,0,0.9);
+  background-color: rgba(0,0,0,.4);
+  width: 100%;
+  height: 100%;
+}
+.intro .intro-content p {
+  max-width: 65vmax;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.intro .intro-content img {
+  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 8vmax;
+}
 .intro .logos {
   position: absolute;
   width: 100%;
