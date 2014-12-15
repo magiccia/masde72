@@ -20,16 +20,10 @@ Es detenido junto a su novia Brenda Azhyade Infante Acevedo el 17 de junio del 2
 
 ### Fuentes:
 
-- Formal prisión a 'el Wache' por masacre de San Fernando - Noticieros Televisa
+[- Formal prisión a 'el Wache' por masacre de San Fernando - Noticieros Televisa](http://noticierostelevisa.esmas.com/nacional/334890/formal-prision-el-wache-masacre-san-fernando)
 
-http://noticierostelevisa.esmas.com/nacional/334890/formal-prision-el-wache-masacre-san-fernando
+[- Cae El Wache; coordinó la masacre de migrantes - El Excélsior](http://www.excelsior.com.mx/2011/06/17/nacional/745570)
 
-- Cae El Wache; coordinó la masacre de migrantes - El Excélsior
-
-http://www.excelsior.com.mx/2011/06/17/nacional/745570
-
-- Recluyen a El Wache en penal de Matamoros - La Silla Rota
-
-http://lasillarota.com/20320-encarcelan-a-el-wache-en-penal-de-matamoros#.VHYAN4eic_M
+[- Recluyen a El Wache en penal de Matamoros - La Silla Rota](http://lasillarota.com/20320-encarcelan-a-el-wache-en-penal-de-matamoros#.VHYAN4eic_M)
 
 
