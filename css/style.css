@@ -29,7 +29,7 @@ section {
 }
 
 .navbar {
-  font-size: 18px;
+  font-size: 14px;
   text-align: center;
   min-height: 30px;
 }
@@ -42,8 +42,8 @@ section {
 .navbar-nav>li>a {
   padding-top: 5px;
   padding-bottom: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .tab-content {
@@ -194,7 +194,7 @@ p.caption {
 .page-capitulo1 .intro {
   background-image: url('../img/cap1_home.jpg');
 }
-.page-capitulo1 .navbar li {
+.page-capitulo1 .intro .navbar li {
   width: 20%;
 }
 .page-capitulo1 h3 {
@@ -277,4 +277,19 @@ p.caption {
   border: 1px solid #ddd;
   box-shadow: 0 0 10px 1px rgba(0,0,0,0.5);
   margin-bottom: 20px;
+}
+
+.dropdown img {
+  width: auto;
+  height: 22px;
+  margin-top: -6px;
+}
+.dropdown>a {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #ddd !important;
+}
+.dropdown-menu>li>a {
+  font-size: 20px;
 }
