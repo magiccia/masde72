@@ -197,7 +197,7 @@ p.caption {
 .page-capitulo1 .intro .navbar li {
   width: 20%;
 }
-.page-capitulo1 h3 {
+.page-capitulo1 section h3 {
   font-size: 14px;
   text-transform: uppercase;
   margin-top: 0;
@@ -213,7 +213,7 @@ p.caption {
   opacity: 0.8;
   text-shadow: 0 0 4px rgba(0,0,0,0.6);
 }
-.page-capitulo2 .navbar li {
+.page-capitulo2 .intro .navbar li {
   width: 20%;
   font-size: 16px;
 }
@@ -236,7 +236,7 @@ p.caption {
   bottom: 10px;
   font-size: 24px;
 }
-.page-capitulo3 .navbar li {
+.page-capitulo3 .intro .navbar li {
   width: 25%;
 }
 .page-capitulo3 section {
@@ -279,7 +279,7 @@ p.caption {
   margin-bottom: 20px;
 }
 
-.dropdown img {
+.navbar img {
   width: auto;
   height: 22px;
   margin-top: -6px;
@@ -292,4 +292,9 @@ p.caption {
 }
 .dropdown-menu>li>a {
   font-size: 20px;
+}
+.navbar-header img {
+  height: 30px;
+  margin: 9px 0 0 8px;
+  float: left;
 }

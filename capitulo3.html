@@ -1,24 +1,24 @@
 {% extends "_masde72_base.html" %}
 
 {% block content %}
-<nav class="section-nav navbar navbar-default navbar-fixed-top" role="navigation">
-  <ul class="nav navbar-nav">
-    <li class="active"><a href="#juliard">Juliard</a></li>
-    <li><a href="#nancy">Nancy</a></li>
-    <li><a href="#wilmer">Wilmer</a></li>
-    <li><a href="#yeimi">Yeimi</a></li>
-  </ul>
-</nav>
+
+{% set nav_sections = [
+  ('juliard', 'Juliard'),
+  ('nancy', 'Nancy'),
+  ('wilmer', 'Wilmer'),
+  ('yeimi', 'Yeimi'),
+] %}
+
+{% include "_fixed_nav.html" %}
 
 <div class="intro">
   <h2>Capítulo 3</h2>
   <h1>"Las Víctimas"</h1>
   <nav class="navbar" role="navigation">
     <ul class="nav navbar-nav">
-      <li><a href="#juliard">Juliard</a></li>
-      <li><a href="#nancy">Nancy</a></li>
-      <li><a href="#wilmer">Wilmer</a></li>
-      <li><a href="#yeimi">Yeimi</a></li>
+      {% for id, title in nav_sections %}
+      <li><a href="#{{ id }}">{{ title }}</a></li>
+      {% endfor %}
     </ul>
   </nav>
 

@@ -2,15 +2,15 @@
 
 {% block content %}
 
-<nav class="section-nav navbar navbar-default navbar-fixed-top" role="navigation">
-  <ul class="nav navbar-nav">
-    <li class="active"><a href="#levantamiento">Los Cuerpos</a></li>
-    <li><a href="#autopsias">Autopsias</a></li>
-    <li><a href="#repatriacion-honduras">Repatriación de Hondureños</a></li>
-    <li><a href="#translado">Translado terrestre</a></li>
-    <li><a href="#repatriaciones">Nuevas Repatriaciones</a></li>
-  </ul>
-</nav>
+{% set nav_sections = [
+  ('levantamiento', 'Los Cuerpos'),
+  ('autopsias', 'Autopsias'),
+  ('repatriacion-honduras', 'Repatriación de Hondureños'),
+  ('translado', 'Translado terrestre'),
+  ('repatriaciones', 'Nuevas Repatriaciones'),
+] %}
+
+{% include "_fixed_nav.html" %}
 
 <div class="intro">
   <h2>Capítulo 2</h2>
@@ -18,11 +18,9 @@
 
   <nav class="navbar" role="navigation">
     <ul class="nav navbar-nav">
-      <li><a href="#levantamiento">Los Cuerpos</a></li>
-      <li><a href="#autopsias">Autopsias</a></li>
-      <li><a href="#repatriacion-honduras">Repatriación de Hondureños</a></li>
-      <li><a href="#translado">Translado a las Cd. de México</a></li>
-      <li><a href="#repatriaciones">Nuevas Repatriaciones</a></li>
+      {% for id, title in nav_sections %}
+      <li><a href="#{{ id }}">{{ title }}</a></li>
+      {% endfor %}
     </ul>
   </nav>
 </div>
