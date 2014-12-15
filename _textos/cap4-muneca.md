@@ -25,8 +25,8 @@ Fue entregada por su propia madre. La PGR daba una recompensa de 430 mil dólare
 [- Comunicado oficial PGR](http://www.pgr.gob.mx/prensa/2007/bol11/abr/386.pdf) 
 
 
-- La Jornada
-http://www.jornada.unam.mx/2011/06/11/politica/010n1pol  
+[- La Jornada](http://www.jornada.unam.mx/2011/06/11/politica/010n1pol )
+ 
 
-- Presidencia 
-http://calderon.presidencia.gob.mx/2011/07/se-inicia-proceso-penal-a-181-personas-consignadas-por-la-siedo-durante-junio/ 
+[- Presidencia](http://calderon.presidencia.gob.mx/2011/07/se-inicia-proceso-penal-a-181-personas-consignadas-por-la-siedo-durante-junio/ ) 
+
