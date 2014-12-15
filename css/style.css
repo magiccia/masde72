@@ -310,15 +310,22 @@ p.caption {
   text-decoration: none;
 }
 .chapter-nav a .direction-label {
-  font-size: 13px;
+  font-size: 12px;
   line-height: 1;
-  margin-bottom: 4px;
+  margin-bottom: 2px;
   color: #666;
 }
 .chapter-nav a .title {
   color: #444;
+  font-size: 24px;
 }
 .chapter-nav a:hover .title {
   color: #000;
   text-decoration: underline;
+}
+.chapter-nav .previous {
+  text-align: right;
+}
+.chapter-nav a .title i {
+  font-size: 15px;
 }
