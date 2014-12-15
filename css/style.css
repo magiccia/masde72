@@ -186,7 +186,10 @@ p.caption {
   margin-top: 15px;
   margin-bottom: 50px;
 }
-
+.page-index {
+  padding: 0;
+  overflow: hidden;
+}
 
 .page-capitulo1 .intro {
   background-image: url('../img/cap1_home.jpg');
