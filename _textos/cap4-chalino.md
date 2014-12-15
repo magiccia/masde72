@@ -33,17 +33,13 @@ No se tiene claridad si se encuentra en  el CEFERESO número 4 "El Rincón" en T
 
 ### Fuentes:
 
-Notisur
-http://issuu.com/notisurcoatza2012/docs/notisur_07noviembre2012
+[Notisur](http://issuu.com/notisurcoatza2012/docs/notisur_07noviembre2012)
 
-Prisión a ocho zetas por masacre en San Fernando - El Universal
-http://www.eluniversal.com.mx/notas/716759.html
+[Prisión a ocho zetas por masacre en San Fernando - El Universal](http://www.eluniversal.com.mx/notas/716759.html)
 
-Identifican a 4 ligados a masacre- Agencias
-http://www.elimparcial.com/EdicionEnLinea/Notas/Nacional/08092010/467675.aspx
+[Identifican a 4 ligados a masacre- Agencias](http://www.elimparcial.com/EdicionEnLinea/Notas/Nacional/08092010/467675.aspx)
 
-Destaca Segob avances por fosas de San Fernando - La Razón
-http://www.razon.com.mx/spip.php?article89189
+[Destaca Segob avances por fosas de San Fernando - La Razón](http://www.razon.com.mx/spip.php?article89189)
 
-Ordena IFAI entregar documentos sobre multihomicidio de San Fernando - La Crónica 
-http://www.cronica.com.mx/notas/2014/852545.html
+[Ordena IFAI entregar documentos sobre multihomicidio de San Fernando - La Crónica](http://www.cronica.com.mx/notas/2014/852545.html)
+
