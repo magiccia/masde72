@@ -1,1 +1,1 @@
-La noticia llegó a los medios de comunicación xxx, pero fue embargada hasta el aviso.  
+La noticia llegó a los medios de comunicación, pero fue embargada hasta el aviso.  
