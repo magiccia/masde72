@@ -11,16 +11,21 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8">
-        {# info #}
         <h2>{{ persona.nombre }}</h2>
-        <p>Alias: "{{ persona.alias }}"</p>
-        {% if persona.edad %}<p>Edad: {{ persona.edad }}</p>{% endif %}
-        {% if persona.origen %}<p>Origen: {{ persona.origen }}</p>{% endif %}
+        <div class="info">
+          <p><em>Alias:</em> "{{ persona.alias }}"</p>
+          {% if persona.edad %}<p><em>Edad:</em> {{ persona.edad }}</p>{% endif %}
+          {% if persona.origen %}<p><em>Origen:</em> {{ persona.origen }}</p>{% endif %}
+        </div>
+
         {{read_file("_textos/cap4-%s.md" % persona.id)|markdown}}
       </div>
-      <div class="col-md-4">
-        {# foto #}
+      <div class="col-md-4 info">
+        {% if persona.unknown_image %}
+        <img src="img/cap4_unknown.jpg" class="img-responsive">
+        {% else %}
         <img src="img/cap4_{{ persona.id }}.jpg" class="img-responsive">
+        {% endif %}
       </div>
     </div>
   </div>

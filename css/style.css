@@ -103,6 +103,69 @@ section {
   text-shadow: 0 0 4px rgba(255, 255, 255, 0.7);
 }
 
+.intro .intro-video {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+}
+.intro .intro-video iframe {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+.intro .logos {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  height: 90px;
+  z-index: 20;
+}
+.intro .logos img {
+  width: auto;
+  margin: 12px 5px;
+}
+.intro .logos .periodistas-logo {
+  height: 72px;
+  margin: 8px 18px 0 0;
+}
+.intro .logos .connectas-logo {
+  height: 48px;
+  margin: 6px 0 0 18px;
+}
+.row.photos {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+.photos img {
+  margin-bottom: 20px;
+}
+.video {
+  margin: 30px 0;
+}
+.timeline {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+p.caption {
+  margin-top: -10px;
+  font-size: 14px;
+  text-align: right;
+  font-style: italic;
+  color: #666;
+}
+.map img {
+  margin-top: 15px;
+  margin-bottom: 50px;
+}
+
+
 .page-capitulo1 .intro {
   background-image: url('../img/cap1_home.jpg');
 }
@@ -182,65 +245,11 @@ section {
 .page-capitulo4 .intro {
   background-image: url('../img/cap4_back.jpg');
 }
-
-.intro .intro-video {
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  top: 0;
+.page-capitulo4 .info {
+  font-family: "Sanchez", serif;
 }
-.intro .intro-video iframe {
-  position: absolute;
-  left: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 10;
-}
-.intro .logos {
-  position: absolute;
-  width: 100%;
-  bottom: 0;
-  left: 0;
-  background-color: #fff;
-  height: 90px;
-  z-index: 20;
-}
-.intro .logos img {
-  width: auto;
-  margin: 12px 5px;
-}
-.intro .logos .periodistas-logo {
-  height: 72px;
-  margin: 8px 18px 0 0;
-}
-.intro .logos .connectas-logo {
-  height: 48px;
-  margin: 6px 0 0 18px;
-}
-.row.photos {
-  margin-top: 35px;
-  margin-bottom: 35px;
-}
-.photos img {
+.page-capitulo4 section img {
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px 1px rgba(0,0,0,0.5);
   margin-bottom: 20px;
-}
-.video {
-  margin: 30px 0;
-}
-.timeline {
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-p.caption {
-  margin-top: -10px;
-  font-size: 14px;
-  text-align: right;
-  font-style: italic;
-  color: #666;
-}
-.map img {
-  margin-top: 15px;
-  margin-bottom: 50px;
 }
