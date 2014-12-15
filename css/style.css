@@ -2,7 +2,6 @@ body {
   position: relative;
   font-size: 18px;
   font-family: Georgia, serif;
-  padding-bottom: 30px;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -297,4 +296,29 @@ p.caption {
   height: 30px;
   margin: 9px 0 0 8px;
   float: left;
+}
+.chapter-nav {
+  font-family: "Sanchez", serif;
+  margin-top: 40px;
+  background-color: #ccc;
+  padding: 20px;
+}
+.chapter-nav p {
+  margin-bottom: 0;
+}
+.chapter-nav a:hover {
+  text-decoration: none;
+}
+.chapter-nav a .direction-label {
+  font-size: 13px;
+  line-height: 1;
+  margin-bottom: 4px;
+  color: #666;
+}
+.chapter-nav a .title {
+  color: #444;
+}
+.chapter-nav a:hover .title {
+  color: #000;
+  text-decoration: underline;
 }
