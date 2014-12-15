@@ -19,16 +19,12 @@ Al momento de su detención mantenía a una mujer de 35 años secuestrada, que l
 
 ### Fuentes:
 
-El Ejército captura a otro zeta implicado en la masacre de San Fernando - CNN México 
+[El Ejército captura a otro zeta implicado en la masacre de San Fernando - CNN México](http://mexico.cnn.com/nacional/2011/06/30/el-ejercito-captura-a-otro-zeta-en-relacion-con-la-masacre-de-san-fernando)
 
-http://mexico.cnn.com/nacional/2011/06/30/el-ejercito-captura-a-otro-zeta-en-relacion-con-la-masacre-de-san-fernando
 
-El "Erasmo" participó en masacre de migrantes - San Diego Red
+[El "Erasmo" participó en masacre de migrantes - San Diego Red](http://www.sandiegored.com/noticias/14472/El-Erasmo-participo-en-masacre-de-migrantes/)
 
-http://www.sandiegored.com/noticias/14472/El-Erasmo-participo-en-masacre-de-migrantes/
+[Presentan a ‘El Erasmo’, autor de muertes en San Fernando - La Policíaca](http://www.lapoliciaca.com/nota-roja/presentan-a-el-erasmo-autor-de-muertes-en-san-fernando/)
 
-Presentan a ‘El Erasmo’, autor de muertes en San Fernando - La Policíaca
-
-http://www.lapoliciaca.com/nota-roja/presentan-a-el-erasmo-autor-de-muertes-en-san-fernando/
 
 
