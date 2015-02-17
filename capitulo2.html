@@ -2,6 +2,17 @@
 
 {% block content %}
 
+{% set chapter_nav = {
+  'previous': {
+    'file': 'capitulo1.html',
+    'title': '1. "La Masacre"',
+  },
+  'next': {
+    'file': 'capitulo3.html',
+    'title': '3. "Las Victimas"',
+  }
+} %}
+
 {% set nav_sections = [
   ('levantamiento', 'Los Cuerpos'),
   ('autopsias', 'Autopsias'),
@@ -289,24 +300,6 @@ En abril de ese año ocurrió el hallazgo de nuevas fosas, también en san Ferna
   </div>
 </section>
 
-
-<div class="chapter-nav">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-xs-4 previous">
-        <a href="capitulo1.html">
-          <p class="direction-label">CAPÍTULO ANTERIOR</p>
-          <p class="title"> <i class="glyphicon glyphicon-chevron-left"></i> 1. "La Masacre"</p>
-        </a>
-      </div>
-      <div class="col-xs-4 col-xs-offset-4 next">
-        <a href="capitulo3.html">
-          <p class="direction-label">SIGUIENTE CAPÍTULO</p>
-          <p class="title">3. "Las Victimas" <i class="glyphicon glyphicon-chevron-right"></i></p>
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
+{% include "_chapter_nav.html" %}
 
 {% endblock content %}

@@ -2,6 +2,13 @@
 
 {% block content %}
 
+{% set chapter_nav = {
+  'next': {
+    'file': 'capitulo2.html',
+    'title': '2. "Después de La Masacre"',
+  },
+} %}
+
 {% set nav_sections = [
   ('la-matanza', 'La Matanza'),
   ('los-sobrevivientes', 'Los Sobrevivientes'),
@@ -81,16 +88,7 @@
 
 
 </div>
-<div class="chapter-nav">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-xs-4 col-xs-offset-8 next">
-        <a href="capitulo2.html">
-          <p class="direction-label">SIGUIENTE CAPÍTULO</p>
-          <p class="title">2. "Después de La Masacre" <i class="glyphicon glyphicon-chevron-right"></i></p>
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
+
+{% include '_chapter_nav.html' %}
+
 {% endblock content %}
