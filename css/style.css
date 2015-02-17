@@ -143,7 +143,7 @@ section {
 .intro .intro-content img {
   width: 300px;
   margin-top: 30px;
-  margin-bottom: 8vmax;
+  margin-bottom: 5vmin;
 }
 .intro .logos {
   position: absolute;
