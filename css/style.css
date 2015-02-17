@@ -352,7 +352,8 @@ p.caption {
   background-color: #fff;
 }
 
-.page-capitulo4 h2, .page-capitulo4 h3,
-.page-capitulo4 h4 {
+.page-capitulo4 section h2,
+.page-capitulo4 section h3,
+.page-capitulo4 section h4 {
   text-align: left;
 }
