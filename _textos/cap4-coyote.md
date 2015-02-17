@@ -6,8 +6,6 @@ Lugarteniente. Tras la caída de  Miguel Ángel Treviño Morales, el “Z-40”,
 
 delincuencia organizada, privación ilegal de la libertad en la modalidad de secuestro y violación a la Ley Federal de Armas de Fuego y Explosivos.
 
-#### Años de sentencia: 
-
 #### Detenido en:
 
 Presuntamente en Puente Grande, Jalisco.

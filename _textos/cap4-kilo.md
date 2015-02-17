@@ -1,16 +1,10 @@
-#### Biografía:
-
 #### Delitos de los que se le acusa:
 
 Delincuencia organizada, homicidio, privación ilegal de la libertad.
 
 #### Años de sentencia:
 
-#### Detenido en:
-
 Centro Federal de Readaptación Social (CEFERESO) número 5, Villa Aldama, Veracruz.
-
-#### Comentarios: 
 
 #### Fuentes:
 

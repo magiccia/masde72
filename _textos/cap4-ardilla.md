@@ -6,10 +6,7 @@ Duró cerca de un año en el Centro de Readaptación Social Duport-Ostión de Co
 
 #### Delitos de los que se le acusa:  
 
-Delincuencia organizada, privación ilegal de la libertad en modalidad de secuestro, violación a la Ley General de Armas de Fuego y Explosivos, presunto autor intelectual de la muerte de 72 indocumentados localizados en San Fernando, Tamaulipas, en agosto de 2010, autor de 320 homicidios cometidos de 2010 a la fecha, así como de tener participación en la fuga de 282 reos en ese periodo, 131 de los cuales escaparon en el 2012 del penal de Piedras Negras, Coahuila. También se le responsabiliza del asesinato del estadunidense David Michael Hartley, crimen perpetrado el 30 de septiembre de 2010 en la presa Falcón, en Nuevo Laredo. Asimismo del asesinato del comandante de la policía ministerial de la citada localidad, Rolando Flores Villegas .
-
-
-#### Años de sentencia:
+Delincuencia organizada, privación ilegal de la libertad en modalidad de secuestro, violación a la Ley General de Armas de Fuego y Explosivos, presunto autor intelectual de la muerte de 72 indocumentados localizados en San Fernando, Tamaulipas, en agosto de 2010, autor de 320 homicidios cometidos de 2010 a la fecha, así como de tener participación en la fuga de 282 reos en ese periodo, 131 de los cuales escaparon en el 2012 del penal de Piedras Negras, Coahuila. También se le responsabiliza del asesinato del estadunidense David Michael Hartley, crimen perpetrado el 30 de septiembre de 2010 en la presa Falcón, en Nuevo Laredo. Asimismo del asesinato del comandante de la policía ministerial de la citada localidad, Rolando Flores Villegas.
 
 #### Detenido en:
 

@@ -4,8 +4,6 @@
 
 Delincuencia organizada, privación ilegal de la libertad en su modalidad de causar daño en agravio de 72 personas de origen centroamericano, violación a la Ley Federal de Armas de Fuego y Explosivos, portación de armas de fuego y posesión de cartucho, ambos de uso exclusivo del Ejército, Armada y Fuerza Aérea; corrupción de personas menores de 18 años, homicidio con modificativa agravante de ventaja en grado de tentativa en agravio de Luis Fredi Lala Pomavilla, y homicidio calificado por 72 personas de origen centroamericano. 
 
-#### Años de sentencia:
-
 #### Detenido en:
 
 No se tiene claridad si se encuentra en  el CEFERESO número 4 "El Rincón" en Tepic, Nayarit, o en el CEFERESO número 5 Oriente, en el Municipio de Villa Aldama, Veracruz.
