@@ -100,7 +100,7 @@ section {
   padding: 5px;
 }
 .intro .navbar .nav {
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 1);
 }
 .intro a {
   color: #000;
@@ -220,10 +220,6 @@ p.caption {
 .page-capitulo2 .intro .navbar li {
   width: 20%;
   font-size: 16px;
-}
-.page-capitulo2 .intro a {
-  color: #fff;
-  text-shadow: 0 0 4px rgba(0, 0, 0, 0.7);
 }
 
 .page-capitulo3 h1, .page-capitulo3 h2, .page-capitulo3 h3 {
