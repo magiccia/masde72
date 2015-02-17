@@ -1,4 +1,4 @@
-Wilmer XXX salió de San Pedro Sula acompañado de su sobrino Joan Adolfo y tres amigos con los que este se había criado en la conflictiva colonia Planeta. Los cinco se iban reportando a casa desde el camino.
+Wilmer salió de San Pedro Sula acompañado de su sobrino Joan Adolfo y tres amigos con los que este se había criado en la conflictiva colonia Planeta. Los cinco se iban reportando a casa desde el camino.
 
 
 A sus 28 años Wilmer era el más experimentado de todos. Conocía la ruta y tenía prisa por regresar porque su mujer acababa de dar a luz en California y estaba sola con su hija de dos años. El no pudo festejar porque lo deportaron por no pagar una multa de tránsito. En San Pedro Sula, su lugar de nacimiento y a donde no había regresado en diez años, duró sólo cuatro días, tenía prisa por volver.
