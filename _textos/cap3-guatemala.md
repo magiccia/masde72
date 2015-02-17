@@ -1,4 +1,4 @@
- El cuerpo de Nancy Pineda estuvo más de 6 meses en el Servicio Médico Forense del  Distrito Federal esperando ser identificado. ESTO A PESAR DE QUE MURIÓ CON CUATRO FAMILIARES, TODOS IDENTIFICADOS AL ACTO, Y QUE LA FAMILIA INSITIA EN QUE ELLA ESTABA ENTRE LOS MASACRADOS. 
+ El cuerpo de Nancy Pineda estuvo más de 6 meses en el Servicio Médico Forense del  Distrito Federal esperando ser identificado. Esto a pesar de que murió con cuatro familiares, todos identificados al acto, y que la familia insistia en que ella estaba entre los masacrados.
 
  Originaria la aldea de Sipacate, en la región de Escuintla, Guatemala, Nancy tenìa 25 años y dos hijos cuando decidió realizar el viaje a Iowa. Iba con su padre Efraín, su hermano Richard y su prima Mayra. Todos fueron asesinados en San Fernando. 
 

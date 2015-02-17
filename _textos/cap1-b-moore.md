@@ -1,18 +1,11 @@
 El gobierno afirmó que el único sobreviviente de la masacre milagrosamente salió del lugar para contar la historia. El sobreviviente, según la versión gubernamental, era un pequeño y joven indígena de 18 años, proveniente de una aldea de los Andes ecuatorianos. Sin duda este individuo existió y fue herido en la matanza. Se dijo que recibió un disparo por parte de Los Zetas juntos con sus 72 compañeros, pero se dijo también que se hizo el muerto hasta que Los Zetas dejaron el lugar del crimen. Después, a pesar de las heridas, el incansable sobreviviente supuestamente corrió épicamente por más de 16 kilómetros, hasta llegar -casi como un milagro- hasta el retén operado por la Marina mexicana. 
 
 
-OJO EL TIENE FOTOS 
-
  El joven ecuatoriano nunca fue presentado a la prensa (fue enviado pronto a Ecuador bajo protección incluso allá), pero relató una historia que difiere un poco  de la historia contada por el gobierno, antes de desaparecer para siempre en un programa de protección para testigos…. que la prensa ha omitido sobre esta realidad es que esta zona del país es casi como un paisaje lunar, vacío, donde no hay testigos. Incluso en los desiertos más inhóspitos -y esta tierra de cultivo cercana a la costa no es ningún desierto- un impresionante número de personas pueden llevar sus vidas, hablar con sus vecinos, y formar una densa red de información. Un año después, algunas de estas personas aún no hablarían, pero muchos lo hacen, al menos lo suficiente para llegar a un consenso en la historia de la masacre desde una perspectiva independiente a la del gobierno.  
 
 Índices geográficos concuerdan con los residentes en el nombre correcto. El cobertizo del rancho abandonado donde se llevó a cabo la masacre está en una calle empedrada y lodosa llamada La Noventa, la cual está a 16 kilómetros de la carretera federal 101. El retén de la Marina en la historia del sobreviviente estaba en esta avenida, alrededor de la marca con el kilómetro 114, en una desviación que lleva a la carretera principal.
 
-  MAS FOTOS DE SU BLOG
-
   Estos 16 kilómetros (10 millas) son lo mínimo que el sobreviviente herido habría tenido que correr de forma “impresionante”. Sin embargo, los habitantes del lugar conceden esta posibilidad encogiendo los hombros, no tienen duda de que el ecuatoriano realmente lo haya hecho. Los habitantes dieron más contexto con el que coincidían con la historia oficial del sobreviviente, pero que dio mayor información que compagina cosas que parecían auténticos milagros. 
-
-
- FOTOS 
 
  A pesar de que mucha de esta carrera nocturna que habría realizado el sobreviviente fue realizada sobre la carretera 90, los vecinos afirman que el ecuatoriano corrió hacia el norte cuando vio una luz distante. También afirmaron que la luz estaba en un amplio almacén de granos y soya que estaba cerrado, donde sólo estaba el vigilante en servicio y todos los entrevistados parecían conocerle según reporta el enviado de *Insight Crime*. Algunos, aún más específicamente, afirmaron que la luz estaba en un poste enfrente del almacén en una estación de inspección de ganado -la Estación 10- que esa noche estaba desierta. 
 

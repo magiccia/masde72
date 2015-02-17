@@ -16,4 +16,4 @@ El minero Juliard Aires Fernándes nunca regresó a su casa, en Minas Gerais. Su
 
  Tiempo después se supo que las autoridades mexicanas habían trasladado el cadáver a Honduras, donde fue enterrado y el cuerpo devuelto a México, donde fue enviado a la fosa común. 
 
- Los familiares denunciaron que han recibido llamadas amenzantes, en una les  recomendaron “hablar poco o nada si quieren continuar con vida”. Para ellos, “la cosa” que enterraron en el cementerio de Sardoá no es Juliard.  * 
+ Los familiares denunciaron que han recibido llamadas amenzantes, en una les  recomendaron “hablar poco o nada si quieren continuar con vida”. Para ellos, “la cosa” que enterraron en el cementerio de Sardoá no es Juliard.

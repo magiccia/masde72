@@ -2,7 +2,7 @@ El sábado 21 de agosto de 2010 fueron subidos por *los coyotes *a dos camiones 
 
  A las diez de la noche fueron interceptados y subidos a un camión de redilas. Una hora y media después del secuestro, los autos pararon en el ejido El Huizachal. Amarrados de cuadro en cuatro, con las paredes atadas para atrás. 
 
- El domingo fue un día de torturas y golpes a cargo de los esbirros comandados por un sujeto de 22 años, Édgar Huerta Montiel, alias *el Wache*. Otro de los sicarios era Martín Omar Estrada Luna, alias *el Kilo*.  
+ El domingo fue un día de torturas y golpes a cargo de los esbirros comandados por un sujeto de 22 años, Édgar Huerta Montiel, alias "El Wache". Otro de los sicarios era Martín Omar Estrada Luna, alias *el Kilo*.  
 
 Les preguntaron quién quería ser sicario. Sólo uno dijo que sí. 
 
