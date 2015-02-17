@@ -1,0 +1,28 @@
+{% if chapter_nav.previous %}
+  {% set next_class = "col-xs-offset-4" %}
+{% else %}
+  {% set next_class = "col-xs-offset-8" %}
+{% endif %}
+
+<div class="chapter-nav">
+  <div class="container-fluid">
+    <div class="row">
+      {% if chapter_nav.previous %}
+      <div class="col-xs-4 previous">
+        <a href="{{ chapter_nav.previous.file }}">
+          <p class="direction-label">CAPÍTULO ANTERIOR</p>
+          <p class="title"> <i class="glyphicon glyphicon-chevron-left"></i> {{ chapter_nav.previous.title }}</p>
+        </a>
+      </div>
+      {% endif %}
+      {% if chapter_nav.next %}
+      <div class="col-xs-4 {{ next_class }} next">
+        <a href="{{ chapter_nav.next.file }}">
+          <p class="direction-label">SIGUIENTE CAPÍTULO</p>
+          <p class="title">{{ chapter_nav.next.title }} <i class="glyphicon glyphicon-chevron-right"></i></p>
+        </a>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
