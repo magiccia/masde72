@@ -7,6 +7,7 @@ body {
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Sanchez', serif;
   color: #000;
+  line-height: 1.2;
 }
 
 h2 {
@@ -332,4 +333,20 @@ p.caption {
 }
 .chapter-nav a .title i {
   font-size: 15px;
+}
+
+.culpable-header-wrapper h2 {
+  margin-bottom: 0;
+  text-align: left;
+}
+.culpable-header-wrapper {
+  margin-bottom: 30px;
+  padding: 15px 0;
+}
+
+.page-capitulo4 section {
+  padding-top: 0;
+  padding-bottom: 5vmax;
+  box-shadow: 0 0 15px 1px rgba(0,0,0,.7);
+  background-color: #fff;
 }
