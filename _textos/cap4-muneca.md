@@ -1,20 +1,20 @@
-### Biografía:
+#### Biografía:
 
-### Delitos de los que se le acusa: 
+#### Delitos de los que se le acusa: 
 
 Delito de delincuencia organizada con la finalidad de cometer delitos contra la salud en la modalidad de posesión con fines de comercio de clorhidrato de cocaína y marihuana.
 
-### Años de sentencia:
+#### Años de sentencia:
 
-### Detenido en:
+#### Detenido en:
 
 Penal de Nayarit
 
-### Comentarios:
+#### Comentarios:
 
 Fue entregada por su propia madre. La PGR daba una recompensa de 430 mil dólares por información para capturarla. Su mamá reclama el dinero.  La muñeca era novia de Omar Martín Estrada Luna, “el Kilo”, del cártel de los Zetas.  [Imágenes de Saraí y el Kilo](http://elfindemexico.blogspot.mx/2011/04/imagenes-de-el-comandante-kilo-y-sus.html )
 
-### Fuentes:
+#### Fuentes:
 
 [- Blog del Narco](http://www.blogdelnarco.com/2011/04/fabiola-sarai-diaz-arroyo-alias-la-fila.html)
 
