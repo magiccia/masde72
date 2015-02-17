@@ -1,23 +1,23 @@
-### Biografía:
+#### Biografía:
 
 Lugarteniente. Tras la caída de  Miguel Ángel Treviño Morales, el “Z-40”, la organización "los Zetas" quedó bajo el mando del hermano menor  Omar Treviño Morales, El Z-42.  Desde 31 de enero, Román Ricardo Palomo Rincones, alias “El Coyote” se encontraba prófugo.
 
-### Delitos de los que se le acusa:
+#### Delitos de los que se le acusa:
 
 delincuencia organizada, privación ilegal de la libertad en la modalidad de secuestro y violación a la Ley Federal de Armas de Fuego y Explosivos.
 
-### Años de sentencia: 
+#### Años de sentencia: 
 
-### Detenido en:
+#### Detenido en:
 
 Presuntamente en Puente Grande, Jalisco.
 
-### Comentarios:
+#### Comentarios:
 
 [Acuerdo de gobierno que pedía recompensa por su captura](http://www.pgr.gob.mx/Normatec/Documentos/a-38-11.pdf). 
 Cayó junto con tres personas más identificadas como:  José Eder Ruiz Valero, 27 años; Lorenzo Reyes Requena, 18 años y Juan Francisco Robles Martínez, 34 años. 
 
-### Fuentes:
+#### Fuentes:
 
 [Así queda la estructura de Los Zetas tras la captura del “Z-40" - Animal Político](http://www.animalpolitico.com/2013/07/asi-queda-la-estructura-de-los-zetas-tras-la-captura-del-40/)
 

@@ -1,16 +1,16 @@
-### Biografía:
+#### Biografía:
 
-### Delitos de los que se le acusa:
+#### Delitos de los que se le acusa:
 
 Homicidio, delincuencia organizada, secuestro, tenencia ilícita de armas
 
-### Años de sentencia:
+#### Años de sentencia:
 
-### Detenido en: 
+#### Detenido en: 
 
 No se tiene claridad si se encuentra en  el CEFERESO número 4 "El Rincón" en Tepic, Nayarit, o en el CEFERESO número 5 Oriente, en el Municipio de Villa Aldama, Veracruz.
 
-### Fuentes:
+#### Fuentes:
 
 [PGR](www.pgr.gob.mx/Prensa/2007/bol10/oct/1189.pdf)
 
