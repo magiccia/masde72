@@ -347,6 +347,12 @@ p.caption {
 .page-capitulo4 section {
   padding-top: 0;
   padding-bottom: 5vmax;
+  border-top: 1px solid #666;
   box-shadow: 0 0 15px 1px rgba(0,0,0,.7);
   background-color: #fff;
+}
+
+.page-capitulo4 h2, .page-capitulo4 h3,
+.page-capitulo4 h4 {
+  text-align: left;
 }
