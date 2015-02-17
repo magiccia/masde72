@@ -7,9 +7,6 @@
 
 Delincuencia organizada, privación ilegal de la libertad en modalidad de secuestro, homicidio, portación de arma de fuego y posesión de cartuchos de uso exclusivo de las Fuerzas Armadas, delitos contra la salud en la modalidad de comercialización de marihuana.
 
-#### Años de sentencia: 
-
-
 #### Detenido en: 
 
 Centro Federal de Readaptación Social (Cefereso) 'Noroeste', ubicado en Matamoros, Tamaulipas.

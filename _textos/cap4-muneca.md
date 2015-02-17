@@ -1,10 +1,6 @@
-#### Biografía:
-
 #### Delitos de los que se le acusa: 
 
 Delito de delincuencia organizada con la finalidad de cometer delitos contra la salud en la modalidad de posesión con fines de comercio de clorhidrato de cocaína y marihuana.
-
-#### Años de sentencia:
 
 #### Detenido en:
 

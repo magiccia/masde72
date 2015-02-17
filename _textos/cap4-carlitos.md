@@ -1,10 +1,6 @@
-#### Biografía:
-
 #### Delitos de los que se le acusa:
 
 Delincuencia organizada, privación ilegal de la libertad en su modalidad de causar daño en agravio de 72 personas de origen centroamericano, violación a la Ley Federal de Armas de Fuego y Explosivos, portación de armas de fuego y posesión de cartucho, ambos de uso exclusivo del Ejército, Armada y Fuerza Aérea; corrupción de personas menores de 18 años, homicidio con modificativa agravante de ventaja en grado de tentativa en agravio de Luis Fredi Lala Pomavilla, y homicidio calificado por 72 personas de origen centroamericano. 
-
-#### Años de sentencia: 
 
 #### Detenido en: 
 

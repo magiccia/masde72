@@ -6,9 +6,6 @@ No existe una precisión exacta de cuando Barrios Caporal ingresó a Los Zetas, 
 
 Delincuencia organizada, privación ilegal de la libertad en la modalidad de secuestro, homicidio calificado de 72 personas, posesión de cartuchos para armas de fuego de uso exclusivo del Ejército, Armada y Fuerza Aérea.
 
-#### Años de sentencia:
-
-
 #### Detenido en:
 
 Centro Federal de Readaptación Social número 5, Oriente, ubicado en Villa Aldama, Veracruz.

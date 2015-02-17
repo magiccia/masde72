@@ -25,8 +25,6 @@ Estas personas son:
 
 Delincuencia organizada, privación ilegal de la libertad en su modalidad de causar daño en agravio de 72 migrantes, violación a la Ley Federal de Armas de Fuego y Explosivos, corrupción de menores y homicidio con modificativa agravante de ventaja en grado de tentativa en agravio del ecuatoriano Lala Pomavilla, así como homicidio calificado de 72 personas.
 
-#### Años de sentencia:
-
 #### Detenido en: 
 
 No se tiene claridad si se encuentra en  el CEFERESO número 4 "El Rincón" en Tepic, Nayarit, o en el CEFERESO número 5 Oriente, en el Municipio de Villa Aldama, Veracruz.
