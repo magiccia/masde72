@@ -1,12 +1,12 @@
-#### Delitos de los que se le acusa:
+#### **Delitos de los que se le acusa:**
 
 Delincuencia organizada, homicidio, privación ilegal de la libertad.
 
-#### Años de sentencia:
+#### **Años de sentencia:**
 
 Centro Federal de Readaptación Social (CEFERESO) número 5, Villa Aldama, Veracruz.
 
-#### Fuentes:
+#### **Fuentes:**
 
 [Arraigan a presunto responsable de masacre en Tamaulipas - Animal Político](http://www.animalpolitico.com/2011/04/arraigan-a-presunto-responsable-de-masacre-en-tamaulipas/)
 

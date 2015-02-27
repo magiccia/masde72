@@ -1,4 +1,4 @@
-#### Biografía:
+#### **Biografía:**
 
 No se tiene mucha información biográfica de Jesús García Alfaro "El Chalino o el Negro" ni cual era su rol exacto dentro de Los Zetas. Igualmente su proceso no ha sido clarificado a nivel público más que los comunicados que la PGR emitió tras su captura y consignación al CEFERESO. A más de cuatro años de la masacre, la PGR no ha dado a conocer el estado que guardan los procesos para castigar a los responsables
 García Alfaro es detenido el 7 de septiembre por elementos de la Marina en las inmediaciones de San Fernando, después de la detención (el 3 del mismo mes) de cuatro hombres identificados como parte de Los Zetas.
@@ -21,15 +21,15 @@ Estas personas son:
 
 8.- Eduardo Rico Pérez
 
-### Delitos de los que se le acusa:
+#### **Delitos de los que se le acusa:**
 
 Delincuencia organizada, privación ilegal de la libertad en su modalidad de causar daño en agravio de 72 migrantes, violación a la Ley Federal de Armas de Fuego y Explosivos, corrupción de menores y homicidio con modificativa agravante de ventaja en grado de tentativa en agravio del ecuatoriano Lala Pomavilla, así como homicidio calificado de 72 personas.
 
-#### Detenido en: 
+#### **Detenido en:** 
 
 No se tiene claridad si se encuentra en  el CEFERESO número 4 "El Rincón" en Tepic, Nayarit, o en el CEFERESO número 5 Oriente, en el Municipio de Villa Aldama, Veracruz.
 
-#### Fuentes:
+#### **Fuentes:**
 
 [Notisur](http://issuu.com/notisurcoatza2012/docs/notisur_07noviembre2012)
 

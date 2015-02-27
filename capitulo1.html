@@ -14,6 +14,7 @@
   ('los-sobrevivientes', 'Los Sobrevivientes'),
   ('el-hallazgo', 'El Hallazgo'),
   ('la-hipotesis', 'La Hipótesis'),
+  ('contexto', 'Sobre San Fernando'),
 ] %}
 
 {% include "_fixed_nav.html" %}
@@ -32,12 +33,13 @@
 </div>
 
 <div class="container">
+
   <section id="la-matanza">
     <h2>La Matanza</h2>
     <p class="sub-title">Agosto, 2010 - San Fernando, Tamaulipas</p>
       <div class="row">
         <div class="col-sm-8 col-sm-offset-2">
-          <h5>(En esta parte de la investigación se presenta al usuario las diferentes versiones manejadas de un mismo hecho, para que al recorrer cada una de ella, pueda sacar sus propias conclusiones.)</h5>
+          <h5>(En esta parte de la investigación se presenta al usuario las diferentes versiones manejadas de un mismo hecho, para que al recorrer cada una de ellas, pueda sacar sus propias conclusiones.)</h5>
         </div>
       </div>    
     <div class="row">
@@ -62,6 +64,11 @@
         {{ tab_panel('los-sobrevivientes', los_sobrevivientes_versions) }}
       </div>
     </div>
+    <p>***MAPA DE LA RUTA DEL SOBREVIVIENTE ECUATORIANO***</p>
+
+    <iframe src="https://www.google.com/maps/d/embed?mid=zo3mbCZczVGM.kdIPOxZvPc1U" width="640" height="480"></iframe>
+
+
   </section>
 
   <section id="el-hallazgo">
@@ -85,9 +92,15 @@
     </div>
   </section>
 
-
-
+  <section id="contexto">
+    <h2>Sobre San Fernando</h2>
+    <p>TEXTO INTRODUCTORIO SOBRE EL CONTEXTO DEL ESTADO </P>
+    <iframe src="http://timemapper.okfnlabs.org/periodistasapie/mapa?embed=1" frameborder="0" style="border: none;" width="100%" height="780;"></iframe>
+  </section>
 </div>
+
+
+
 
 {% include '_chapter_nav.html' %}
 
