@@ -21,4 +21,5 @@ $(function() {
   $.localScroll({
     'duration': 500
   });
+  $("img").unveil(200);
 });
