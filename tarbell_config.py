@@ -51,7 +51,7 @@ DEFAULT_CONTEXT = {
     ],
     'el_hallazgo_versions': [
         ('Oficial', 'oficial', '_textos/no-oficial-version.md'),
-        ('Tésis', 'eua', '_textos/cap1-c-eua.md'),
+        ('Tésis', 'tesis', '_textos/cap1-c-eua.md'),
         ('Insight Crime', 'incrime', '_textos/cap1-c-incrime.md'),
     ],
     'la_hipotesis_versions': [
