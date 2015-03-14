@@ -1,16 +1,27 @@
 #### **Biografía:** 
 
-Ex-jefe regional del grupo delictivo de Los Zetas, en los estados de Tamaulipas, Nuevo León y Coahuila. Inició su carrera delictiva en el 2002 como halcón para Cártel del Golfo/Zetas y fue ascendiendo de puesto.  En el 2007 lo capturan por primera vez en Coatzacoalcos, Veracruz, sin embargo no duró mucho tiempo encarcelado. Además de ser reconocido por cometer 320 homicidios, de los cuales él asegura haber matado a 50 personas con sus propias manos, "La Ardilla" se ha caracterizado por ser el presunto autor intelectual de fugas de reos con la intención de obtener su lealtad y reclutarlos para el cártel, se le atribuyen famosas fugas como la de los 151 reos del penal de Nuevo Laredo, Tamaulipas en diciembre de 2010, y en el 2012 la fuga de 131 reclusos del penal de Piedras Negras en Coahuila. 
-Duró cerca de un año en el Centro de Readaptación Social Duport-Ostión de Coatzacoalcos hasta que el 15 de mayo del 2008 un grupo armado de sicarios lo liberaron. Durante el 2010 ocurre la escisión de Los Zetas como brazo armado del Cártel Del Golfo por lo que empezaron las riñas entre ellos, por lo mismo lo enviaron a Tamaulipas con un comando de 20 estacas o células de entre cinco y siete elementos para que disputaran la región de Ciudad Victoria a la organización de Jorge Eduardo Costilla, "El Coss" (CDG) y así fue como logró convertirse en el jefe regional del estado. En este periodo es cuando Los Zetas asesinan a los migrantes en San Fernando, Martínez Escobedo, fungió como autor intelectual de la matanza.
+Ex jefe regional del grupo delictivo Los Zetas en Tamaulipas, Nuevo León y Coahuila. Inició su carrera delictiva en 2002 como halcón para el Cártel del Golfo, y su entonces brazo armado, Los Zetas. En 2007 fue capturado por primera vez en Coatzacoalcos, Veracruz; sin embargo no duró mucho tiempo encarcelado. Fue finalmente capturado por la Secretaría de Marina el 6 de octubre de 2012. 
+Es señalado de cometer 320 homicidios y presunto autor intelectual de fugas de reos con la intención de obtener su lealtad y reclutarlos para el cártel. Se le atribuyen famosas fugas como la de los 151 reos del penal de Nuevo Laredo, Tamaulipas en diciembre de 2010 y la fuga de 131 reclusos del penal de Piedras Negras, Coahuila, en 2012. 
+Duró cerca de un año en el Centro de Readaptación Social Duport-Ostión de Coatzacoalcos hasta que el 15 de mayo de 2008 un grupo armado de sicarios lo liberó. Durante 2010, cuando Los Zetas se separan del Cártel del Golfo, es enviado a Tamaulipas con un comando de 20 células criminales, de entre cinco y siete elementos cada una, para que disputaran la región de Ciudad Victoria al Cártel del Golfo, entonces comandado por Jorge Eduardo Costilla, alias "El Coss”.
+Así fue como se convirtió en el jefe regional de Los Zetas en Tamaulipas. Cuando Los Zetas asesinaron a los 72 migrantes en San Fernando, Martínez Escobedo fue señalado como autor intelectual de la matanza.
+
+
 
 
 #### **Delitos de los que se le acusa:**  
 
-Delincuencia organizada, privación ilegal de la libertad en modalidad de secuestro, violación a la Ley General de Armas de Fuego y Explosivos, presunto autor intelectual de la muerte de 72 indocumentados localizados en San Fernando, Tamaulipas, en agosto de 2010, autor de 320 homicidios cometidos de 2010 a la fecha, así como de tener participación en la fuga de 282 reos en ese periodo, 131 de los cuales escaparon en el 2012 del penal de Piedras Negras, Coahuila. También se le responsabiliza del asesinato del estadunidense David Michael Hartley, crimen perpetrado el 30 de septiembre de 2010 en la presa Falcón, en Nuevo Laredo. Asimismo del asesinato del comandante de la policía ministerial de la citada localidad, Rolando Flores Villegas.
+-Delincuencia organizada
+-Privación ilegal de la libertad en modalidad de secuestro
+-Violación a la Ley General de Armas de Fuego y Explosivos
+-Autoría intelectual de la muerte de 72 indocumentados localizados en San Fernando, Tamaulipas, en agosto de 2010
+-Homicidio de 320 personas
+-Homicidios del estadunidense David Michael Hartley, cometido el 30 de septiembre de 2010, en la presa Falcón, en Nuevo Laredo y del comandante de la policía ministerial de esa localidad, Rolando Flores Villegas 
+-Autoría intelectual de la fuga de 282 reos
+
 
 #### **Detenido en:**
 
-Penal de máxima seguridad del Altiplano, en Almoloya de Juárez, Estado de México.
+Centro Federal de Readaptación Social número 1 “Altiplano”, en Almoloya de Juárez, Estado de México.
 
 #### **Comentarios:**
 

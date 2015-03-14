@@ -1,19 +1,27 @@
 #### Biografía:
 
-'El Wache' era considerado como lugarteniente de Los Zetas en Tamaulipas, fungía como el brazo derecho de Salvador Alfonso Martínez Escobedo, alias "La Ardilla" ex- jefe regional en Tamaulipas. Se unió a ellos en el 2008. Después de haber sido soldado por un año, comenzó su carrera en el crimen organizado como informante en la ciudad de Morelia para vigilar los puntos de venta y distribución de droga. En el 2010 lo asignaron para ser parte de la escolta de "La Ardilla" quien le encomendó la tarea de revisión e intercepción de autobuses de pasajeros. En su declaración confiesa que durante sus dos años y medio como delincuente coordinó el secuestro de los dos camiones de carga en los que viajaban clandestinamente los migrantes.
-Édgar Huerta Montiel asesinó por lo menos a 10 de los migrantes secuestrados en San Fernando asimismo ordenó privar de la libertad a los pasajeros de seis autobuses a los que trasladó a casas de seguridad donde eran torturados para obtener información e indagar si colaboraban para el cártel del Golfo, la organización rival en ese entonces.
+“El Wache” era considerado lugarteniente del grupo criminal Los Zetas en Tamaulipas, en el cual fungía como brazo derecho de Salvador Alfonso Martínez Escobedo, alias “La Ardilla”.
+Se unió a Los Zetas en 2008. Después de haber sido soldado por un año, comenzó su carrera en el crimen organizado como informante en la ciudad de Morelia, Michoacán,  para vigilar los puntos de venta y distribución de droga. En 2010 fue asignado como parte de la escolta de “La Ardilla”, quien le encomendó la revisión e intercepción de autobuses de pasajeros. 
+Fue detenido el 17 de junio del 2011 en Fresnillo, Zacatecas, por agentes de la Policía Federal. En su declaración, confesó que durante sus dos años y medio como delincuente coordinó el secuestro de dos camiones de carga en los que viajaban clandestinamente migrantes.
+Huerta Montiel asesinó por lo menos a 10 de los migrantes secuestrados en San Fernando,  Tamaulipas, en agosto de 2010. Asimismo ordenó el secuestro de los pasajeros de seis autobuses a los que trasladó a casas de seguridad, donde eran torturados para obtener información e indagar si colaboraban para el Cártel del Golfo, la organización rival de Los Zetas.
+
 
 #### Delitos de los que se le acusa:
 
-Delincuencia organizada, privación ilegal de la libertad en modalidad de secuestro, homicidio, portación de arma de fuego y posesión de cartuchos de uso exclusivo de las Fuerzas Armadas, delitos contra la salud en la modalidad de comercialización de marihuana.
+-Presunto coordinador del múltiple homicidio de migrantes en San Fernando 
+-Delincuencia organizada
+-Portación de arma de fuego y posesión de cartuchos, ambos de uso exclusivo del Ejército, Armada o Fuerza Aérea,
+-Delitos contra la salud, por la posesión de marihuana con fines de comercialización
+
 
 #### Detenido en: 
 
-Centro Federal de Readaptación Social (Cefereso) 'Noroeste', ubicado en Matamoros, Tamaulipas.
+Centro Federal de Readaptación Social (Cefereso) número 3 “Noreste”, ubicado en Matamoros, Tamaulipas.
 
 #### Comentarios: 
 
-Es detenido junto a su novia Brenda Azhyade Infante Acevedo el 17 de junio del 2011 en Fresnillo, Zacatecas, por agentes de la Policía Federal, el 19 del mismo mes le conceden arraigo de 40 días y posteriormente lo consignan al CEFERESO de Matamoros Tamaulipas, a su novia la envían al Centro de Reinserción Social y de Adolescentes de Baja California.
+Fue detenido junto a su novia Brenda Azhyade Infante Acevedo el 17 de junio del 2011 en Fresnillo, Zacatecas, por agentes de la Policía Federal. Dos días después lo arraigaron 40 días y posteriormente lo consignaron al Cefereso de Matamoros, Tamaulipas. A su novia la enviaron al Centro de Reinserción Social y de Adolescentes de Baja California.
+Video de declaración de "El Wache" sobre el caso San Fernando: https://www.youtube.com/watch?v=UycQ0P9jCts
 
 #### Fuentes:
 

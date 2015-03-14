@@ -1,16 +1,21 @@
 #### **Delitos de los que se le acusa:**
 
-Delincuencia organizada, privación ilegal de la libertad en su modalidad de causar daño en agravio de 72 personas de origen centroamericano, violación a la Ley Federal de Armas de Fuego y Explosivos, portación de armas de fuego y posesión de cartucho, ambos de uso exclusivo del Ejército, Armada y Fuerza Aérea; corrupción de personas menores de 18 años, homicidio con modificativa agravante de ventaja en grado de tentativa en agravio de Luis Fredi Lala Pomavilla, y homicidio calificado por 72 personas de origen centroamericano. 
+-Delincuencia organizada
+-Privación ilegal de la libertad en su modalidad de causar daño en agravio de 72 personas de origen centroamericano
+-Violación a la Ley Federal de Armas de Fuego y Explosivos, por la portación de armas de fuego y posesión de cartucho, ambos de uso exclusivo del Ejército, Armada y Fuerza Aérea
+-Corrupción de personas menores de 18 años
+-Tentativa de homicidio con agravante de ventaja de Luis Fredi Lala Pomavilla y homicidio calificado por 72 personas de origen centroamericano
+ 
 
 #### **Detenido en:** 
 
-No se tiene claridad si se encuentra en  el CEFERESO número 4 "El Rincón" en Tepic, Nayarit, o en el CEFERESO número 5 Oriente, en el Municipio de Villa Aldama, Veracruz.
+No se tiene claridad sobre si se encuentra en  el Centro Federal de Readaptación Social (Cefereso) número 4 “El Rincón”, en Tepic, Nayarit, o en el Cefereso número 5 “Oriente”, en Villa Aldama, Veracruz.
 
 #### **Comentarios:**
 
 [Boletín oficial de la PGR con fecha 16/10/2010 confirmando la detención de Manuel Vargas junto con otras 8 personas.](http://www.pgr.gob.mx/prensa/2007/bol10/Oct/b118910.shtm)
 Proceso en la AP AP/PGR/TAMPS/MAT-I/2281/2010.
-“El Carlitos” aparece en el portal mx.datajuridica, con dos fichas. Una de “MANUEL VÁZQUEZ CHÁVEZ ALIAS "EL CARLITOS" y Otros.” y otra de “MANUEL VÁZQUEZ CHÁVEZ ALIAS "EL CARLITOS””, ambas de Matamoros, Tamaulipas. El sitio aclara que “El que aparezca en los resultados no quiere decir que sea culpable o inocente, sino que hay uno o varios proceso judiciales, en los cuales se encuentra mencionado como una de las partes.”
+“El Carlitos” aparece en el portal mx.datajuridica con dos fichas. Una del proceso  judicial “MANUEL VÁZQUEZ CHÁVEZ ALIAS ‘EL CARLITOS’ y Otros” y otra del proceso  judicial “MANUEL VÁZQUEZ CHÁVEZ ALIAS ‘EL CARLITOS’”, ambas de Matamoros, Tamaulipas. El sitio aclara que “el que aparezca en los resultados no quiere decir que sea culpable o inocente, sino que hay uno o varios proceso judiciales, en los cuales se encuentra mencionado como una de las partes”.
 
 #### **Fuentes:**
 

@@ -1,19 +1,25 @@
 #### **Biografía:**
 
-Lugarteniente. Tras la caída de  Miguel Ángel Treviño Morales, el “Z-40”, la organización "los Zetas" quedó bajo el mando del hermano menor  Omar Treviño Morales, El Z-42.  Desde 31 de enero, Román Ricardo Palomo Rincones, alias “El Coyote” se encontraba prófugo.
+Lugarteniente del grupo criminal Los Zetas. Era uno de los cuatro zetas buscados por el gobierno mexicano, a los que les atribuía la autoría de masacres, asesinatos, secuestros y ataques con granadas a corporaciones policiacas. De esos cuatro presuntos delincuentes, Palomo Rincones era considerado como uno de los más peligrosos y violentos. La Procuraduría General de la República ofrecía por él una recompensa de 10 millones de pesos. 
+Se le atribuyeron las matanzas de migrantes en San Fernando, Tamaulipas, de agosto de 2010 y marzo de 2011.
+
 
 #### **Delitos de los que se le acusa:**
 
-delincuencia organizada, privación ilegal de la libertad en la modalidad de secuestro y violación a la Ley Federal de Armas de Fuego y Explosivos.
+-Delincuencia organizada
+-Privación ilegal de la libertad en su modalidad de causar daño en agravio de 72 personas de origen centroamericano
+-Violación a la Ley Federal de Armas de Fuego y Explosivos, por la portación de armas de fuego y posesión de cartucho, ambos de uso exclusivo del Ejército, Armada y Fuerza Aérea
+-Corrupción de personas menores de 18 años
+-Tentativa de homicidio con agravante de ventaja de Luis Fredi Lala Pomavilla y homicidio calificado por 72 personas de origen centroamericano
 
 #### **Detenido en:**
 
-Presuntamente en Puente Grande, Jalisco.
+Al parecer en el Centro Federal de Readaptación Social número 2 “Occidente”, en Puente Grande, Jalisco.
 
 #### **Comentarios:**
 
 [Acuerdo de gobierno que pedía recompensa por su captura](http://www.pgr.gob.mx/Normatec/Documentos/a-38-11.pdf). 
-Cayó junto con tres personas más identificadas como:  José Eder Ruiz Valero, 27 años; Lorenzo Reyes Requena, 18 años y Juan Francisco Robles Martínez, 34 años. 
+Fue detenido junto con tres personas más, identificadas como José Eder Ruiz Valero, de 27 años; Lorenzo Reyes Requena, de 18 años; y Juan Francisco Robles Martínez, de 34 años.
 
 #### **Fuentes:**
 

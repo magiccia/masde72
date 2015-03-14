@@ -1,18 +1,28 @@
 #### **Biografía:**
 
-No existe una precisión exacta de cuando Barrios Caporal ingresó a Los Zetas, fue cabo de infantería del ejército y se conoce como autor material de la matanza de los más de 72, el 1º de septiembre del 2011 fue detenido en Coatzacoalcos, Veracruz, huyó de Tamaulipas después de la detención de otro de los implicados Martín Omar Estrada Luna alias "El Kilo". En su declaración confiesa su participación en la masacre bajo las órdenes de Salvador Alfonso Martínez Escobedo "La Ardilla".
+Integrante de Los Zetas. No existe precisión sobre la fecha de su ingreso a  ese grupo criminal. Fue cabo de infantería del Ejército.
+Se le atribuye la autoría material de la matanza de los 72 migrantes en San Fernando, Tamaulipas. El 1 de septiembre de 2011 fue detenido en Coatzacoalcos, Veracruz. En su declaración confesó su participación en la masacre de migrantes, bajo las órdenes de Salvador Alfonso Martínez Escobedo, alias “La Ardilla”.
+
 
 #### **Delitos de los que se le acusa:** 
 
-Delincuencia organizada, privación ilegal de la libertad en la modalidad de secuestro, homicidio calificado de 72 personas, posesión de cartuchos para armas de fuego de uso exclusivo del Ejército, Armada y Fuerza Aérea.
+-Delincuencia organizada
+-Privación ilegal de la libertad en la modalidad de secuestro
+-Privación ilegal de la libertad en la modalidad de causar daño en agravio de 72 personas de origen centroamericano
+-Violación a la Ley Federal de Armas de Fuego y Explosivos, por la portación de armas de fuego y posesión de cartucho, ambos de uso exclusivo del Ejército, Armada y Fuerza Aérea;
+-Corrupción de personas menores de 18 años
+-Tentativa de homicidio con agravante de ventaja de Luis Fredi Lala Pomavilla
+-Homicidio calificado de 72 personas de origen centroamericano
 
 #### **Detenido en:**
 
-Centro Federal de Readaptación Social número 5, Oriente, ubicado en Villa Aldama, Veracruz.
+Centro Federal de Readaptación Social (Cefereso) número 5 “Oriente”, ubicado en Villa Aldama, Veracruz.
 
 #### **Comentarios:**
 
-Al momento de su detención mantenía a una mujer de 35 años secuestrada, que llevaba varias semanas privada de se libertad.
+Huyó de Tamaulipas después de la detención de Martín Omar Estrada Luna, alias “El Kilo”, presunto jefe de plaza de Los Zetas en San Fernando, Tamaulipas. 
+Al momento de su detención mantenía secuestrada a una mujer de 35 años, quien llevaba varias semanas privada de su libertad. 
+
 
 #### **Fuentes:**
 
