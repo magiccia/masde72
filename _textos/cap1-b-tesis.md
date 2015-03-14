@@ -1,7 +1,9 @@
- El único que conservó la vida fue un joven de 18 años que logró engañarlos cuando lo patearon, porque supo ponerse rígido. Ya de salida, uno de los criminales regresó por él. Le arrebató la medalla de la virgen que colgaba de su cuello, seguramente creyó que tendría algún valor económico. Era lo único que brillaba en la noche.
+Tesis de licenciatura con título "Los 72 migrantes que avergonzaron a México. Ni muertos los pudieron cuidar" de Concepción Peralta. FES Aragón (2013).
+Este hombre de 18 años sobrevivió a una masacre y luego hizo otro esfuerzo extraordinario para cruzar unos 20 kilómetros en la oscuridad, desangrándose. Llegó a la casa de unos ancianos que le prestaron ayuda y le dieron agua.
+–No lo podemos tener aquí, nos da mucho miedo. Váyase por favor. A dos kilómetros hay un puesto de la Marina, ahí puede pedir ayuda.
+Comprensivo con los ancianos, continuó su camino, con miedo de que “los malos” regresaran. Eran las siete de la mañana cuando llegó al retén de la Marina:
+“Soy Luis Freddy Lala Pomavilla, 18 años, inmigrante ecuatoriano rumbo a los Estados Unidos. Hombres armados nos secuestraron. Los mataron a todos”.
+Los marinos lo subieron a una camioneta y antes de prestarle los primeros auxilios lo llevaron al bodegón. Una vez cerciorados de que no mentía y los muertos estaban ahí, lo trasladaron a un hospital en Matamoros.
+El anterior testimonio es lo que Luis Freddy narró a su cónsul en México cuando ella lo visitó en el hospital, alertada por un correo electrónico anónimo que llegó a la embajada, en la Ciudad de México, el mediodía del martes 24 de agosto:
+“Ustedes tienen un compatriota en el Hospital General Alfredo Pumarejo en Matamoros. Sáquenlo porque lo van a matar”.
 
-  El sobreviviente esperó unos minutos más y cuando todo fue silencio, cuando sus sentidos exacerbados le dijeron que estaba solo, se atrevió a moverse. Salió de esa finca agazapado, deseando ser más sombra que nunca.  
-
-Regresó por donde habían entrado. Caminaba malherido, cuando entre las sombras escuchó ruidos. Fue alcanzado por otro hombre, aquel que dijo “yo” y sin saberlo salvó la vida. Se vieron, se reconocieron. Le ayudó a desatarse las manos. Por unos minutos caminaron juntos, hasta que el segundo sobreviviente lo dejó. 
-
- –Lo siento, tú estás herido y no puedes correr. Yo tengo que irme por otro camino. Nos vemos –dijo el hombre con acento centroamericano y se marchó corriendo. 
