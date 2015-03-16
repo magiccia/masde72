@@ -1,3 +1,11 @@
+Nombre: Alejandro "Omar" Treviño Morales
+Alias: El Z-42
+Edad: 41 años
+Origen: Nuevo Laredo, Tamaulipas
+
+
+
+
 #### **Biografía:** 
 
 El Z-42 es el ex-líder identificado del Cártel de Los Zetas. Fue detenido el 4 de marzo de 2015 en San Pedro Garza García, Nuevo León en un operativo en conjunto entre el Ejército, la Marina y la Policía Federal.
