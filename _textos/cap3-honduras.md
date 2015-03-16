@@ -5,7 +5,7 @@ El grupo pasó por San Fernando la noche fatal en el cargamento que iba a ser as
 
 Haidé Esperanza Posada, la madre de Wilmer y abuela de Joan Adolfo, no consigue la paz que sí tienen su hija y las otras mujeres de la colonia que pudieron enterrar a sus hijos.
 
-“Yo estoy en una incógnita todavía. El no apareció en los muertos ni he tenido noticias de él de ninguna forma”, dice la mujer de x años.
+“Yo estoy en una incógnita todavía. El no apareció en los muertos ni he tenido noticias de él de ninguna forma”, dice la mujer.
 
 Cuando doña Haidé fue a pedir respuestas, porque los cadáveres del resto sí habían llegado, el cónsul de México (Marco García) le dio un teléfono para que llamara para pedir información. Nadie le contestó. 
 
