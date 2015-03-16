@@ -50,7 +50,7 @@ DEFAULT_CONTEXT = {
         ('Moore', 'moore', '_textos/cap1-b-moore.md'),
     ],
     'el_hallazgo_versions': [
-        ('Oficial', 'oficial', '_textos/no-oficial-version.md'),
+        ('Oficial', 'oficial', '_textos/cap1-c-oficial.md'),
         ('Tesis', 'tesis', '_textos/cap1-c-eua.md'),
         ('Insight Crime', 'incrime', '_textos/cap1-c-incrime.md'),
     ],
