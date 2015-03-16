@@ -166,6 +166,12 @@ section {
   height: 48px;
   margin: 6px 0 0 18px;
 }
+.iframe-container, .iframe-container iframe {
+  display: block;
+  margin: 0 auto;
+  width: 640px;
+  height: 480px;
+}
 .row.photos {
   margin-top: 35px;
   margin-bottom: 35px;
@@ -201,12 +207,6 @@ p.caption {
 }
 .page-capitulo1 .intro .navbar li {
   width: 25%;
-}
-.page-capitulo1 .iframe-container, .page-capitulo1 .iframe-container iframe {
-  display: block;
-  margin: 0 auto;
-  width: 640px;
-  height: 480px;
 }
 .page-capitulo1 section h3 {
   font-size: 14px;
