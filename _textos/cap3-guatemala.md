@@ -1,4 +1,4 @@
- El cuerpo de Nancy Pineda estuvo más de 6 meses en el Servicio Médico Forense del  Distrito Federal esperando ser identificado. Esto a pesar de que murió con cuatro familiares, todos identificados al acto, y que la familia insistia en que ella estaba entre los masacrados.
+El cuerpo de Nancy Pineda estuvo más de 6 meses en el Servicio Médico Forense del Distrito Federal esperando ser identificado. Esto a pesar de que iba acompañada de tres familiares: todos identificados desde un inicio y de que la familia insistía en que ella debía de haber muerto con ellos.
 
  Originaria la aldea de Sipacate, en la región de Escuintla, Guatemala, Nancy tenìa 25 años y dos hijos cuando decidió realizar el viaje a Iowa. Iba con su padre Efraín, su hermano Richard y su prima Mayra. Todos fueron asesinados en San Fernando. 
 
@@ -22,6 +22,6 @@ El de Nancy no llegó hasta mucho después porque --junto con otros 15 cuerpos s
 
  Ángela Lacán vive en la misma pobreza extrema que impulsó a sus seres queridos a  emigrar y reclama y aún se cuestiona si los restos que recibió realmente son los de su  esposo, y los de sus hijos. Nadie le explicó cómo es que se hizo la identificación. 
 
- “No hay medicinas para este dolor, hay palabras que nos dan fortaleza pero ese dolor no se quita, esa ansiedad, esos nervios”, declaró a la revista Proceso.  
+ “No hay medicinas para este dolor, hay palabras que nos dan fortaleza pero ese dolor no se quita, esa ansiedad, esos nervios”, dijo en entrevista.  
 
 El 31 de octubre de 2013, la Cancillería de Guatemala informó que fue identificado el  cuerpo de Nancy Pineda Lacán,  guatemalteca originaria de la Gomera, Escuintla, como  una de las víctimas de la masacre ocurrida en San Fernando, Tamaulipas. Sus hijos, de 7 y 6 años, aún la esperan. 

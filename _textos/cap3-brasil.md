@@ -12,7 +12,7 @@ El minero Juliard Aires Fernándes nunca regresó a su casa, en Minas Gerais. Su
 
   El 1 de octubre de 2010, los restos llegaron a Brasil. La única nota que acompaña el ataúd, proveniente del gobierno mexicano, indicaba que por ninguna razón la familia  podía abrir la caja. No hicieron caso. Al abrir encontraron una masa amorfa, parecida al barro, sin pelo, ojos, ni ningún elemento que les permitiera identificarlo. 
 
- “Solicitaron a nuestra familia el examen de ADN para reconocer el cuerpo, la dimos y  cuando Juliard llegó a Brasil estaba en una caja donde la policía de aquí (mexicana) nos prohibía que el ataúd fuera abierto. No quisimos seguir las recomendaciones y abrimos y encontramos nada más una bolsa, un paquete con arcilla, y no había cuerpo en el ataúd”, señaló Gloria ante los jueces del Tribunal Permanente de los Pueblos, en agosto de 2013. 
+ “Solicitaron a nuestra familia el examen de ADN para reconocer el cuerpo, la dimos y  cuando Juliard llegó a Brasil estaba en una caja donde la policía de aquí (mexicana) nos prohibía que el ataúd fuera abierto. No quisimos seguir las recomendaciones y abrimos y encontramos nada más una bolsa, un paquete con arcilla, y no había cuerpo en el ataúd”, dijo Gloria.
 
  Tiempo después se supo que las autoridades mexicanas habían trasladado el cadáver a Honduras, donde fue enterrado y el cuerpo devuelto a México, donde fue enviado a la fosa común. 
 
