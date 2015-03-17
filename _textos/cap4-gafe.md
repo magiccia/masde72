@@ -12,16 +12,10 @@ No se tiene claridad sobre si se encuentra en  el Centro Federal de Readaptació
 
 #### **Fuentes:**
 
-[PGR](www.pgr.gob.mx/Prensa/2007/bol10/oct/1189.pdf)
+[“Se cumplimenta orden de aprehensión contra ocho presuntos implicados en la muerte de 72 migrantes en San Fernando, Tamaulipas”. Procuraduría General de la República.  Boletín de prensa 1189/10. 16 de octubre de 2010.](www.pgr.gob.mx/Prensa/2007/bol10/oct/1189.pdf)
 
-[Ratifican en México prisión de acusados de masacre - Periódico Despertar de Tamaulipas](www.despertardetamaulipas.com/nota/62212)
+[Giran orden de aprehensión contra ocho personas por masacre de migrantes - Informador](http://www.informador.com.mx/mexico/2010/241776/6/giran-orden-de-aprehension-contra-ocho-personas-por-masacre-de-migrantes.htm) 
 
-[Cárcel a los primeros ocho sicarios por la ejecución d 72 migrantes en Tamaulipas - Teléfono Rojo](www.telefonorojo.mx) 
+[Están bajo proceso penal 82 vinculados a masacre de san Fernando: PGR - La Policíaca. La Nota Roja de México](http://www.lapoliciaca.com/nota-roja/estan-bajo-proceso-penal-82-vinculados-a-masacre-de-san-fernando-pgr/) 
 
-[Encarcelan a 8 por masacre de migrantes -Reforma](www.serviciosurbanosdf.com) 
-
-[Giran orden de aprehensión contra ocho personas por masacre de migrantes - Informador](www.informador.com.mx) 
-
-[Están bajo proceso penal 82 vinculados a masacre de san Fernando: PGR - La Policíaca. La Nota Roja de México](www.lapoliciaca.com) 
-
-[Militares se enfrentan con grupo armado en Tamaulipas - El Economista](www.eleconomista.com.mx) 
+[Militares se enfrentan con grupo armado en Tamaulipas - El Economista](http://eleconomista.com.mx/seguridad-publica/2010/09/06/militares-se-enfrenta-grupo-armado-tamaulipas) 
