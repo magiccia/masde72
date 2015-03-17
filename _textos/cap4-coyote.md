@@ -28,15 +28,13 @@ Fue detenido junto con tres personas más, identificadas como José Eder Ruiz Va
 
 [Capturan a líder de ‘Los Zetas’ en Tamaulipas - Milenio](http://www.milenio.com/policia/Capturan-lider-Zetas-Tamaulipas_0_141585981.html) 
 
-[Capos abatidos o detenidos - La Crónica](http://www.lacronica.com/EdicionDigital/Ediciones/20131220/PDFS/General_35.pdf) 
+[“Revela la PGR la identidad de capos abatidos”. La Crónica. 20 de diciembre de 2013.](http://www.lacronica.com/EdicionDigital/Ediciones/20131220/PDFS/General_35.pdf) 
 
-[LOS ZETAS: CAMBIO DE LIDERAZGO- Congreso de Guerrero:](http://congresogro.gob.mx/files/Sintesis-2013/julio/17_de_julio_13_Columnas.pdf)
+[“Los Zetas: cambio de liderazgo”. Columna de opinión de Rubén Aguilar Valenzuela. El Sur. 17 de julio de 2013.](http://congresogro.gob.mx/files/Sintesis-2013/julio/17_de_julio_13_Columnas.pdf)
 
-[Kidnapping in Mexico](http://www.robertsonryan.com/wp-content/uploads/2012/07/Monthly-kidnap-news-Oct13.pdf)  
+[Kidnapping in Tamaulipas State in Mexico](http://www.robertsonryan.com/wp-content/uploads/2012/07/Monthly-kidnap-news-Oct13.pdf)  
 
 [Cae presunto líder Z en Tamaulipas- Red Política](http://www.redpolitica.mx/nacion/cae-presunto-lider-zeta-el-tamaulipas)	
-
-[LA SECRETARÍA DE MARINA PRESENTA A SALVADOR ALFONSO MARTÍNEZ ESCOBEDO  Y/O CARLOS GARCÍA (A) “ARDILLA”](http://www.redpolitica.mx/nacion/cae-presunto-lider-zeta-el-tamaulipas)
 
 ["Román palomo rincones se pasea en la colonia paso real ejercito no a hecho nada por detenerlo" - Valor por Tamaulipas-](https://www.facebook.com/ValorPorTamaulipas/posts/313015338807811) 
 
