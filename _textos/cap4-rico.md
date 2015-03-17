@@ -24,16 +24,12 @@ Su proceso judicial se sigue en la averiguación previa AP/PGR/TAMPS/MAT-I/2281/
 
 #### Fuentes:
 
-[El Nuevo Heraldo](http://www.elnuevoheraldo.com/el_valle/editorial/article_fc7d9d96-7c14-5330-8d5a-9fe93959cf0e.html?mode=jqm) 
+[“CASO SAN FERNANDO: Dictan formal prisión a 8 Zetas involucrados en masacre”. El Nuevo Heraldo. 3 de abril de 2013.](http://www.elnuevoheraldo.com/el_valle/editorial/article_fc7d9d96-7c14-5330-8d5a-9fe93959cf0e.html?mode=jqm) 
 
-[Informador](http://www.informador.com.mx/mexico/2010/241874/6/la-matanza-de-tamaulipas-tiene-presuntos-responsables.htm) 
+[“La matanza de Tamaulipas tiene presuntos responsables”. Informador. 17 de octubre de 2010. ](http://www.informador.com.mx/mexico/2010/241874/6/la-matanza-de-tamaulipas-tiene-presuntos-responsables.htm) 
 
-[PGR](http://www.pgr.gob.mx/prensa/2007/bol10/Oct/b118910.shtm) 
+[“Se cumplimenta orden de aprehensión contra ocho presuntos implicados en la muerte de 72 migrantes en San Fernando, Tamaulipas”. Procuraduría General de la República.  Boletín de prensa 1189/10. 16 de octubre de 2010. ](http://www.pgr.gob.mx/prensa/2007/bol10/Oct/b118910.shtm) 
 
-[América Economía](http://www.americaeconomia.com/politica-sociedad/politica/implicado-en-masacre-de-tamaulipas-narra-la-forma-en-que-reclutan-migrant) 
+[“Implicado en masacre en Tamaulipas narra la forma en que reclutan a migrantes”. América Economía. 9 de septiembre de 2010.](http://www.americaeconomia.com/politica-sociedad/politica/implicado-en-masacre-de-tamaulipas-narra-la-forma-en-que-reclutan-migrant) 
 
-[datajuridica.com](http://mx.datajuridica.com/default.aspx)
-
-[La Jornada](http://www.jornada.unam.mx/2010/09/06/politica/003n1pol) 
-
-
+[“Indocumentados, reclutados por zetas desde hace un año”. La Jornada. 6 de septiembre de 2010.](http://www.jornada.unam.mx/2010/09/06/politica/003n1pol) 
