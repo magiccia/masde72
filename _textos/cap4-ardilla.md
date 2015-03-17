@@ -45,3 +45,5 @@ Sus testimonios formaron parte del expediente Nº: UEIARV/040/2012 por el abatim
 
 [- Presentan a “La Ardilla”, presunto líder de Los Zetas - El Economista](http://eleconomista.com.mx/seguridad-publica/2012/10/08/presentan-ardilla-presunto-jefe-zetas)
 
+[-“Presentan a ‘La Ardilla’, autor de más de 300 muertes en Tamaulipas”. Milenio. 8 de octubre de 2012.](https://www.youtube.com/watch?v=AEA6SyWcky0) 
+
