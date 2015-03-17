@@ -31,4 +31,6 @@ Video de declaración de "El Wache" sobre el caso San Fernando: https://www.yout
 
 [- Recluyen a El Wache en penal de Matamoros - La Silla Rota](http://lasillarota.com/20320-encarcelan-a-el-wache-en-penal-de-matamoros#.VHYAN4eic_M)
 
+[-“Declara ‘El Wache’ sobre caso San Fernando”. Demos Desarrollo de Medios. 22 de junio de 2011.](https://www.youtube.com/watch?v=UycQ0P9jCts)
+
 
