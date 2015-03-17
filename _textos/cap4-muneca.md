@@ -12,17 +12,9 @@ Fue entregada por su propia madre. La PGR daba una recompensa de 430 mil dólare
 
 #### **Fuentes:**
 
-[- Blog del Narco](http://www.blogdelnarco.com/2011/04/fabiola-sarai-diaz-arroyo-alias-la-fila.html)
+["Fabiola Saraí Díaz Arroyo alias La Fila es entregada a las autoridades por su propia madre". Blog del Narco.](http://www.blogdelnarco.com/2011/04/fabiola-sarai-diaz-arroyo-alias-la-fila.html)
 
+["Una narco entregada por su propia madre".  Infobae.  27 de abril 2011.](http://www.infobae.com/2011/04/27/1023863-una-narco-entregada-su-propia-madre) 
 
-[- Infobae](http://www.infobae.com/2011/04/27/1023863-una-narco-entregada-su-propia-madre) 
-
-
-[- Comunicado oficial PGR](http://www.pgr.gob.mx/prensa/2007/bol11/abr/386.pdf) 
-
-
-[- La Jornada](http://www.jornada.unam.mx/2011/06/11/politica/010n1pol )
- 
-
-[- Presidencia](http://calderon.presidencia.gob.mx/2011/07/se-inicia-proceso-penal-a-181-personas-consignadas-por-la-siedo-durante-junio/ ) 
+["Comunicado oficial" PGR. 13 de abril de 2011.](http://www.pgr.gob.mx/prensa/2007/bol11/abr/386.pdf)  
 
