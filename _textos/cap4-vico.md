@@ -28,9 +28,6 @@ El expedientes de las averiguaciones previas de la PGR por la matanza de los 72 
 
 #### Fuentes: 
 
-[Notisur](http://issuu.com/notisurcoatza2012/docs/notisur_07noviembre2012) 
-
-
 [Prisión a ocho zetas por masacre en San Fernando - El Universal](http://www.eluniversal.com.mx/notas/716759.html)
 
 
