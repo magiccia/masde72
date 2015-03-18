@@ -1,1 +1,30 @@
-<h1>ARCHIVOS</h1>
+{% extends "_masde72_base.html" %}
+
+{% block content %}
+
+{% set chapter_nav = {
+  'previous': {
+    'file': 'capitulo4.html',
+    'title': '4. "Los Culpables"',
+  },
+  'next': {
+    'file': 'creditos.html',
+    'title': '5. "Créditos"',
+  }
+} %}
+
+
+{% set nav_sections = [] %}
+{% include "_fixed_nav.html" %}
+
+
+<div class="intro">
+  <h2>Capítulo 4</h2>
+  <h1>"IFAI"</h1>
+  
+{% include "_chapter_nav.html" %}
+
+{% endblock content %}
+
+
+
