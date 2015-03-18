@@ -4,24 +4,25 @@
 
 {% set chapter_nav = {
   'previous': {
-    'file': 'capitulo5.html',
-    'title': '4. "IFAI"',
+    'file': 'capitulo4.html',
+    'title': '4. "Los Culpables"',
   },
-
-
+  'next': {
+    'file': 'creditos.html',
+    'title': '5. "Créditos"',
+  }
 } %}
+
 
 {% set nav_sections = [] %}
 {% include "_fixed_nav.html" %}
 
 
-<div class="container">
+<div class="intro">
+  <h2>Créditos</h2>
 
-
-      <div class="row">
+  <div class="row">
         <div class="col-sm-8 col-sm-offset-2">
-
-          <h1>CRÉDITOS</h1>
 			<dl>
   				<dt>Imagen</dt>
   				<dd>- Javier García (Video Introducción)</dd>
@@ -38,10 +39,10 @@
 			</dl>
         </div>
       </div> 
-</div>
+</div>  
 
 
-
+  
 {% include "_chapter_nav.html" %}
 
 {% endblock content %}
