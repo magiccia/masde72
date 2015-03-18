@@ -1,23 +1,50 @@
-<h1>CREDITOS</h1>
-<p>
+{% extends "_masde72_base.html" %}
 
-CAN YOU MAKE THIS NAMES AS A LIST?
+{% block content %}
 
-IMAGEN
+{% set chapter_nav = {
+  'previous': {
+    'file': 'capitulo5.html',
+    'title': '4. "IFAI"',
+  },
 
-Javier García (Video)
-Guillermo Arias (foto)
-Mauricio Palos (video)
-Luis Echeverría (foto)Guatemala 
-Jose Cabezas(foto)El Salvador 
-Sin Crédito Cortesía en Honduras (el fotógrafo no quiere crédito ) 
-Ap en Fotografia de sobreviviente 
-Ap en fotografía Rancho San Fernando 
-Ap Eduardo Verdugo en Fotografia policías en DF trailer 
-Marina ( video) solicitud de sobrevuelo 
-Encarnación Pintado ( Video) Jerard 
-Ivan Castaneira (video ) Jerard 
-Mónica González (video ) Yeimi 
-José Manuel Jiménez ( Video ) Z 42  
 
-</p>
+} %}
+
+{% set nav_sections = [] %}
+{% include "_fixed_nav.html" %}
+
+
+<div class="container">
+
+
+      <div class="row">
+        <div class="col-sm-8 col-sm-offset-2">
+
+          <h1>CRÉDITOS</h1>
+			<dl>
+  				<dt>Imagen</dt>
+  				<dd>- Javier García (Video Introducción)</dd>
+  				<dd>- Mauricio Palos (Video Introducción)</dd>
+  				<dd>- Guillermo Arias (Fotografía de San Fernando, Tamaulipas)</dd>
+  				<dd>- Luis Echeverría (Fotografías de Guatemala)</dd>
+  				<dd>- Jose Cabezas(Fotografías de El Salvador) </dd>
+  				<dd>- Secretaría de Marina (Video Sobrevuelo Rancho en San Fernando)</dd>
+  				<dd>- Encarnación Pintado (Video Testimonio de Brasil-Jerard)</dd>
+  				<dd>- Ivan Castaneira (Video y Fotografía Testimonio de Brasil-Jerard)</dd>
+  				<dd>- Mónica González (Video y Fotografía Testimonio de El Salvador-Yeimi) </dd>
+  				<dd>- Ginnette Riquelme (Video y Fotografía Testimonio de Honduras-Wilmer)
+  				<dd>- José Manuel Jiménez (Video Z-42) </dd>
+			</dl>
+        </div>
+      </div> 
+</div>
+
+
+
+{% include "_chapter_nav.html" %}
+
+{% endblock content %}
+
+
+
