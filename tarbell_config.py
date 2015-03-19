@@ -48,6 +48,8 @@ DEFAULT_CONTEXT = {
         ('Embajada EUA', 'eua', '_textos/cap1-b-eua.md'),
         ('Tesis', 'tesis', '_textos/cap1-b-tesis.md'),
         ('Moore', 'moore', '_textos/cap1-b-moore.md'),
+        ('CNDH', 'cndh', '_textos/cap1-b-cndh.md'),
+        ('FARO', 'faro', '_textos/cap1-b-faro.md'),
     ],
     'el_hallazgo_versions': [
         ('Oficial', 'oficial', '_textos/cap1-c-oficial.md'),
