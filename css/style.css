@@ -208,9 +208,6 @@ p.caption {
 .page-capitulo1 .intro {
   background-image: url('../img/cap1_home.jpg');
 }
-.page-capitulo1 .intro .navbar li {
-  width: 20%;
-}
 .page-capitulo1 section h3 {
   font-size: 14px;
   text-transform: uppercase;
@@ -228,7 +225,6 @@ p.caption {
   text-shadow: 0 0 4px rgba(0,0,0,0.6);
 }
 .page-capitulo2 .intro .navbar li {
-  width: 20%;
   font-size: 16px;
 }
 .page-capitulo2 section h3, .page-capitulo2 section h4 {
@@ -250,9 +246,6 @@ p.caption {
 .page-capitulo3 .intro nav {
   bottom: 10px;
   font-size: 24px;
-}
-.page-capitulo3 .intro .navbar li {
-  width: 25%;
 }
 .page-capitulo3 section {
   color: #fff;
@@ -374,4 +367,16 @@ p.caption {
 
 #autopsias {
   background-color: #a5e2e2;
+}
+
+@media (min-width:768px) {
+  .page-capitulo1 .intro .navbar li {
+    width: 20%;
+  }
+  .page-capitulo2 .intro .navbar li {
+    width: 20%;
+  }
+  .page-capitulo3 .intro .navbar li {
+    width: 25%;
+  }
 }
