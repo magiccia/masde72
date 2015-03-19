@@ -12,10 +12,7 @@
 
     <div class="collapse navbar-collapse" id="fixed-nav">
       <ul class="nav navbar-nav">
-        {% for id, title in nav_sections %}
-        <li{% if loop.first %} class="active"{% endif %}><a href="#{{ id }}">{{ title }}</a></li>
-        {% endfor %}
-        <li class="dropdown pull-right">
+        <li class="dropdown pull-left">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">
           <img src="img/home_logo.png" class="hidden-xs"/>
           Capítulos <b class="caret"></b></a>
@@ -28,6 +25,9 @@
             <li><a href="creditos.html"> 6. "Créditos" </a></li>
           </ul>
         </li>
+        {% for id, title in nav_sections %}
+        <li{% if loop.first %} class="active"{% endif %}><a href="#{{ id }}">{{ title }}</a></li>
+        {% endfor %}
       </ul>
     </div>
   </div>
