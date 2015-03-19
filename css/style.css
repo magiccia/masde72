@@ -345,6 +345,9 @@ p.caption {
 .chapter-nav a .title i {
   font-size: 15px;
 }
+.culpable-header-wrapper {
+  background-color: #bbb;
+}
 
 .culpable-header-wrapper h2 {
   margin-bottom: 0;
