@@ -36,7 +36,9 @@ section {
   font-size: 14px;
   text-align: center;
   min-height: 30px;
+  z-index: 9999;
 }
+
 .navbar .nav {
   font-family: 'Sanchez', serif;
   width: 100%;
