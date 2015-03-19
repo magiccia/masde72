@@ -280,16 +280,29 @@ p.caption {
   z-index: 80;
 }
 
+.page-capitulo4 {
+  background-color: #ffffcd;
+  font-family: Courier, serif;
+}
 .page-capitulo4 .intro {
   background-image: url('../img/cap4_back.jpg');
-}
-.page-capitulo4 .info {
-  font-family: "Sanchez", serif;
 }
 .page-capitulo4 section img {
   border: 1px solid #ddd;
   box-shadow: 0 0 10px 1px rgba(0,0,0,0.5);
   margin-bottom: 20px;
+}
+.page-capitulo4 section {
+  padding-top: 0;
+  padding-bottom: 5vmax;
+  border-top: 1px solid #666;
+  box-shadow: 0 0 15px 1px rgba(0,0,0,.7);
+}
+
+.page-capitulo4 section h2,
+.page-capitulo4 section h3,
+.page-capitulo4 section h4 {
+  text-align: left;
 }
 
 .navbar img {
@@ -354,20 +367,6 @@ p.caption {
 .culpable-header-wrapper {
   margin-bottom: 30px;
   padding: 15px 0;
-}
-
-.page-capitulo4 section {
-  padding-top: 0;
-  padding-bottom: 5vmax;
-  border-top: 1px solid #666;
-  box-shadow: 0 0 15px 1px rgba(0,0,0,.7);
-  background-color: #fff;
-}
-
-.page-capitulo4 section h2,
-.page-capitulo4 section h3,
-.page-capitulo4 section h4 {
-  text-align: left;
 }
 
 #autopsias {
