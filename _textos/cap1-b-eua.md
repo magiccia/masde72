@@ -2,5 +2,5 @@ Entre los cuerpos de 58 hombres y 14 mujeres yacían dos migrantes heridos que p
 Los sobrevivientes huyeron en distintas direcciones. El ecuatoriano escuchó que al salvadoreño lo persiguieron unas camionetas y escuchó después disparos. Imaginó que había sido asesinado.
 Mientras tanto, buscó auxilio en una casa o intentó acercarse a los policías locales (el cable destaca que los relatos conocidos difieren en este punto); no lo ayudaron.
 Caminó toda la noche. En la madrugada del lunes 23 de agosto llegó a un retén de la Marina donde avisó lo sucedido. En la mañana los marinos intentaron ubicar por tierra y aparentemente sobrevolaron en helicóptero el lugar de la masacre. Ahí fue donde aprehendieron a uno de los miembros de los Zetas que era menor de edad, el ecuatoriano lo identificó por medio de una fotografía como uno de los secuestradores.
-Link al Cable: http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf
+Link al Cable: [http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf](http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf)
 
