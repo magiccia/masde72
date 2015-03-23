@@ -7,3 +7,5 @@ De igual forma, sostiene que no se exigió ningún pago de rescate a ninguna de 
 Fuente 1) http://www.insightcrime.org/news-analysis/picture-of-mexico-migrant-massacres-still-incomplete
 Fuente 2) http://www.insightcrime.org/news-analysis/anniversary-of-migrant-massacre-in-mexico-brings-few-answers
 
+<p><a href="http://www.insightcrime.org/news-analysis/picture-of-mexico-migrant-massacres-still-incomplete">FUENTE 1</a></p>
+<p><a href="http://www.insightcrime.org/news-analysis/anniversary-of-migrant-massacre-in-mexico-brings-few-answers">FUENTE 2</a></p>
