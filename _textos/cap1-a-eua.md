@@ -7,4 +7,4 @@ Una mujer y un niño fueron separados del grupo, desde entonces no se volvió a 
 Los demás fueron llevados a una bodega abandonada. Fueron amarrados, algunos vendados. Pagaron su negativa: uno por uno recibieron un tiro directo en la cabeza. En el crimen se usó una sola pistola.
 Las víctimas (58 hombres y 14 mujeres, aparentemente una de las mujeres estaba embarazada) fueron encontradas sin ninguna identificación. Los tres camiones y el equipaje de los migrantes no fueron recuperados. 
 El jueves 24 a las 6 de la tarde la Marina encontró los cuerpos en un rancho abandonado. Los cuerpos parecían haber sido amontonados contra la pared de la bodega.
-LINK A PDF - http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf
+LINK A PDF - [http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf](http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf)
