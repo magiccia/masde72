@@ -5,6 +5,6 @@ La SEMAR difundió un video de un sobrevuelo sobre la finca y aportó algunas fo
 El miércoles 25 de agosto el gobierno federal ofreció una conferencia de prensa a cargo de Alejandro Poiré y el portavoz de la Secretaría de Marina el contralmirante José Luis Vergara, en la que anunciaron que las víctimas encontradas podrían corresponder a migrantes centroamericanos y que se estaba por confirmar la identificación de los 72 cadáveres. 
 Al día siguiente el presidente Felipe Calderón dio una versión más durante una entrevista con el periodista Sergio Sarmiento: “Es curioso que el testigo, por ejemplo, dice que llegó primero a un puesto de la Policía de Tamaulipas, que le dijeron: ‘Ahora sí que no es en esta ventanilla, vete allá, con los marinos'" afirmó el entonces mandatario.
 
-Link al boletín de prensa SEMAR: http://2006-2012.semar.gob.mx/sala-prensa/comunicados-2010/1436-comunicado-de-prensa-216-2010.html
-Link a la entrevista de Sergio Sarmiento a Felipe Calderón: http://calderon.presidencia.gob.mx/2010/08/entrevista-que-concedio-el-presidente-a-sergio-sarmiento/
-La entrevista en Youtube: https://www.youtube.com/watch?v=WOnybzUCUPs
+Link al boletín de prensa SEMAR: [http://2006-2012.semar.gob.mx/sala-prensa/comunicados-2010/1436-comunicado-de-prensa-216-2010.html](http://2006-2012.semar.gob.mx/sala-prensa/comunicados-2010/1436-comunicado-de-prensa-216-2010.html)
+Link a la entrevista de Sergio Sarmiento a Felipe Calderón: [http://calderon.presidencia.gob.mx/2010/08/entrevista-que-concedio-el-presidente-a-sergio-sarmiento/](http://calderon.presidencia.gob.mx/2010/08/entrevista-que-concedio-el-presidente-a-sergio-sarmiento/)
+La entrevista en Youtube: [https://www.youtube.com/watch?v=WOnybzUCUPs](https://www.youtube.com/watch?v=WOnybzUCUPs)
