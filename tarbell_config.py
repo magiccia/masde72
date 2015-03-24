@@ -53,7 +53,7 @@ DEFAULT_CONTEXT = {
     ],
     'el_hallazgo_versions': [
         ('Oficial', 'oficial', '_textos/cap1-c-oficial.md'),
-        ('Tesis', 'tesis', '_textos/cap1-c-eua.md'),
+        ('Tesis', 'tesis', '_textos/cap1-c-tesis.md'),
         ('Insight Crime', 'incrime', '_textos/cap1-c-incrime.md'),
     ],
     'la_hipotesis_versions': [
@@ -62,9 +62,6 @@ DEFAULT_CONTEXT = {
         ('Insight Crime', 'incrime', '_textos/cap1-d-incrime.md'),
         ('Moore', 'moore', '_textos/cap1-d-moore.md'),
     ],
-    'prensa_versions': [
-        ('Oficial', 'oficial', '_textos/no-oficial-version.md'),
-        ('Tesis', 'tesis', '_textos/cap1-e-tesis.md'),
-    ],
+
 
 }
