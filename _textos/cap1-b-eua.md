@@ -1,10 +1,6 @@
-Entre los cuerpos de 58 hombres y 14 mujeres yacían dos migrantes heridos que por el impacto perdieron la conciencia, pero despertaron: eran un salvadoreño y un ecuatoriano de 18 años. Este último fue quien relató los hechos anteriores en los que se basa la información del cable.
-Los sobrevivientes huyeron en distintas direcciones. El ecuatoriano escuchó que al salvadoreño lo persiguieron unas camionetas y escuchó después disparos. Imaginó que había sido asesinado.
-Mientras tanto, buscó auxilio en una casa o intentó acercarse a los policías locales (el cable destaca que los relatos conocidos difieren en este punto); no lo ayudaron.
-Caminó toda la noche. En la madrugada del lunes 23 de agosto llegó a un retén de la Marina donde avisó lo sucedido. En la mañana los marinos intentaron ubicar por tierra y aparentemente sobrevolaron en helicóptero el lugar de la masacre. Ahí fue donde aprehendieron a uno de los miembros de los Zetas que era menor de edad, el ecuatoriano lo identificó por medio de una fotografía como uno de los secuestradores.
-<<<<<<< HEAD
-<p><a href="http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf">LINK A CABLE</a></p>
-=======
-Link al Cable: [http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf](http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf)
->>>>>>> origin/master
+<p>Entre los cuerpos de 58 hombres y 14 mujeres yacían dos migrantes heridos que por el impacto perdieron la conciencia, pero despertaron:  un salvadoreño y un ecuatoriano de 18 años. Este último fue quien relató los hechos anteriores en los que se basa la información del cable.</p>
+<p>Los sobrevivientes huyeron en distintas direcciones. El ecuatoriano escuchó que al salvadoreño lo persiguieron unas camionetas y escuchó después disparos. Imaginó que había sido asesinado.</p>
+<p>Mientras tanto, buscó auxilio en una casa o intentó acercarse a los policías locales (el cable destaca que los relatos conocidos difieren en este punto); no lo ayudaron.</p>
+<p>Caminó toda la noche. En la madrugada del lunes 23 de agosto llegó a un retén de la Marina donde avisó lo sucedido. En la mañana los marinos intentaron ubicar por tierra y aparentemente sobrevolaron en helicóptero el lugar de la masacre. Ahí fue donde aprehendieron a uno de los miembros de los Zetas que era menor de edad, el ecuatoriano lo identificó por medio de una fotografía como uno de los secuestradores.</p>
+<p><a href="http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf">LINK A CABLE</a>Cable desclasificado por la organización National Security Archive.</p>
 
