@@ -49,7 +49,7 @@ DEFAULT_CONTEXT = {
         ('Tesis', 'tesis', '_textos/cap1-b-tesis.md'),
         ('Moore', 'moore', '_textos/cap1-b-moore.md'),
         ('CNDH', 'cndh', '_textos/cap1-b-cndh.md'),
-        ('FARO', 'faro', '_textos/cap1-b-faro.md'),
+        ('EL Faro', 'faro', '_textos/cap1-b-faro.md'),
     ],
     'el_hallazgo_versions': [
         ('Oficial', 'oficial', '_textos/cap1-c-oficial.md'),
@@ -57,7 +57,7 @@ DEFAULT_CONTEXT = {
         ('Insight Crime', 'incrime', '_textos/cap1-c-incrime.md'),
     ],
     'la_hipotesis_versions': [
-        ('Oficial', 'oficial', '_textos/no-oficial-version.md'),
+        ('El Faro', 'oficial', '_textos/cap1-d-faro.md'),
         ('Embajada EUA', 'eua', '_textos/cap1-d-eua.md'),
         ('Insight Crime', 'incrime', '_textos/cap1-d-incrime.md'),
         ('Moore', 'moore', '_textos/cap1-d-moore.md'),
