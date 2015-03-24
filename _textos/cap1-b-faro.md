@@ -3,4 +3,4 @@
 
 
 
-<p>Por Óscar Martínez publicado en el sitio web El Faro. <a href="http://www.salanegra.elfaro.net/es/201403/cronicas/15101/Los-coyotes-domados.htm?st-full_text=all&tpl=11567">Reportaje completo</a></p>
+<p>Por Óscar Martínez, publicado en el sitio web El Faro. <a href="http://www.salanegra.elfaro.net/es/201403/cronicas/15101/Los-coyotes-domados.htm?st-full_text=all&tpl=11567">Lee aquí el Reportaje completo</a></p>
