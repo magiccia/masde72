@@ -182,7 +182,7 @@ section {
 .mini-map {
   float: left;
   margin-right: 5px;
-  max-width: 300px;
+  max-width: 500px;
 }
 .photos img {
   margin-bottom: 20px;
