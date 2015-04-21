@@ -4,6 +4,9 @@
 <p>Posteriormente, la PGR confirmó, a través del boletín 1050/10 fechado el primero de septiembre, que tenía bajo su custodia a otro testigo de la matanza, del cual sólo reveló que su nacionalidad era hondureña y que se le proporcionó protección y resguardo. Esa persona estaba apoyando en los procesos de identificación y repatriación de las víctimas.</p>
 <p>De manera oficial no hay un comunicado que mencione la situación del testigo hondureño después de haberlo tenido bajo custodia, sin embargo en la Recomendación No. 80/2013 la CNDH solicitó el documento en el que Control y Verificación Migratoria autorizó la repatriación del sobreviviente el día 24 de septiembre de 2010, en condición de testigo protegido.</p>
 
-<p>[Boletín 1050/10 - PGR](www.pgr.gob.mx/prensa/2007/bol10/sep/1050.pdf)</p> 
-<p>[Boletín 1019a - PGR](http://pgr.gob.mx/Prensa/2007/bol10/ago/b1019a.shtm)</p>
+
+[Boletín 1050/10 - PGR](www.pgr.gob.mx/prensa/2007/bol10/sep/1050.pdf) 
+
+
+[Boletín 1019a - PGR](http://pgr.gob.mx/Prensa/2007/bol10/ago/b1019a.shtm)
 
