@@ -7,4 +7,5 @@
 <p>“Las más de 12 millas es mucho para caminar con dificultades, especialmente con una herida en la quijada, de acuerdo con algunos reportes y otra en la clavícula. De forma concebible, tal acto de voluntad pudo haberse explicado por un factor indescriptible que incluso se les escapó a los lugareños.”</p>
 <p>El investigador menciona la aparición de un segundo sobreviviente, pero destaca: “La supuesta historia del hondureño situaría la masacre en la noche del sábado 21 de agosto, mientras que la del ecuatoriano la pone en la noche del domingo 22. Ambas no pueden ser ciertas y no pueden estar equivocadas en un detalle tan básico.” (El equipo de investigación de Periodistas de a Pie no encontró el testimonio del hondureño.) </p>
 
-<p>Gary Moore, periodista de investigación independiente especializado en derechos humanos.<a href="https://garymoore22.wordpress.com/2011/09/12/a-lost-piece-of-the-massacre-puzzle/">(Su blog)</a></p>
+[LINK AL BLOG DE MOORE](https://garymoore22.wordpress.com/2011/09/12/a-lost-piece-of-the-massacre-puzzle/)
+
