@@ -315,10 +315,33 @@ p.caption {
   background-image: url('../img/cap5_home.jpg');
 }
 
-.page-capitulo5 .intro h1, .page-capitulo5-1 .intro h2 {
+.page-capitulo5 .intro h1, .page-capitulo5 .intro h2 {
   color: #fff;
   opacity: 0.8;
   text-shadow: 0 0 4px rgba(0,0,0,0.6);
+}
+
+
+.creditos .logos {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  height: 90px;
+  z-index: 20;
+}
+.creditos .logos img {
+  width: auto;
+  margin: 12px 5px;
+}
+.creditos .logos .periodistas-logo {
+  height: 72px;
+  margin: 8px 18px 0 0;
+}
+.creditos .logos .connectas-logo {
+  height: 48px;
+  margin: 6px 0 0 18px;
 }
 
 .navbar img {
