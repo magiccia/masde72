@@ -1,3 +1,4 @@
+<p>Comunicado de Prensa 216/2010 - SEMAR</p>
 <p>La Secretaría de Marina informó el martes 24 de agosto de 2010 que al puesto de control carretero que mantenía en las inmediaciones de San Fernando, llegó un hombre ecuatoriano herido con arma de fuego, quien denunció que había estado retenido en un rancho cercano al retén, con otras personas que fueron asesinadas. El era un sobreviviente. Se salvó porque se hizo el muerto.</p>
 <p>Al principio no le creyeron. Al seguir las indicaciones dadas por el ecuatoriano y se encontraron con delincuentes que abrieron fuego y emprendieron la fuga. En el ataque murió un marino y tres supuestos miembros del grupo delictivo, fue aprehendido un menor de edad, además del decomiso de armas y cartuchos. </p>
 <p>Los marinos llegaron al lugar señalado por el herido, un rancho que denominaron El Huizachal –ubicado a 22 kilómetros al noreste de la cabecera municipal–, donde encontraron los cuerpos sin vida de las 72 personas.</p> 
