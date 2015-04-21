@@ -213,6 +213,12 @@ p.caption {
 .page-capitulo1 .intro {
   background-image: url('../img/cap1_home.jpg');
 }
+
+.page-capitulo1 .intro h1, .page-capitulo1 .intro h2 {
+  color: #fff;
+  opacity: 0.8;
+  text-shadow: 0 0 4px rgba(0,0,0,0.6);
+}
 .page-capitulo1 section h3 {
   font-size: 14px;
   text-transform: uppercase;
@@ -303,6 +309,16 @@ p.caption {
 .page-capitulo4 section h3,
 .page-capitulo4 section h4 {
   text-align: left;
+}
+
+.page-capitulo5 .intro {
+  background-image: url('../img/cap5_home.jpg');
+}
+
+.page-capitulo5 .intro h1, .page-capitulo5-1 .intro h2 {
+  color: #fff;
+  opacity: 0.8;
+  text-shadow: 0 0 4px rgba(0,0,0,0.6);
 }
 
 .navbar img {
