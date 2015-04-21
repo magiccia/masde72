@@ -4,7 +4,7 @@
 <p>Para un país que está acostumbrado a las atrocidades a gran escala, esta masacre no tuvo precedentes. Entre las víctimas hubo 14 mujeres, una de ellas posiblemente embarazada; ninguna de ellas mostró signos de ataque sexual, una característica típica de Los Zetas.</p>
 <p>De igual forma, sostiene que no se exigió ningún pago de rescate a ninguna de las familias de las víctimas, pese a que los Zetas secuestraban regularmente migrantes en toda la región.</p>
 <p>"...Reportes iniciales indicaron que Los Zetas secuestraron al grupo en la carretera y que los iban a matar si se negaban a unirse al cártel. Pero, como Insight Crime ha señalado, esto parece improbable. Tiene un poco de lógica pensar que Los Zetas están lo suficientemente desesperados para recurrir a este tipo de reclutamiento forzado. De igual forma, la idea de que los migrantes fueron asesinados tras ser confundidos como refuerzos de otro cártel no tiene fundamentos, ya que, todos o la gran mayoría, eran extranjeros, así que hubiera sido muy fácil identificarlos como migrantes.</p>
-<p>Los documentos que analiza fueron obtenidos por el Archivo Nacional de Seguridad (NSA por sus siglas en inglés) a través del Freedom of Information Act (FOIA).</p>
+<p>Los documentos que analiza fueron obtenidos por la organización National Security Archive.</p>
 
 <p><a href="http://www.insightcrime.org/news-analysis/picture-of-mexico-migrant-massacres-still-incomplete">FUENTE 1</a></p>
 <p><a href="http://www.insightcrime.org/news-analysis/anniversary-of-migrant-massacre-in-mexico-brings-few-answers">FUENTE 2</a></p>
