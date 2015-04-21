@@ -17,11 +17,9 @@ Su número de expediente administrativo es el 550/2011 del penal bajacalifornian
 Según el reportaje del semanario Zeta, Alba Terrazas tiene numerosos tatuajes que arrojan información personal. Algunos de ellos son la imagen de un demonio y una hoja de marihuana, la figura de la Santa Muerte, la palabra “Junior”, “Álvaro” (el nombre de su padre), la figura de una niña y la leyenda “Charely 02/03/02” (su hija), la figura de un cholo con la leyenda “Tazo”, la frase “Nací para sufrir nací para morir" y una lágrima tatuada en el costado de cada ojo.
 
 ####Fuentes:
-“El Junior”, tres años y medio en “El Hongo” Zeta. Sin fecha. Disponible en:
-http://zetatijuana.com/noticias/reportajez/15178/una-navidad-sin-paz#sthash.mTPTu5T2.dpuf
-Tarjeta informativa de la SEIDO:
-http://nsarchive.gwu.edu/NSAEBB/NSAEBB499/TarjetaInformativa.pdf
-"Documenting Mexico’s Recurring Nightmare" Migration Declassified a Project of the National Security Archive. 29 de enero de 2015. Disponible en: https://migrationdeclassified.wordpress.com/2015/01/29/documenting-mexicos-recurring-nightmare/
-"PGR entrega datos sobre participación de policías de San Fernando en masacre de migrantes" Animal Político. 22 de diciembre de 2014. Disponible en: http://www.animalpolitico.com/2014/12/policias-de-san-fernando-participaron-en-masacre-de-migrantes-pgr-entrega-datos-del-caso/
-Boletín 417/11 PGR. 19 de Abril de 2011. Disponible en: http://www.pgr.gob.mx/Prensa/2007/bol11/abr/b41711.shtm
+[“El Junior”, tres años y medio en “El Hongo” Zeta. Sin fecha.](http://zetatijuana.com/noticias/reportajez/15178/una-navidad-sin-paz#sthash.mTPTu5T2.dpuf) 
+[Tarjeta informativa de la SEIDO](http://nsarchive.gwu.edu/NSAEBB/NSAEBB499/TarjetaInformativa.pdf)
+["Documenting Mexico’s Recurring Nightmare" Migration Declassified a Project of the National Security Archive. 29 de enero de 2015.](https://migrationdeclassified.wordpress.com/2015/01/29/documenting-mexicos-recurring-nightmare/)
+["PGR entrega datos sobre participación de policías de San Fernando en masacre de migrantes" Animal Político. 22 de diciembre de 2014.](http://www.animalpolitico.com/2014/12/policias-de-san-fernando-participaron-en-masacre-de-migrantes-pgr-entrega-datos-del-caso/) 
+[Boletín 417/11 PGR. 19 de Abril de 2011.](http://www.pgr.gob.mx/Prensa/2007/bol11/abr/b41711.shtm)
 
