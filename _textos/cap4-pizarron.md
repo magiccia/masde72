@@ -1,4 +1,4 @@
- #### Delitos de los que se le acusa:
+#### Delitos de los que se le acusa:
 
 -Delincuencia organizada
 -Privación ilegal de la libertad en su modalidad de causar daño en agravio de 72 personas de origen centroamericano
@@ -7,7 +7,7 @@
 -Tentativa de homicidio con agravante de ventaja de Luis Fredi Lala Pomavilla y homicidio calificado por 72 personas de origen centroamericano
 
 
- #### Detenido en:
+#### Detenido en:
 
 No se tiene claridad sobre si se encuentra en  el Centro Federal de Readaptación Social (Cefereso) número 4 “El Rincón”, en Tepic, Nayarit, o en el Cefereso número 5 “Oriente”, en Villa Aldama, Veracruz. 
 
