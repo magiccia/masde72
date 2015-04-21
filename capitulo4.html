@@ -20,21 +20,31 @@
   <h2>Capítulo 4</h2>
   <h1>Los Culpables</h1>
 
-  <div class="container">
+  <div class="intro-text">
+      <p>En algunos casos fueron presentados con el acostumbrado despliegue mediático del gobierno de Felipe Calderón, cuando pretendía convencer que ganaba su guerra contra el narcotráfico.</p>
+      <p>Pero a la mayoría de los responsables de la masacre de 72 migrantes en San Fernando les cubre un manto de silencio, bordado con versiones contradictorias de las autoridades o expedientes sepultados en la burocracia.</p>
+      <p>Cinco años después de la tragedia todavía no está claro el papel que jugaron los que están detenidos, ni tampoco cuántos faltan por aprehender.</p>
+      <p>No se conoce el estado del juicio en su contra, si recibieron alguna sentencia en prisión o si en verdad fueron detenidos como presumió la Procuraduría de Tamaulipas en el caso de Román Ricardo Palomo Rincones, El Coyote.</p>
+      <p>El personaje, co-autor de la masacre capturado en agosto de 2013 según la fiscalía, aparece todavía en la lista de los delincuentes por quien se ofrece una recompensa de 10 millones de pesos.</p>
+      <p>Todavía ahora sigue la captura de probables responsables, como los 18 policías municipales de San Fernando acusados de colaborar en la masacre.</p>
+      <p>Pero las dudas sobre el caso se imponen. ¿Cuántos son los culpables de la peor masacre de migrantes en la historia de México? ¿Son todos miembros de Los Zetas y policías del municipio? ¿Hay otros involucrados de los que no se habla, o se esconde su existencia?</p>
+  </div>
+
+  
     <div class="row">
         <div class="col-xs-6">
-          {% for persona in culpables[0:8] %}
+          {% for persona in culpables[0:9] %}
           <p><a href="#{{ persona.id }}">{{ persona.nombre }}</a></p>
           {% endfor %}
         </div>
         <div class="col-xs-6">
-          {% for persona in culpables[8:] %}
+          {% for persona in culpables[9:] %}
           <p><a href="#{{ persona.id }}">{{ persona.nombre }}</a></p>
           {% endfor %}
         </div>
     </div>
-  </div>
 </div>
+
 
 {% for persona in culpables %}
 <section id="{{ persona.id }}">
@@ -64,6 +74,7 @@
     </div>
   </div>
 </section>
+
 {% endfor %}
 
 {# ADD NEW CULPABLE, Z-42, THE TEXT IS ALREADY IN THE FOLDER #}
