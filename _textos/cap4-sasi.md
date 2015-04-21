@@ -10,6 +10,15 @@
 #### Detenido en:
 Centro Federal de Readaptación Social número 3, localizado en el municipio de Matamoros.
 
+####Comentarios: 
+Es considerado por las autoridades como uno de los tres principales jefes zetas que planearon y consumaron el plagio y multihomicidio de los migrantes.
+
+El sujeto fue detenido el 31 de marzo de 2015 en Ciudad Victoria después de cuatro años y tres meses de la masacre de 72 migrantes ocurrida en San Fernando, Tamaulipas.
+
+
+
 #### Fuentes:
 
 [Recompensa por asesinos de migrantes - El Economista](http://eleconomista.com.mx/seguridad-publica/2011/01/31/pgr-ofrece-recompensa-asesinos-migrantes)
+
+["Autoridades detienen a implicado en masacre de migrantes en Tamaulipas". CNNMéxico. 31 de marzo de 2015.](http://www.cnnmexico.com/nacional/2015/03/31/autoridades-detienen-a-implicado-en-masacre-de-migrantes-en-tamaulipas) 
