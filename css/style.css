@@ -2,6 +2,7 @@ body {
   position: relative;
   font-size: 18px;
   font-family: Georgia, serif;
+  text-align: justify;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -321,6 +322,15 @@ p.caption {
   text-shadow: 0 0 4px rgba(0,0,0,0.6);
 }
 
+.page-capitulo6 .intro h1, .page-capitulo6 .intro h2 {
+  color: #000;
+}
+
+.page-capitulo6 .container{
+  text-align: justify;
+  color: #000;
+}
+
 
 .creditos .logos {
   position: absolute;
@@ -407,7 +417,7 @@ p.caption {
 }
 
 #autopsias {
-  background-color: #a5e2e2;
+  background-color: #fff;
 }
 
 @media (min-width:768px) {
