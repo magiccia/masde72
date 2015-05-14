@@ -3,6 +3,6 @@
 
 
 
-<p>Por Óscar Martínez, publicado en el sitio web El Faro. <a href="http://www.salanegra.elfaro.net/es/201403/cronicas/15101/Los-coyotes-domados.htm?st-full_text=all&tpl=11567">Lee aquí el Reportaje completo</a></p>
+<p>Por Óscar Martínez, publicado en el sitio web El Faro. <a href="http://www.salanegra.elfaro.net/es/201403/cronicas/15101/" target="_blank">Lee aquí el Reportaje completo</a></p>
 
 * Nota: El apellido de Freddy es consignado como “Pomavilla” en este texto, por lo que fue retomado de manera íntegra. Recordamos al lector que la intención de este ejercicio es el contraste de las distintas versiones sobre los mismos hechos.

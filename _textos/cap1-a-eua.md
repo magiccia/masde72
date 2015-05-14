@@ -1,4 +1,3 @@
-<p>Cable 20100826 obtenido por la organización National Security Archive (NSA)</p>
 <p>Reporte 20100826 obtenido por la organización National Security Archive (NSA) - Cables diplomáticos entre la Embajada de EUA y la Embajada mexicana.</p> 
 <p>El 22 de agosto 75 migrantes de Guatemala, Honduras, Brasil, Ecuador y la India viajaban en un tráiler de tres paneles por la carretera entre Ciudad Victoria y Reynosa.</p>
 <p>Fueron detenidos por un número indeterminado de criminales y transportados bajo vigilancia a San Fernando. El secuestro se habría realizado al norte de un retén fijo del Ejército sobre la carretera a través de pequeños caminos rurales. </p>
