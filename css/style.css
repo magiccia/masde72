@@ -321,6 +321,7 @@ p.caption {
   margin-right: 70px;
   margin-left: 70px;
   font-weight: bold;
+  margin-bottom: 30px;
 
 }
 
@@ -461,4 +462,16 @@ p.caption {
   .page-capitulo3 .intro .navbar li {
     width: 25%;
   }
+}
+dt { 
+  margin-bottom: 15px;
+}
+dd {
+  margin-bottom: 25px;
+}
+
+.capturados {margin-bottom: 40px;}
+
+.intro .captucabeza {
+  margin-top: 30px;
 }

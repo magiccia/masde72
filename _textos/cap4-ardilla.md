@@ -10,13 +10,13 @@ Así fue como se convirtió en el jefe regional de Los Zetas en Tamaulipas. Cuan
 
 #### **Delitos de los que se le acusa:**  
 
--Delincuencia organizada
--Privación ilegal de la libertad en modalidad de secuestro
--Violación a la Ley General de Armas de Fuego y Explosivos
--Autoría intelectual de la muerte de 72 indocumentados localizados en San Fernando, Tamaulipas, en agosto de 2010
--Homicidio de 320 personas
--Homicidios del estadunidense David Michael Hartley, cometido el 30 de septiembre de 2010, en la presa Falcón, en Nuevo Laredo y del comandante de la policía ministerial de esa localidad, Rolando Flores Villegas 
--Autoría intelectual de la fuga de 282 reos
+* Delincuencia organizada
+* Privación ilegal de la libertad en modalidad de secuestro
+* Violación a la Ley General de Armas de Fuego y Explosivos
+* Autoría intelectual de la muerte de 72 indocumentados localizados en San Fernando, Tamaulipas, en agosto de 2010
+* Homicidio de 320 personas
+* Homicidios del estadunidense David Michael Hartley, cometido el 30 de septiembre de 2010, en la presa Falcón, en Nuevo Laredo y del comandante de la policía ministerial de esa localidad, Rolando Flores Villegas 
+* Autoría intelectual de la fuga de 282 reos
 
 
 #### **Detenido en:**
@@ -30,20 +30,19 @@ Su detención ocurre un día antes de que "El Lazca" fuera abatido por la Marina
 
 Sus testimonios formaron parte del expediente Nº: UEIARV/040/2012 por el abatimiento de "El Lazca"
 
-["Comandante Ardilla Zetas" Rap de Néctar Lima dedicado a Salvador Alfonso Martínez Escobedo](https://www.youtube.com/watch?v=iQuKKcNE9Rw)
 
 #### **Fuentes:**
 
 
-[- La Ardilla', uno de los más buscados es detenido - CNN México](http://mexico.cnn.com/videos/2012/10/08/la-ardilla-uno-de-los-mas-buscados-es-detenido) 
+<a href="http://www.laopinion.com/noticiaslatinoamerica/article/20140204/Los-Zetas-los-mas-violentos" target="_blank">Los Zetas, los más violentos</a> -  La Opinión. 4 de febrero de 2014.
 
-[- Pleitos internos minaron estructura de Los Zetas -Terra](http://noticias.terra.com.mx/mexico/seguridad/pleitos-internos-minaron-estructura-de-los-zetas,2c37a9bbc07b1410VgnVCM3000009af154d0RCRD.html) 
+<a href="http://noticias.terra.com.mx/mexico/seguridad/pleitos-internos-minaron-estructura-de-los-zetas,2c37a9bbc07b1410VgnVCM3000009af154d0RCRD.html" target="_blank">Pleitos internos minaron estructura de Los Zetas</a> Terra. 14 de octubre de 2013.
 
-[- Adjudican 320 crímenes a reo fugado de Coatza- Imagen del Golfo](http://www.imagendelgolfo.com.mx/resumen.php?id=345912) 
+<a href="http://mexico.cnn.com/videos/2012/10/08/la-ardilla-uno-de-los-mas-buscados-es-detenido" target="_blank">La Ardilla', uno de los más buscados es detenido</a> - CNN México. 9 de octubre de 2012. 
 
-[- Los Zetas, los más violentos -  La opinión](http://www.laopinion.com/noticiaslatinoamerica/article/20140204/Los-Zetas-los-mas-violentos) 
+<a href="http://www.imagendelgolfo.com.mx/resumen.php?id=345912" target="_blank">Adjudican 320 crímenes a reo fugado de Coatza</a> - Imagen del Golfo. 8 de octubre de 2012.
 
-[- Presentan a “La Ardilla”, presunto líder de Los Zetas - El Economista](http://eleconomista.com.mx/seguridad-publica/2012/10/08/presentan-ardilla-presunto-jefe-zetas)
+<a href="http://eleconomista.com.mx/seguridad-publica/2012/10/08/presentan-ardilla-presunto-jefe-zetas" target="_blank">Presentan a “La Ardilla”, presunto líder de Los Zetas</a> - El Economista. 8 de octubre de 2012.
 
-[-“Presentan a ‘La Ardilla’, autor de más de 300 muertes en Tamaulipas”. Milenio. 8 de octubre de 2012.](https://www.youtube.com/watch?v=AEA6SyWcky0) 
+<a href="http://www.youtube.com/watch?v=AEA6SyWcky0" target="_blank">Presentan a ‘La Ardilla’, autor de más de 300 muertes en Tamaulipas</a> - Milenio. 8 de octubre de 2012.
 

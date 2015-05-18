@@ -24,7 +24,7 @@
       <p>En algunos casos fueron presentados con el acostumbrado despliegue mediático del gobierno de Felipe Calderón, cuando pretendía convencer que ganaba su guerra contra el narcotráfico.</p>
       <p>Pero a la mayoría de los responsables de la masacre de 72 migrantes en San Fernando les cubre un manto de silencio, bordado con versiones contradictorias de las autoridades o expedientes sepultados en la burocracia.</p>
       <p>Cinco años después de la tragedia todavía no está claro el papel que jugaron los que están detenidos, ni tampoco cuántos faltan por aprehender.</p>
-      <p>No se conoce el estado del juicio en su contra, si recibieron alguna sentencia en prisión o si en verdad fueron detenidos como presumió la Procuraduría de Tamaulipas en el caso de Román Ricardo Palomo Rincones, El Coyote.</p>
+      <p>No se conoce el estado del juicio en su contra, si recibieron alguna sentencia en prisión o si en verdad fueron detenidos como presumió la Procuraduría de Tamaulipas en el caso de Román Ricardo Palomo Rincones, El Coyote.
       <p>El personaje, co-autor de la masacre capturado en agosto de 2013 según la fiscalía, aparece todavía en la lista de los delincuentes por quien se ofrece una recompensa de 10 millones de pesos.</p>
       <p>Todavía ahora sigue la captura de probables responsables, como los 18 policías municipales de San Fernando acusados de colaborar en la masacre.</p>
       <p>Pero las dudas sobre el caso se imponen. ¿Cuántos son los culpables de la peor masacre de migrantes en la historia de México? ¿Son todos miembros de Los Zetas y policías del municipio? ¿Hay otros involucrados de los que no se habla, o se esconde su existencia?</p>
@@ -33,20 +33,68 @@
   
     <div class="row">
         <div class="col-xs-6">
-          {% for persona in culpables[0:10] %}
+          {% for persona in culpables[0:7] %}
           <p><a href="#{{ persona.id }}">{{ persona.nombre }}</a></p>
           {% endfor %}
         </div>
         <div class="col-xs-6">
-          {% for persona in culpables[10:] %}
+          {% for persona in culpables[7:] %}
           <p><a href="#{{ persona.id }}">{{ persona.nombre }}</a></p>
           {% endfor %}
         </div>
     </div>
+
+    <h2 class="captucabeza"> Criminales capturados en 2011, 2014 Y 2015 </h2>
+
+    <div class="row">
+        <div class="col-xs-6">
+          {% for persona in capturados[0:3] %}
+          <p><a href="#{{ persona.id }}">{{ persona.nombre }}</a></p>
+          {% endfor %}
+        </div>
+        <div class="col-xs-6">
+          {% for persona in capturados[3:] %}
+          <p><a href="#{{ persona.id }}">{{ persona.nombre }}</a></p>
+          {% endfor %}
+        </div>
+    </div>    
 </div>
 
 
 {% for persona in culpables %}
+<section id="{{ persona.id }}">
+  <div class="culpable-header-wrapper" style="background-color: {{ persona.color }};">
+    <div class="container">
+      <h2>{{ persona.nombre }}</h2>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="info">
+          {% if persona.alias %}<h4><strong>Alias:</strong> "{{ persona.alias }}"</h4>{% endif %}
+          {% if persona.edad %}<h4><strong>Edad:</strong> {{ persona.edad }}</h4>{% endif %}
+          {% if persona.origen %}<h4><strong>Origen:</strong> {{ persona.origen }}</h4>{% endif %}
+        </div>
+
+        {{read_file("_textos/cap4-%s.md" % persona.id)|markdown}}
+      </div>
+      <div class="col-md-4 info">
+        {% if persona.unknown_image %}
+        <img src="img/home_logo.png" data-src="img/cap4_unknown.jpg" class="img-responsive">
+        {% else %}
+        <img src="img/home_logo.png" data-src="img/cap4_{{ persona.id }}.jpg" class="img-responsive">
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</section>
+
+{% endfor %}
+
+<h1 class="capturados"> Criminales capturados en 2011, 2014 Y 2015 </h1>
+
+{% for persona in capturados %}
 <section id="{{ persona.id }}">
   <div class="culpable-header-wrapper" style="background-color: {{ persona.color }};">
     <div class="container">

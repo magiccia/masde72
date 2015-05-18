@@ -10,9 +10,9 @@ Omar también es señalado por el asesinato de al menos 265 migrantes en San Fer
 
 #### **Delitos de los que se le acusa:**  
 
-- Delincuencia Organizada
-- Portación de Armas de Fuego de Uso Exclusivo del Ejército, Armada y Fuerza Aérea 
-- Operaciones con recursos de procedencia ilícita.
+* Delincuencia Organizada
+* Portación de Armas de Fuego de Uso Exclusivo del Ejército, Armada y Fuerza Aérea 
+* Operaciones con recursos de procedencia ilícita.
 
 
 #### **Detenido en:**
@@ -28,19 +28,19 @@ El juicio está marcado con el número de expediente 190/2015.
 
 #### **Fuentes:**
 
+<a href="http://www.proceso.com.mx/?p=398301" target="_blank">El Z-42” gana amparo que podría derivar en su libertad</a> - Proceso. 13 de marzo de 2015.
 
-- Juzgado dicta auto de formal prisión al “Z-42”. La Prensa. 13 de marzo de 2015. Disponible en: http://laprensa.mx/notas.asp?id=349421
+<a href="http://laprensa.mx/notas.asp?id=349421" target="_blank">Juzgado dicta auto de formal prisión al “Z-42”</a> - La Prensa. 13 de marzo de 2015.
 
-- Perfil del Z42. Insight Crime. Disponible en: http://es.insightcrime.org/noticias-sobre-crimen-organizado-en-mexico/z42
-“El Z-42” gana amparo que podría derivar en su libertad. Proceso. 13 de marzo de 2015 http://www.proceso.com.mx/?p=398301
-
-
-#### **Video**
-
-[Omar Treviño 'Z42', paso a paso de su detención](https://www.youtube.com/watch?v=V9cqQjvvvdI&spfreload=10)
+<a href="http://es.insightcrime.org/noticias-sobre-crimen-organizado-en-mexico/z42" target="_blank">Perfil del Z42</a> - Insight Crime.
 
 
-[Tucanes De Tijuana - El 42 (Comandante ZETA-42) (Los Zetas)](https://www.youtube.com/watch?v=Xvv6cErlyFw)
+#### **Videos:**
+
+<a href="https://www.youtube.com/watch?v=V9cqQjvvvdI&spfreload=10" target="_blank">Omar Treviño 'Z42', paso a paso de su detención</a> - Excélsior Tv. 5 de marzo de 2015.
+
+
+<a href="https://www.youtube.com/watch?v=Xvv6cErlyFw" target="_blank">Tucanes De Tijuana - El 42 (Comandante ZETA-42) (Los Zetas)</a>
 
 
 

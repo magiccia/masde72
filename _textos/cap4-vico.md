@@ -8,11 +8,11 @@ Los cuatro detenidos fueron arraigados junto con otros tres presuntos implicados
 
 #### Delitos de los que se le acusa:
 
--Delincuencia organizada
--Privación ilegal de la libertad en su modalidad de causar daño en agravio de 72 personas de origen centroamericano
--Violación a la Ley Federal de Armas de Fuego y Explosivos, por la portación de armas de fuego y posesión de cartucho, ambos de uso exclusivo del Ejército, Armada y Fuerza Aérea
--Corrupción de personas menores de 18 años
--Tentativa de homicidio con agravante de ventaja de Luis Fredi Lala Pomavilla y homicidio calificado por 72 personas de origen centroamericano
+* Delincuencia organizada
+* Privación ilegal de la libertad en su modalidad de causar daño en agravio de 72 personas de origen centroamericano
+* Violación a la Ley Federal de Armas de Fuego y Explosivos, por la portación de armas de fuego y posesión de cartucho, ambos de uso exclusivo del Ejército, Armada y Fuerza Aérea
+* Corrupción de personas menores de 18 años
+* Tentativa de homicidio con agravante de ventaja de Luis Fredi Lala Pomavilla y homicidio calificado por 72 personas de origen centroamericano
 
 
 #### Detenido en:
@@ -28,15 +28,18 @@ El expedientes de las averiguaciones previas de la PGR por la matanza de los 72 
 
 #### Fuentes: 
 
-[Prisión a ocho zetas por masacre en San Fernando - El Universal](http://www.eluniversal.com.mx/notas/716759.html)
+<a href="http://www.cronica.com.mx/notas/2014/852545.html" target="_blank">Ordena IFAI entregar documentos sobre multihomicidio de San Fernando</a> - La Crónica. 22 de agosto de 2014.
+
+<a href="http://www.razon.com.mx/spip.php?article89189" target="_blank">Destaca Segob avances por fosas de San Fernando - La Razón</a> - La Razón. 23 de agosto de 2011. 
+
+<a href="http://www.eluniversal.com.mx/notas/716759.html" target="_blank">Prisión a ocho zetas por masacre en San Fernando</a> - El Universal. 16 de octubre de 2010.
+
+<a href="http://www.elimparcial.com/EdicionEnLinea/Notas/Nacional/08092010/467675.aspx" target="_blank">Identifican a 4 ligados a masacre</a> - El Imparcial. 8 de septiembre de 2010.
 
 
-[Identifican a 4 ligados a masacre- Agencias](http://www.elimparcial.com/EdicionEnLinea/Notas/Nacional/08092010/467675.aspx)
 
 
-[Destaca Segob avances por fosas de San Fernando - La Razón](http://www.razon.com.mx/spip.php?article89189)
 
 
-[Ordena IFAI entregar documentos sobre multihomicidio de San Fernando - La Crónica](http://www.cronica.com.mx/notas/2014/852545.html)
 
 
