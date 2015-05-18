@@ -1,4 +1,4 @@
-<p>Reporte 20100826 obtenido por la organización National Security Archive (NSA) - Cables diplomáticos entre la Embajada de EUA y la Embajada mexicana.</p> 
+<p>Cable 20100826 obtenido por la organización National Security Archive (NSA).</p> 
 <p>El 22 de agosto 75 migrantes de Guatemala, Honduras, Brasil, Ecuador y la India viajaban en un tráiler de tres paneles por la carretera entre Ciudad Victoria y Reynosa.</p>
 <p>Fueron detenidos por un número indeterminado de criminales y transportados bajo vigilancia a San Fernando. El secuestro se habría realizado al norte de un retén fijo del Ejército sobre la carretera a través de pequeños caminos rurales. </p>
 <p>A algunos varones se les ofreció la oportunidad de trabajar para los Zetas y convertirse en sicarios por 500 dólares semanales, a las mujeres trabajo en labores domésticas. Todos, con excepción de una persona, rechazaron la oferta.</p>
@@ -8,5 +8,5 @@
 <p>El martes 24 a las 6 de la tarde la Marina encontró los cuerpos en un rancho abandonado. Los cuerpos parecían haber sido amontonados contra la pared de la bodega.</p>
 <p>*Nota: La información que se muestra aquí es la contenida en el cable No. 20100826, sin embargo se tienen dudas sobre si los migrantes fueron encontrados sin identificación, ya que eso logró la repatriación de varios de los cuerpos. Recordamos al lector que la intención de este ejercicio es el contraste de las versiones sobre los mismos hechos.</p>
 
-<p><a href="http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf">LINK A CABLE</a></p>
+<p><a href="http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf" target="_blank">CABLE 20100826</a></p>
 

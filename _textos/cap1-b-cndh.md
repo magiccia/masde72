@@ -5,4 +5,4 @@
 <p>En cuanto al hondureño desconocido, el 24 de agosto solicitó ayuda del Grupo Beta y ellos notificaron al Instituto Nacional de Migración, al día siguiente rindió su declaración y fue atendido en calidad de víctima por la Subprocuraduría de Investigación Especializada en Delincuencia Organizada (SIEDO). El 24 de septiembre de 2010, salió del país, en condición de testigo protegido.</p>
 <p>A pesar de que la CNDH estuvo solicitando que se diera atención psicológica a ambos, V73 nunca la recibió ya que todo el tiempo estuvo internado en el  hospital de la ciudad de Matamoros; de ahí fue trasladado a la Cancillería y repatriado a su país de origen el 29 de agosto de 2010.</p>
 
-<p><a href="http://www.cndh.org.mx/sites/all/fuentes/documentos/Recomendaciones/2013/REC_2013_080.pdf">CNDH - RECOMENDACIÓN No. 80/2013</a></p>
+<p><a href="http://www.cndh.org.mx/sites/all/fuentes/documentos/Recomendaciones/2013/REC_2013_080.pdf" target="_blank">CNDH - RECOMENDACIÓN No. 80/2013</a></p>
