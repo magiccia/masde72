@@ -462,6 +462,16 @@ p.caption {
   .page-capitulo3 .intro .navbar li {
     width: 25%;
   }
+  .page-capitulo1 .navbar-peekaboo li {
+    width: 25%;
+  }
+  .page-capitulo2 .navbar-peekaboo li {
+    width: 20%;
+  }
+  .page-capitulo3 .navbar-peekaboo li {
+    width: 25%;
+  }
+
 }
 dt { 
   margin-bottom: 15px;
@@ -475,3 +485,26 @@ dd {
 .intro .captucabeza {
   margin-top: 30px;
 }
+
+.navbar-peekaboo {
+  position: fixed;
+  width: 100%;
+  top: 30px;
+  z-index: 100;
+  font-size: 20px;
+  border-bottom: 1px solid #999;
+}
+.navbar-peekaboo>li>a {
+  padding: 5px;
+}
+.navbar-peekaboo .nav {
+  background-color: rgba(255, 255, 255, 1);
+}
+.navbar-peekaboo a {
+  color: #000;
+  text-shadow: 0 0 4px rgba(255, 255, 255, 0.7);
+}
+.navbar-peekaboo .active a {
+  background-color: #eee;
+}
+

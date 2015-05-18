@@ -30,7 +30,13 @@
     </ul>
   </nav>
 </div>
-
+<nav class="navbar navbar-peekaboo" role="navigation">
+  <ul class="nav navbar-nav">
+    {% for id, title in nav_sections %}
+    <li><a href="#{{ id }}">{{ title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
 
 <div class="container">
 
