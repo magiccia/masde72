@@ -29,7 +29,7 @@ Fue detenido junto a su novia Brenda Azhyade Infante Acevedo el 17 de junio del 
 
 <a href="http://lasillarota.com/20320-encarcelan-a-el-wache-en-penal-de-matamoros#.VHYAN4eic_M" target="_blank">Recluyen a El Wache en penal de Matamoros</a> - La Silla Rota. 8 de septiembre de 2011.
 
-<a href="http://www.youtube.com/watch?v=UycQ0P9jCts" target="_blank">Declara ‘El Wache’ sobre caso San Fernando.</a>  Demos Desarrollo de Medios. 22 de junio de 2011.
+<a href="https://vimeo.com/125638652" target="_blank">Declara ‘El Wache’ sobre caso San Fernando.</a> 22 de junio de 2011.
 
 <a href="http://www.excelsior.com.mx/2011/06/17/nacional/745570" target="_blank">Cae El Wache; coordinó la masacre de migrantes</a> - Excélsior. 17 de junio de 2011.
 

@@ -37,7 +37,7 @@ El juicio está marcado con el número de expediente 190/2015.
 
 #### **Videos:**
 
-<a href="https://www.youtube.com/watch?v=V9cqQjvvvdI&spfreload=10" target="_blank">Omar Treviño 'Z42', paso a paso de su detención</a> - Excélsior Tv. 5 de marzo de 2015.
+<a href="https://www.youtube.com/watch?v=V9cqQjvvvdI&spfreload=10" target="_blank">Detención de Omar Treviño 'Z42'.</a> - 4 de marzo de 2015.
 
 
 <a href="https://www.youtube.com/watch?v=Xvv6cErlyFw" target="_blank">Tucanes De Tijuana - El 42 (Comandante ZETA-42) (Los Zetas)</a>

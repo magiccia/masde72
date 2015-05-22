@@ -7,6 +7,6 @@
 <p>En minutos, vendaron a todos de los ojos, los tiraron al suelo, los asesinaron por la espalda; a muchos les dieron un tiro en la frente.</p>
 <p>Los cuerpos permanecieron un día apilados, a la intemperie, hasta que los detectó la Marina.</p>
 <p>Después se supo que los asesinos eran integrantes de Los Zetas. Que en el convoy original viajaban 77 personas.</p>
-<p><a href="http://2006-2012.semar.gob.mx/sala-prensa/comunicados-2010/1436-comunicado-de-prensa-216-2010.html" target="_blank">Comunicado de Prensa 216/2010 - Secretaría de Marina</a></p>
+<p><a href="http://2006-2012.semar.gob.mx/sala-prensa/comunicados-2010/1436-comunicado-de-prensa-216-2010.html" target="_blank">SEMAR. Comunicado de Prensa 216/2010.</a></p>
 
  
