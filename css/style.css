@@ -508,3 +508,23 @@ dd {
   background-color: #eee;
 }
 
+@media (max-width:767px) {
+  body {
+    font-size: 14px;
+  }
+  .iframe-container, .iframe-container iframe {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: 300px;
+  }
+  .navbar-peekaboo {
+    display: none;
+  }
+  .chapter-nav a .title {
+    font-size: 12px;
+  }
+  .chapter-nav a .title i {
+    font-size: 10px;
+  }
+}
