@@ -1,14 +1,14 @@
 {% if chapter_nav.previous %}
-  {% set next_class = "col-xs-offset-4" %}
+  {% set next_class = "col-sm-offset-4" %}
 {% else %}
-  {% set next_class = "col-xs-offset-8" %}
+  {% set next_class = "col-sm-offset-8 col-xs-offset-6" %}
 {% endif %}
 
 <div class="chapter-nav">
   <div class="container-fluid">
     <div class="row">
       {% if chapter_nav.previous %}
-      <div class="col-xs-4 previous">
+      <div class="col-sm-4 col-xs-6 previous">
         <a href="{{ chapter_nav.previous.file }}">
           <p class="direction-label">CAPÍTULO ANTERIOR</p>
           <p class="title"> <i class="glyphicon glyphicon-chevron-left"></i> {{ chapter_nav.previous.title }}</p>
@@ -16,7 +16,7 @@
       </div>
       {% endif %}
       {% if chapter_nav.next %}
-      <div class="col-xs-4 {{ next_class }} next">
+      <div class="col-sm-4 col-xs-6 {{ next_class }} next">
         <a href="{{ chapter_nav.next.file }}">
           <p class="direction-label">SIGUIENTE CAPÍTULO</p>
           <p class="title">{{ chapter_nav.next.title }} <i class="glyphicon glyphicon-chevron-right"></i></p>
