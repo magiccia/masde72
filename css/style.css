@@ -507,6 +507,24 @@ dd {
 .navbar-peekaboo .active a {
   background-color: #eee;
 }
+.page-creditos dd{
+  margin-bottom: 8px;
+  text-align: left;
+  font-size: 14px;
+}
+
+.page-creditos {
+  padding-top: 65px;
+}
+
+.page-creditos h4 {
+  font-size: 20px;
+  text-align: left;
+}
+
+.page-creditos h5 {
+  text-align: left;
+}
 
 @media (max-width:767px) {
   body {
