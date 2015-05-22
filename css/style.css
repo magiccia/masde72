@@ -517,13 +517,23 @@ dd {
   padding-top: 65px;
 }
 
+.page-creditos h3 {
+  font-size: 30px;
+  text-align: center;
+}
+
 .page-creditos h4 {
-  font-size: 20px;
+  font-size: 16px;
   text-align: left;
 }
 
 .page-creditos h5 {
-  text-align: left;
+  font-size: 30px;
+  text-align: center;
+}
+
+.primary-credits dd {
+  text-align: center;
 }
 
 @media (max-width:767px) {
@@ -545,4 +555,5 @@ dd {
   .chapter-nav a .title i {
     font-size: 10px;
   }
+
 }
