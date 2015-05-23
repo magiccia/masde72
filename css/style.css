@@ -559,4 +559,10 @@ dd {
     font-size: 10px;
   }
 
+  .pull-right {
+    float: none!important;
+  }
+
+  .navbar-nav {
+    margin: 8px 0;
 }
