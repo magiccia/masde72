@@ -3,5 +3,5 @@
 <p>Mientras tanto, buscó auxilio en una casa o intentó acercarse a los policías locales (el cable destaca que los relatos conocidos difieren en este punto); no lo ayudaron.</p>
 <p>Caminó toda la noche. En la madrugada del lunes 23 de agosto llegó a un retén de la Marina donde avisó lo sucedido. En la mañana los marinos intentaron ubicar por tierra y aparentemente sobrevolaron en helicóptero el lugar de la masacre. Ahí fue donde aprehendieron a uno de los miembros de los Zetas que era menor de edad, el ecuatoriano lo identificó por medio de una fotografía como uno de los secuestradores.</p>
 
-<p><a href="http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf" target="_blank">CABLE 20100826</a></p>
+<p><a href="http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf" target="_blank">CABLE 20100826</a> - Documento desclasificado por el National Security Archive</p>
 

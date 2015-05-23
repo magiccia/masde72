@@ -1,4 +1,5 @@
 <p>En el cable No. 20100826, en uno de los comentarios firmado por un funcionario de la embajada de apellido Barkin señala: “Si el relato del sobreviviente es preciso, esto representa un nuevo nivel de violencia de Los Zetas”. Esto porque no parece haber una utilidad aparente para los Zetas de estas muertes, ya que esta vez no parece haber pedido rescate por sus secuestrados como era su costumbre.</p>
 <p>“Una teoría planteada –el nombre de la fuente está borrado— es que como las ganancias de la introducción ilegal de migrantes a Estados Unidos son destinadas al Cártel del Golfo, los asesinatos fueron la manera que Los Zetas encontraron para herir financieramente los intereses de CDG”. Los asesinatos, entonces, fueron preventivos.</p>
 
-<p><a href="http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf">LINK A CABLE</a> Desclasificado por la organización National Security Archive</p>
+
+<p><a href="http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf" target="_blank">CABLE 20100826</a> - Documento desclasificado por el National Security Archive</p>

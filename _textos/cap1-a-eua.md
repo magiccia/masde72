@@ -8,5 +8,5 @@
 <p>El martes 24 a las 6 de la tarde la Marina encontró los cuerpos en un rancho abandonado. Los cuerpos parecían haber sido amontonados contra la pared de la bodega.</p>
 <p>*Nota: La información que se muestra aquí es la contenida en el cable No. 20100826, sin embargo se tienen dudas sobre si los migrantes fueron encontrados sin identificación, ya que eso logró la repatriación de varios de los cuerpos. Recordamos al lector que la intención de este ejercicio es el contraste de las versiones sobre los mismos hechos.</p>
 
-<p><a href="http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf" target="_blank">CABLE 20100826</a></p>
+<p><a href="http://www2.gwu.edu/~nsarchiv/NSAEBB/NSAEBB445/docs/20100826.pdf" target="_blank">CABLE 20100826</a> - Documento desclasificado por el National Security Archive</p>
 

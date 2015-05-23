@@ -2,7 +2,7 @@ body {
   position: relative;
   font-size: 18px;
   font-family: Georgia, serif;
-  text-align: justify;
+  text-align: left;
   line-height: 1.5em;
 }
 
@@ -205,7 +205,7 @@ p.caption {
 }
 .map img {
   margin-top: 15px;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 .page-index {
   padding: 0;
@@ -471,8 +471,11 @@ p.caption {
   .page-capitulo3 .navbar-peekaboo li {
     width: 25%;
   }
-
+  .page-capitulo2 .navbar-peekaboo li {
+    font-size: 16px;
+  }
 }
+
 dt { 
   margin-bottom: 15px;
 }
@@ -490,7 +493,7 @@ dd {
   position: fixed;
   width: 100%;
   top: 30px;
-  z-index: 100;
+  z-index: 999;
   font-size: 20px;
   border-bottom: 1px solid #999;
 }
@@ -507,4 +510,53 @@ dd {
 .navbar-peekaboo .active a {
   background-color: #eee;
 }
+.page-creditos dd{
+  margin-bottom: 8px;
+  text-align: left;
+  font-size: 14px;
+}
 
+.page-creditos {
+  padding-top: 65px;
+}
+
+.page-creditos h3 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.page-creditos h4 {
+  font-size: 16px;
+  text-align: left;
+}
+
+.page-creditos h5 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.primary-credits dd {
+  text-align: center;
+}
+
+@media (max-width:767px) {
+  body {
+    font-size: 14px;
+  }
+  .iframe-container, .iframe-container iframe {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: 300px;
+  }
+  .navbar-peekaboo {
+    display: none;
+  }
+  .chapter-nav a .title {
+    font-size: 12px;
+  }
+  .chapter-nav a .title i {
+    font-size: 10px;
+  }
+
+}

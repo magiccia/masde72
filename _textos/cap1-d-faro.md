@@ -7,4 +7,4 @@
 <p>(…)Los familiares de los seis salvadoreños que fueron acribillados por Los Zetas aseguran que el acuerdo con Érick era pagar entre 5,700 y 7,500 dólares por el viaje. Todos pagaron la mitad antes de la partida. La otra mitad se pagaría allá, en Estados Unidos, a la llegada que nunca ocurrió(…).</p>
 <p>(…)Los Zetas, que surgieron hace 15 años como el brazo armado del Cártel del Golfo, se escindieron de esa organización allá por el año 2007. Quizá la cuota antes era un extra a su salario, y después se convirtió en un rubro de la organización.</p>
 
-<p><a href="http://www.salanegra.elfaro.net/es/201403/cronicas/15101/" target="_blank">Link a crónica completa</a></p>
+<a href="http://www.salanegra.elfaro.net/es/201403/cronicas/15101/" target="_blank">Reportaje completo</a> publicado en El Faro</p>

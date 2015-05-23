@@ -5,7 +5,7 @@
 <p>De manera oficial no hay un comunicado que mencione la situación del testigo hondureño después de haberlo tenido bajo custodia, sin embargo en la Recomendación No. 80/2013 la CNDH solicitó el documento en el que Control y Verificación Migratoria autorizó la repatriación del sobreviviente el día 24 de septiembre de 2010, en condición de testigo protegido.</p>
 
 
-<p><a href="http://www.pgr.gob.mx/prensa/2007/bol10/sep/1050.pdf" target="_blank">PGR. Boletín 1050/10. 1 de septiembre de 2010.</a></p>
+<p><a href="http://www.pgr.gob.mx/prensa/2007/bol10/sep/1050.pdf" target="_blank">PGR. Comunicado de prensa 1050/10. 1 de septiembre de 2010.</a></p>
 
-<p><a href="http://pgr.gob.mx/Prensa/2007/bol10/ago/b1019a.shtm" target="_blank">PGR. Boletín 1019a. 25 de agosto de 2010.</a></p>
+<p><a href="http://pgr.gob.mx/Prensa/2007/bol10/ago/b1019a.shtm" target="_blank">PGR. Boletín de prensa 1019a. 25 de agosto de 2010.</a></p>
 

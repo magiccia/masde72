@@ -4,6 +4,5 @@
 <p>La SEMAR difundió un video de un sobrevuelo sobre la finca y aportó algunas fotografías de lo incautado a los criminales: autos, armas cargadores, cartuchos, chalecos y uniformes militares.</p>
 <p>El miércoles 25 de agosto el gobierno federal ofreció una conferencia de prensa a cargo de Alejandro Poiré y el portavoz de la Secretaría de Marina el contralmirante José Luis Vergara, en la que anunciaron que las víctimas encontradas podrían corresponder a migrantes centroamericanos y que se estaba por confirmar la identificación de los 72 cadáveres. </p>
 <p>Al día siguiente el presidente Felipe Calderón dio una versión más durante una entrevista con el periodista Sergio Sarmiento: “Es curioso que el testigo, por ejemplo, dice que llegó primero a un puesto de la Policía de Tamaulipas, que le dijeron: ‘Ahora sí que no es en esta ventanilla, vete allá, con los marinos'" afirmó el entonces mandatario.</p>
-<p><a href="http://2006-2012.semar.gob.mx/sala-prensa/comunicados-2010/1436-comunicado-de-prensa-216-2010.html" target="_blank">SEMAR. Comunicado de prensa 216/2010.</a></p>
+<p><a href="http://2006-2012.semar.gob.mx/sala-prensa/comunicados-2010/1436-comunicado-de-prensa-216-2010.html" target="_blank">SEMAR. Comunicado de prensa 216/2010. 24 de agosto de 2010.</a></p>
 <p><a href="http://calderon.presidencia.gob.mx/2010/08/entrevista-que-concedio-el-presidente-a-sergio-sarmiento/" target="_blank">Transcripción de entrevista de Sergio Sarmiento a Felipe Calderón</a></p>
-
