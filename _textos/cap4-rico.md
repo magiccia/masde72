@@ -1,6 +1,6 @@
 #### Biografía: 
 
-:  Fue el primer sospechoso por la masacre de los 72 migrantes en San Fernando, Tamaulipas. Presunto integrante de la organización criminal Los Zetas, en la cual participaba como enganchador de migrantes. Fue detenido el 24 de agosto de 2010.
+Fue el primer sospechoso por la masacre de los 72 migrantes en San Fernando, Tamaulipas. Presunto integrante de la organización criminal Los Zetas, en la cual participaba como enganchador de migrantes. Fue detenido el 24 de agosto de 2010.
 
 #### Delitos de los que se le acusa:
 

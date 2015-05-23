@@ -559,10 +559,16 @@ dd {
     font-size: 10px;
   }
 
-  .center-gif {
-  display: block;
-  max-width: 800px;
-  margin: 0 auto;
-}
+  .pull-right {
+    float: none!important;
+  }
 
+  .navbar-nav {
+    margin: 8px 0;
+  }
+
+  .page-capitulo4 .intro-text {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
