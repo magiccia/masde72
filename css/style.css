@@ -316,7 +316,7 @@ p.caption {
 
 
 .page-capitulo4 .intro-text{
-  text-align: justify;
+  text-align: left;
   color: #000;
   margin-right: 70px;
   margin-left: 70px;
@@ -358,7 +358,7 @@ p.caption {
 }
 
 .page-capitulo6 .container{
-  text-align: justify;
+  text-align: left;
   color: #000;
 }
 
