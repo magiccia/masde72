@@ -1,0 +1,1 @@
+<p>Ankitkumar Bharatbai Patel fue identificado y repatriado el 8 de junio de 2011 (fuentes del consulado apuntan a que fue en julio), aunque su familia tiene dudas sobre su identidad, pues el cuerpo no llevaba los anillos con los que partió el migrante y tenía unos tatuajes que no le conocían. Para su traslado, el cadáver fue incinerado.</p>
