@@ -1,0 +1,350 @@
+<section id="repatriaciones">
+  <div class="container">
+    <h2>Nuevas Repatriaciones</h2>
+    <h2>El Salvador</h2>
+
+    <div class="row">
+      <div class="col-md-8">
+        <h4>Septiembre de 2010</h4>
+        <p>El 5 de septiembre se repatriaron 11 salvadoreños. Mirna del Carmen Solórzano Medrano, madre de Glenda Yaneira, está segura que no enterró a su hija. Ella desobedeció las indicaciones del gobierno de su país y abrió el féretro que según contenía el cadáver de su hija: encontró un cuerpo lastimado, calcificado, que ella recuerda como “una momia blanca, sin pelo” y cuando le palparon los genitales, sintieron “un bulto”; sin embargo, pese a las dudas, procedió el ritual funerario por miedo a “haber desobedecido” a sus autoridades. </p> 
+        <p>El 24 de septiembre de 2010 retornaron a su patria dos salvadoreños más, los menores de edad: Yeimi Victoria Castro, de 15 años, y Wilmer Antonio Velásquez Martínez, de 16 años.</p>
+        <p> Francisco Antonio Blanco Cueva, de 31 años, llegó el 29 de septiembre de 2010.</p>
+        <p> Los costos del traslado de los cuerpos fueron asumidos por la Presidencia de la República y el Ministerio de Relaciones Exteriores con el apoyo de la Organización Internacional para las Migraciones (OIM), informó la Cancillería salvadoreña.</p>
+        <img src="img/home_logo.png" data-src="img/mapas-05.png" class="mini-map"/>
+      </div>
+      <div class="col-md-4 map">
+       
+        <h4>Repatriados</h4>
+          <ul>
+            <li>José Ángel Flores Bolaños</li>
+            <li>José Gilberto Flores García</li>
+            <li>Armando Pérez Nieto</li>
+            <li>Sabás Napoleón López Sánchez</li>
+            <li>José Francisco García Hernández</li>
+            <li>Adolfo Armando Fraile Vega</li>
+            <li>Henri Francisco Serrano Cuéllar</li>
+            <li>Pedro Antonio Franco Peña</li>
+            <li>María Magdalena Alonso Rivera</li>
+            <li>Glenda Yaneira Medrano Solórzano</li>
+            <li>Karen Yanneth Escobar Luna</li>
+            <li>Yeimi Victoria Castro</li>
+            <li>Wilmer Antonio Velásquez Martínez</li>
+            <li>Francisco Antonio Blanco Cueva</li>
+          </ul>
+
+      </div>
+    </div>
+    <div class="row photos">
+      <div class="col-md-12">
+        <div id="svCarousel" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#svCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#svCarousel" data-slide-to="1"></li>
+            <li data-target="#svCarousel" data-slide-to="2"></li>
+            <li data-target="#svCarousel" data-slide-to="3"></li>
+          </ol>
+
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+            <div class="item active">
+              <img src="img/cap2_salvador3.jpg">
+            </div>
+
+            <div class="item">
+              <img src="img/cap2_salvador1.jpg">
+            </div>
+
+            <div class="item">
+              <img src="img/cap2_salvador4.jpg">
+            </div>
+
+            <div class="item">
+              <img src="img/cap2_salvador5.jpg">
+            </div>
+          </div>
+
+          <!-- Left and right controls -->
+          <a class="left carousel-control" href="#svCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#svCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+</div>
+
+<section>
+  <div class="container">
+    <h2>Guatemala</h2>
+    <div class="row">
+      <div class="col-md-8">
+        <h4>Septiembre del 2010</h4>
+        <p> La recomendación de la CNDH da datos contradictorios a los de los propios países. Por ejemplo, afirma que esa repatriación ocurrió el 21, fecha que se confunde probablemente con la de su identificación. Las fechas en las que afirma que los cuerpos fueron “identificados” y “repatriados” son sistemáticamente anteriores a las facilitadas por los distintos consulados como días de la repatriación. Octubre y noviembre de ese año fueron los meses en los que más cuerpos fueron repatriados.</p>
+        <img src="img/home_logo.png" data-src="img/mapas-06.png" class="mini-map"/>
+      </div>
+        <div class="col-md-4 map">
+          <h4>Repatriados</h4>
+          <ul>
+            <li>Gilmar Augusto Morales Castillo</li>
+            <li>Hermelindo Maquín Huertas</li>
+            <li>Santos Enrique Agustín Hernández</li>
+
+            
+          </ul>
+        </div>
+    </div>
+    <div class="row photos">
+      <div class="col-md-6">
+        <img src="img/home_logo.png" data-src="img/cap2_guatemala1.jpg" class="img-responsive"/>
+        <img src="img/home_logo.png" data-src="img/cap2_guatemala2.jpg" class="img-responsive"/>
+      </div>
+      <div class="col-md-6">
+        <img src="img/home_logo.png" data-src="img/cap2_guatemala3.jpg" class="img-responsive"/>
+        <img src="img/home_logo.png" data-src="img/cap2_guatemala4.jpg" class="img-responsive"/>
+      </div>
+    </div>
+  </div>
+</section>
+
+</div>
+
+<section>
+  <div class="container">
+    <h2>Honduras</h2>
+    <div class="row">
+      <div class="col-md-8">
+        <h4>Noviembre de 2010</h4>
+        <p> La Comisión Nacional de Derechos Humanos de Mexico sitúa las siguientes devoluciones a Honduras: dos cuerpos el 23, un cuerpo el 25 y dos cuerpos el 28 de septiembre, pero el único vuelo con restos repatriados registrado por las autoridades de ese país salió el 5 de noviembre. En lugar de los cinco féretros contabilizados por la CNDH, Honduras reporta ocho:</p>
+        <img src="img/home_logo.png" data-src="img/mapas-07.png" class="mini-map"/>
+      </div>
+      <div class="col-md-4 map">
+         <h4>Repatriados</h4>
+          <ul>
+            <li>Vicente Medina Lozano</li>
+            <li>Alfredo Crisostomo García</li>
+            <li>Jose Francisco Velasquez Lozano</li>
+            <li>Eris Raúl Hernández Lemus</li>
+            <li>Tomasa Maritza Archaga Jacome</li>
+            <li>José Yovani Hernández González</li>
+            <li>Eredis Ayala Muñoz</li>
+            <li>Carlos Alejandro Espinoza</li>
+          </ul>
+       </div>
+    </div>
+
+    
+
+    <h2>Guatemala</h2>
+    <h4>Noviembre y diciembre de 2010</h4>
+    <div class="row">
+      <div class="col-md-8">
+        <p> Ese mismo día, 5 de noviembre, también fueron retornados a su país, Guatemala, 8 cadaveres.</p>
+        <p>Los cadáveres de Byron Mauricio Berdúo Agustín y Gelder Lizardo Boche Cante, fueron repatriados hasta el 5 de noviembre del 2010, pese a estar identificados desde el 21 de septiembre, ya que el gobierno mexicano no tenía lista su documentación. El cuerpo de Luis Alberto Portillo Cameros fue repatriado el 23 de diciembre del 2010.</p>
+        <img src="img/home_logo.png" data-src="img/mapas-08.png" class="mini-map"/>
+      </div>
+      
+        
+  
+
+      <div class="col-md-4 map">
+        <h4>Repatriados</h4>
+        <ul>
+          <li>Efraín Pineda Morales</li>
+          <li>Richard Pineda Lacán</li>
+          <li>Mayra Cifuentes Pineda</li>
+          <li>José David Girón Martínez</li>
+          <li>Robin Estuardo Zuñiga Mijangos</li>
+          <li>Luis Humberto Alvarez Contreras</li>
+          <li>Luis Alberto Portillo Cameros.</li>
+          <li>Byron Mauricio Berdúo Agustín</li>
+          <li>Gelder Lizardo Boche Cante</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+</div>
+
+<section>
+  <div class="container">
+    <h2>Brasil</h2>
+    <div class="row">
+      <div class="col-md-8">
+        <h4>Octubre y Noviembre de 2010</h4>
+        <p>Los brasileños Juliard Aires Fernandes, de 20 años, y Herminio Cardoso dos Santos, de 24, volaron a su país el 1 de octubre, según la prensa local (la CNDH marca el día 4). </p>
+        <p>Un mes después, el 1 de noviembre fue repatriada a Brasil Natane Amaral da Silva (Esposa de Edilsimar Junior Faustino da Silva), según reportó la prensa brasileña.</p>
+        <img src="img/home_logo.png" data-src="img/mapas-13.png" class="mini-map"/>
+      </div>
+      <div class="col-md-4 map">
+        <h4>Repatriados</h4>
+        <ul>
+          <li>Juliard Aires Fernandes</li>
+          <li>Herminio Cardoso dos Santos</li>
+          <li>Natane Faustino Silva Amaral</li>
+        </ul>
+      </div>
+    </div>
+
+    <h2>Ecuador</h2>
+    <div class="row">
+      <div class="col-md-8">
+        <h4>Octubre, noviembre y diciembre de 2010</h4>
+        <p>Telmo Leónidas Yupa Chimborazo, nacido en 1993, fue repatriado el 23 de octubre del 2010; Elvia Florinda Pasochoa Matsaquiza, nacida en 1988, fue repatriada el 13 de noviembre del 2010; María Magdalena Tipantaci Tubón, nacida en 1989, fue repatriada el 7 de diciembre del 2010.</p>
+        <p>La CNDH tiene como fecha de repatriación de Telmo Leónidas el 4 de octubre.</p>
+        <img src="img/home_logo.png" data-src="img/mapas-14.png" class="mini-map"/>
+      </div>
+      <div class="col-md-4 map">
+        <h4>Repatriados</h4>
+        <ul>
+          <li>Telmo Leonidas Yupa Chimborazo</li>
+          <li>María Magdalena Tipantaci Tubón</li>
+          <li>Elvia Florinda Pasochoa Matsaquiza</li>
+        </ul>
+      </div>
+    </div>
+
+    <h4>A fecha del 19 de noviembre de 2010 –dos meses después de la masacre--, quedaban 18 cuerpos sin identificar, según informó el director del Servicio Médico Forense de Tribunal Superior de Justicia del Distrito Federal. </h4>
+  </div>
+</section>
+
+</div>
+
+<section>
+  <div class="container">
+  <h2>2011</h2>
+
+  <h2>Ecuador</h2>
+    <div class="row">
+      <div class="col-md-8">
+        <h4>Febrero de 2011</h4>
+        <p>Seis meses después de la masacre se consiguió identificar el cadáver de Christian Andrés Caguana Campos. La CNDH marca como fecha de repatriación el 10 de febrero, su consulado en México, el 11 de febrero.</p>
+        <img src="img/home_logo.png" data-src="img/mapas-09.png" class="mini-map"/>
+      </div>
+      <div class="col-md-4 map">
+        <h4>Repatriados</h4>
+        <ul>
+          <li>Christian Andrés Caguana Campos</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+</div>
+
+<section>
+  <div class="container">
+    <h2>Guatemala</h2>
+    <div class="row">
+      <div class="col-md-8">
+        <h4>Marzo de 2011</h4>
+        <p>El 23 de marzo, cuatro meses y medio después que los cuerpos de su padre, su hermano y su prima, con los que había emprendido el camino a EU, llegaran también muertos a su aldea, llegó Nancy Pineda Lacán a Sipacate, en la región de Escuintla. La tardanza es inexplicable.</p>
+         <img src="img/home_logo.png" data-src="img/mapas-10.png" class="mini-map"/>
+      </div>
+      <div class="col-md-4 map">
+        <h4>Repatriados</h4>
+        <ul>
+          <li>Nancy Pineda</li>
+        </ul>
+      </div>
+    </div>
+
+    <h4>Tres semanas después, el 12 de abril, los 14 cuerpos restantes salieron del Servicio Médico Forense dependiente del Tribunal Superior de Justicia del Distrito Federal y fueron enviados al Instituto de Medicina Forense del Estado de México.</h4>
+  </div>
+</section>
+
+</div>
+
+<section>
+  <div class="container">
+    <h2>India</h2>
+    <div class="row">
+      <div class="col-md-8">
+        <h4>Junio de 2011</h4>
+        <p>Ankitkumar Bharatbai Patel fue identificado y repatriado el 8 de junio de 2011 (fuentes del consulado apuntan a que fue en julio), aunque su familia tiene dudas sobre su identidad, pues el cuerpo no llevaba los anillos con los que partió el migrante y tenía unos tatuajes que le conocían. Para su traslado, el cadáver fue incinerado.</p>
+        <img src="img/home_logo.png" data-src="img/mapas-11.png" class="mini-map"/>
+      </div>
+      <div class="col-md-4 map">
+        <h4>Repatriados</h4>
+        <ul>
+          <li>Ankitkumar Bharatbai Patel</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+</div>
+
+
+<section>
+  <div class="container">
+
+    <h2>A la Fosa Común</h2>
+    <h4>22 de julio del 2011</h4>
+
+    <p>El 22 de julio del 2011, los 13 cadáveres restantes fueron enterrados en la fosa común del panteón  Dolores, cementerio principal de la Ciudad de México, donde el encargado de enterrar a los muertos que nadie reclama, los dejó en un lugar apartado en la sección de cadáveres anónimos.  El hombre informó que las bolsas blancas en las que fueron enterrados ‘los cocieron’ por dentro y aceleraron el proceso de descomposición.</p>
+    <p>En abril de ese año ocurrió el hallazgo de nuevas fosas, también en San Fernando, en las que muchas de las víctimas también eran migrantes, de donde se rescataron 189 cuerpos aunque siempre se afirmó que había cientos más.</p>
+
+    <!-- <h4>***FOTO DEL PANTEÓN DOLORES***</h4> -->
+
+    <h2>2012</h2>
+
+    <h2>Ecuador</h2>
+    <div class="row">
+      <div class="col-md-8">
+        <h4>23 de enero de 2012</h4>
+          <p>El cuerpo de Rosa Amelia Panza Quilli fue exhumado e incinerado. El 23 de enero, fue repatriado a Gualalcay, en la provincia de Azuay, en Ecuador. El camino de vuelta a casa fue tortuoso: en agosto del 2010 la familia de Rosa entregó pruebas de ADN sin tener respuesta; casi un año después, en julio del 2011, la familia dio a conocer su caso de manera pública para empujarlo; así, días después,  la Fiscalía de Ecuador le informó que identificaron a Rosa, sin dar seguimiento para la repatriación. Para entonces el cuerpo de Rosa ya había viajado de Tamaulipas al Semefo del DF, al Semefo del Estado de México y a la fosa común del panteón Dolores en el DF. Finalmente, un año y 5 meses después de la masacre su cuerpo regresó a casa.</p>
+        <img src="img/home_logo.png" data-src="img/mapas-14.png" class="mini-map"/>
+      </div>
+
+      <div class="col-md-4 map">
+        <h4>Repatriados</h4>
+        <ul>
+          <li>Rosa Amelia Panza Quilli</li>
+        </ul>  
+      </div>
+    </div>
+    </div>
+  </div>
+</section>
+
+</div>
+
+<section>
+  <div class="container">
+
+    <h4>30 de noviembre del 2012</h4>
+  
+      
+        <p> El 30 noviembre del 2012, el último día de la administración de Felipe Calderón, peritos de la PGR acudieron al panteón Dolores, sacaron 10 cuerpos de las víctimas (1 de esa masacre y 9 de las fosas encontradas en San Fernando en abril de 2011), los calcinaron, disminuyendo a polvo las evidencias del crimen y de la identidad de los cuerpos. Otra vez, las razones fueron sanitarias.</p>
+        <p> A la fecha, de las 72 víctimas de San Fernando, hay 11 cadáveres de migrantes que permanecen sin identificar.</p> 
+        
+
+      
+
+
+<h2>2014</h2>
+<h2>Honduras</h2>
+<div class="row">
+      <div class="col-md-8">
+        <h4>Julio de 2014</h4>
+          <p>Actualmente, gracias a un convenio forense, la PGR permitió la coadyuvancia del Equipo Argentino de Antropología Forense para devolver la identidad a los restos de la masacre de los 72 y de las fosas de San Fernando.</p>
+          <p> La hondureña Eva Noemí fue identificada gracias al convenio de colaboración entre PGR, Fundación para la Justicia y EAAF y repatriada en julio de 2014.</p>
+       </div>
+      <div class="col-md-4 map">
+         <h4>Repatriados</h4>
+          <ul>
+            <li>Eva Noemí</li>
+          </ul>
+       </div>
+    </div>

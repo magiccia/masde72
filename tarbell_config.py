@@ -44,13 +44,13 @@ DEFAULT_CONTEXT = {
         (u'CNDH', 'cndh', '_textos/cap1-a-cndh.md'),
     ],
     'los_sobrevivientes_versions': [
+        (u'Freddy Lala', 'lala', '_textos/cap1-b-lala.md'),
         (u'Oficial', 'oficial', '_textos/cap1-b-oficial.md'),
         (u'Embajada EUA', 'eua', '_textos/cap1-b-eua.md'),
         (u'Tesis', 'tesis', '_textos/cap1-b-tesis.md'),
         (u'CNDH', 'cndh', '_textos/cap1-b-cndh.md'),
         (u'Moore', 'moore', '_textos/cap1-b-moore.md'),
         (u'El Faro', 'faro', '_textos/cap1-b-faro.md'),
-        (u'Freddy Lala', 'lala', '_textos/cap1-b-lala.md'),
     ],
     'el_hallazgo_versions': [
         (u'Oficial', 'oficial', '_textos/cap1-c-oficial.md'),

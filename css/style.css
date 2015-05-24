@@ -213,7 +213,7 @@ p.caption {
 }
 
 .page-capitulo1 .intro {
-  background-image: url('../img/cap1_home.jpg');
+  background-image: url('../img/cap5_home.jpg');
 }
 
 .page-capitulo1 .intro h1, .page-capitulo1 .intro h2 {
@@ -550,6 +550,10 @@ dd {
 
 .download-buttons .btn {
   white-space: normal;
+}
+
+#repatriaciones h4{
+  font-size: 20px;
 }
 
 .jp-audio {
