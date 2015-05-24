@@ -13,3 +13,4 @@
     <img src="img/home_logo.png" data-src="img/cap2_guatemala4.jpg" class="img-responsive"/>
   </div>
 </div>
+<p class="image-credit">Fotografías: Luis Echeverría</p>
