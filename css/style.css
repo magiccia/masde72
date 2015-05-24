@@ -548,6 +548,10 @@ dd {
   text-align: center;
 }
 
+.download-buttons .btn {
+  white-space: normal;
+}
+
 @media (max-width:767px) {
   body {
     font-size: 14px;
