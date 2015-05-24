@@ -1,27 +1,27 @@
-El cuerpo de Nancy Pineda estuvo más de 6 meses en el Servicio Médico Forense del Distrito Federal esperando ser identificado. Esto a pesar de que iba acompañada de tres familiares: todos identificados desde un inicio y de que la familia insistía en que ella debía de haber muerto con ellos.
+“Vengo a representar a mis hijos y mi esposo masacrados”, dijo con voz firme Ángela Lacán al rendir testimonio ante el Tribunal Permanente de los Pueblos, en agosto de 2013 en ciudad de México. Esa mujer perdió en un solo día a su marido Efraín Pineda Morales, sus hijos Richard y Mayra Pineda Lacán, su sobrina Mayra Cifuentes Pineda y su cuñado Santos Enrique Agustín. 
 
- Originaria la aldea de Sipacate, en la región de Escuintla, Guatemala, Nancy tenìa 25 años y dos hijos cuando decidió realizar el viaje a Iowa. Iba con su padre Efraín, su hermano Richard y su prima Mayra. Todos fueron asesinados en San Fernando. 
+No sólo tuvo que soportar la noticia del cruel asesinato de los suyos en un país extranjero y enfrentar los trámites para la identificación y la repatriación, también pasó meses de incertidumbre pues sus seres queridos no fueron devueltos al mismo tiempo. Fueron entregados como por goteo. Su hija Nancy quedó atrapada en un inexplicable limbo burocrático.
 
- “Vengo a representar a mis hijos y mi esposo masacrados”, denunció Ángela Lacán en su testimonio ante el Tribunal Permanente de los Pueblos, en agosto de 2013. La mujer, que limpia casas ajenas, perdió en un solo día a 5 familiares: sus dos hijos (Nancy y Richard), su esposo Efraín Pineda, la sobrina de su esposo, Mayra Cifuentes Pineda y su cuñado, Santos Enrique Agustín. 
+Los cinco habían salido juntos de Guatemala el 2 de agosto de 2010. Eran originarios la aldea de Sipacate, en la región de Escuintla. Iniciaron el viaje desde El Naranjo, Petén, y su objetivo era llegar a Iowa. El 7 de agosto, luego de cruzar varios días por montañas, se comunicaron por primera vez a casa. El 18 de agosto volvieron a llamar y avisaron que al día siguiente cruzarían el Río Bravo. 
 
- Todos salieron juntos de Guatemala el 2 de agosto de 2010. Iniciaron el viaje desde el  Naranjo, Petén, y se comunicaron con su familia el 7 de agosto, luego de cruzar varios días por montañas. El 18 de agosto volvieron a  comunicarse y dijeron que al día siguiente cruzarían el Río Bravo. 
+Ante el tribunal ciudadano que juzgaba la desprotección de México hacia los migrantes, Ángela Pineda dijo: “El 19 de agosto fue la última vez que tuvimos comunicación con ellos. Contaban que ya no tenían dinero y tampoco zapatos. Prometieron volvernos a llamar”. 
 
- Pero Ángela Pineda, la madre de Mayra, recibió un mensaje de texto que la alarmó: decía que cuidaran a su hijo. Luego, perdieron todo contacto.  
+No sonó el teléfono. 
 
-Cuando vieron las imágenes de San Fernando acudieron a la cancillería en Guatemala,  donde, fueron notificados de que entre las 72 víctimas estaban sus familiares, porque traían la misma ropa que dieron como referencia para localizarlos. 
+Una pariente recibió un mensaje de texto de parte de Mayra que la alarmó. Pedía que cuidaran a su hijo. Luego, el silencio. 
+Cuando los Pineda vieron las imágenes de la masacre de los 72 migrantes en San Fernando acudieron a la cancillería guatemalteca, donde fueron notificados de que entre las 72 víctimas se encontraban sus familiares. Los reconocieron por la vestimenta había dado como referencia para que los localizaran, según les dijeron. 
 
- Los restos de Santos Enrique Agustín, fueron los primeros que recibió la familia, el 24 de septiembre de 2010. 
+Los restos de su cuñado Santos Enrique Agustín, fueron los que primero regresaron a Guatemala: el 24 de septiembre de 2010, casi un mes después de la tragedia. 
 
- El 5 de noviembre llegaron los cuerpos de Efraín Pineda y su hijo Richard. También de su sobrina Mayra, quien dejó huérfano a un niño.  
+Dos semanas después, el 5 de noviembre, Ángela recibió los cuerpos de  su esposo Efraín Pineda, de su hijo Richard, y de su sobrina Mayra. Pero el de Nancy no llegaba.
 
-El de Nancy no llegó hasta mucho después porque --junto con otros 15 cuerpos sin  identificar -- estuvo meses en el Semefo de la ciudad de México.. 
+Nancy pasó más en el Servicio Médico Forense del Distrito Federal esperando junto con otros 15 cuerpos a ser identificada. Esto a pesar de que había sido asesinada junto a sus familiares, de que ellos ya tenían una tumba en Guatemala porque habían sido identificados pronto, y de las insistencias de la familia para que la buscaran a ella entre los otros cuerpos. Que era una joven de 25 años.
 
- El féretro con su cuerpo llegó el 23 de marzo de 2011. Para su identificación ya no se usó la ropa sino muestras de ADN. 
+El féretro con su cuerpo llegó el 23 de marzo de 2011, siete meses después de su asesinato. Para su identificación ya no se usó la ropa sino muestras de ADN.
 
- Cuatro años después de la masacre, su madre se presentó en el Tribunal Permanente de los Pueblos y denunció que ha cambiado de domicilio por constantes llamadas de extorsión. 
+La tragedia no terminó con el entierro. Ángela ha tenido que cambiar de domicilio por constantes llamadas de extorsión y amenazas. Se sostiene limpiando casas ajenas. Vive en la misma pobreza extrema que impulsó a sus seres queridos a emigrar-
+Una duda le corroe: si los restos que recibió realmente son los de su esposo, y los de sus hijos. Nadie le explico a Ángela como se hizo la identificación de sus familiares. Tampoco tuvo permitido abrir los ataúdes para constatar su identidad. 
+Nancy dejó a dos hijos huérfanos y Mayra a uno. El padre de Mayra nunca pudo recuperarse de la depresión, tres años después de la masacre falleció a causa de un derrame cerebral.
 
- Ángela Lacán vive en la misma pobreza extrema que impulsó a sus seres queridos a  emigrar y reclama y aún se cuestiona si los restos que recibió realmente son los de su  esposo, y los de sus hijos. Nadie le explicó cómo es que se hizo la identificación. 
+“Mis hijos murieron y he vivido una agonía, ningún dinero paga la falta de mis hijos (…) No hay medicinas para este dolor, hay palabras que nos dan fortaleza pero ese dolor no se quita, esa ansiedad, esos nervios”, testificó Ángela en aquel tribunal. 
 
- “No hay medicinas para este dolor, hay palabras que nos dan fortaleza pero ese dolor no se quita, esa ansiedad, esos nervios”, dijo en entrevista.  
-
-El 31 de octubre de 2013, la Cancillería de Guatemala informó que fue identificado el  cuerpo de Nancy Pineda Lacán,  guatemalteca originaria de la Gomera, Escuintla, como  una de las víctimas de la masacre ocurrida en San Fernando, Tamaulipas. Sus hijos, de 7 y 6 años, aún la esperan. 
