@@ -316,7 +316,7 @@ p.caption {
 
 
 .page-capitulo4 .intro-text{
-  text-align: justify;
+  text-align: left;
   color: #000;
   margin-right: 70px;
   margin-left: 70px;
@@ -358,7 +358,7 @@ p.caption {
 }
 
 .page-capitulo6 .container{
-  text-align: justify;
+  text-align: left;
   color: #000;
 }
 
@@ -452,9 +452,18 @@ p.caption {
   background-color: #fff;
 }
 
+.victimas-intro {
+  margin-left: 10%;
+  margin-right: 10%;
+  color: #fff;
+  background-color: rgba(25,25,25,0.5);
+  padding: 10px;
+
+}
+
 @media (min-width:768px) {
   .page-capitulo1 .intro .navbar li {
-    width: 25%;
+    width: 16.6%;
   }
   .page-capitulo2 .intro .navbar li {
     width: 20%;
@@ -463,7 +472,7 @@ p.caption {
     width: 25%;
   }
   .page-capitulo1 .navbar-peekaboo li {
-    width: 25%;
+    width: 16.6%;
   }
   .page-capitulo2 .navbar-peekaboo li {
     width: 20%;
@@ -559,4 +568,16 @@ dd {
     font-size: 10px;
   }
 
+  .pull-right {
+    float: none!important;
+  }
+
+  .navbar-nav {
+    margin: 8px 0;
+  }
+
+  .page-capitulo4 .intro-text {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
