@@ -1,5 +1,29 @@
 {% extends "_masde72_base.html" %}
 
+{% block scripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.9.2/jplayer/jquery.jplayer.min.js"></script>
+<script>
+$(document).ready(function() {
+  $("#jquery_jplayer_1").jPlayer({
+    ready: function () {
+      $(this).jPlayer("setMedia", {
+        mp3: "media/AngelaLacanTPP.mp3",
+      });
+    },
+    cssSelectorAncestor: "#jp_container_1",
+    supplied: "mp3",
+    useStateClassSkin: true,
+    autoBlur: false,
+    smoothPlayBar: true,
+    keyEnabled: true,
+    remainingDuration: true,
+    toggleDuration: true
+  });
+});
+</script>
+
+{% endblock %}
+
 {% block content %}
 
 {% set chapter_nav = {
@@ -73,7 +97,28 @@
       <div class="col-md-6 col-md-offset-6">
         <h2>Familia Pineda</h2>
         <h3>Guatemala</h3>
-         {{read_file("_textos/cap3-guatemala.md")|markdown}}
+        {{read_file("_textos/cap3-guatemala.md")|markdown}}
+
+        <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+        <div id="jp_container_1" class="jp-audio">
+            <div class="jp-controls">
+                <a class="jp-play"><i class="glyphicon glyphicon-play"></i></a>
+                <a class="jp-pause"><i class="glyphicon glyphicon-pause"></i></a>
+            </div>
+            <div class="jp-progress">
+                <div class="jp-seek-bar">
+                    <div class="jp-play-bar">
+                    </div>
+                    <div class="jp-current-time"></div>
+                </div>
+            </div>
+            <div class="jp-no-solution">
+                Media Player Error<br>
+                Update your browser or Flash plugin
+            </div>
+        </div>
+
+
       </div>
     </div>
   </div>
