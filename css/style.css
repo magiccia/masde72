@@ -237,9 +237,7 @@ p.caption {
   opacity: 0.8;
   text-shadow: 0 0 4px rgba(0,0,0,0.6);
 }
-.page-capitulo2 .intro .navbar li {
-  font-size: 16px;
-}
+
 .page-capitulo2 section h3, .page-capitulo2 section h4 {
   text-align: left;
 }
@@ -470,7 +468,7 @@ p.caption {
     width: 16.6%;
   }
   .page-capitulo2 .intro .navbar li {
-    width: 20%;
+    width: 25%;
   }
   .page-capitulo3 .intro .navbar li {
     width: 25%;
@@ -479,13 +477,10 @@ p.caption {
     width: 16.6%;
   }
   .page-capitulo2 .navbar-peekaboo li {
-    width: 20%;
+    width: 25%;
   }
   .page-capitulo3 .navbar-peekaboo li {
     width: 25%;
-  }
-  .page-capitulo2 .navbar-peekaboo li {
-    font-size: 16px;
   }
 }
 
