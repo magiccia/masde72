@@ -662,23 +662,17 @@ dd {
 .cuerpos-table {
   font-size: 14px;
 }
-.cuerpos-table .fecha-y-hora {
-  width: 10%;
+.cuerpos-table .numero {
+  width: 15%;
 }
 .cuerpos-table .sexo {
-  width: 10%;
-}
-.cuerpos-table .edad {
-  width: 10%;
-}
-.cuerpos-table .estatura {
-  width : 10%;
+  width: 15%;
 }
 .cuerpos-table .ropa-y-pertenencias {
-  width: 30%;
+  width: 35%;
 }
 .cuerpos-table .filiacion {
-  width: 30%;
+  width: 35%;
 }
 
 .page-cuerpos {

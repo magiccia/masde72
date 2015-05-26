@@ -3,6 +3,8 @@ Wilmer salió de San Pedro Sula acompañado de su sobrino Joan Adolfo y tres ami
 A sus 28 años Wilmer era el más experimentado de todos. Conocía la ruta y tenía prisa por regresar porque su mujer acababa de dar a luz en California y estaba sola con su hija de dos años. El no pudo festejar porque lo deportaron por no pagar una multa de tránsito. En San Pedro Sula, su lugar de nacimiento y a donde no había regresado en diez años, duró sólo cuatro días, tenía prisa por volver.
 El grupo pasó por San Fernando la noche fatal en el cargamento que iba a ser asesinado. Joan y sus amigos fueron de los primeros en ser mencionados entre los asesinados. En una lista apareció el nombre de Wilmer, pero su cuerpo nunca regresó a Honduras.
 
+En la escena del crimen en San Fernando fue encontrada la licencia de conducir de Wilmer, su cartera con estampas de las vírgenes de Guadalupe, de San Juan de Los Lagos, y la Reyna de la Paz, y la foto de "una persona con un menor en brazos".
+
 Haidé Esperanza Posada, la madre de Wilmer y abuela de Joan Adolfo, no consigue la paz que sí tienen su hija y las otras mujeres de la colonia que pudieron enterrar a sus hijos.
 
 “Yo estoy en una incógnita todavía. El no apareció en los muertos ni he tenido noticias de él de ninguna forma”, dice la mujer.
@@ -16,6 +18,7 @@ Entrevistada en la casa de su hija, donde se reúnen las madres del grupo de ami
 La carcome la duda de si murió con todos y lo enviaron a fosa común, o si está vivo y lo tienen esclavizado. Un tiempo creyó que estaba encarcelado y explica cómo: “Me dijo la señora de él que buscó un abogado de México que lo fue a buscar a las cárceles de Tamaulipas. Le dijo el abogado que encontró a uno parecido a él, pero no sabía si estaba enfermo y que no pudo hacer más porque al abogado lo estaban encerrando”.
 
 En La Prensa se publicó que Wilmer era uno de los coyotes. El duelo que no ha podido concretar, y la criminalización de su hijo, le duele, entristece y la ha dejado sin dormir. “Mi hijo nunca fue coyote, no llevó más gente ni porque les pagaran. El se los llevó por la misma amistad. Como a los tres días (de la noticia en La Prensa) un vecino me dijo que en el portón de mi casa había dos hombres que él no conoció, los miraba muy maliciosos. Me quedé preocupada.  Yo tenía temor por la noticia que ya los Zetas estaban en Honduras, me preocupé”. Insiste en aclarar que su hijo conocía el camino porque se fue desde cipote. 
+
 En 2012, cuando cambió el gobierno mexicano, cambió el cónsul. Ella fue a pedir ayuda al nuevo que tampoco la atendió. “Me dijo que ya no podían hacer nada porque los casos quedaron en el pasado. El problema es que al día de hoy qué pasó con mi hijo”. 
 
 Dice que desde que se supo de la masacre su esposo se tomó muestra de ADN. “No sé qué pasó. Cuando no apareció (junto a los demás restos) me descontrolé. Las noches no eran noches. No me hallé valor de ir, estoy padeciendo alta presión y a mi esposo le detectaron diabetes”. 
