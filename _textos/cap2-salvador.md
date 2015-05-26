@@ -40,5 +40,5 @@
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-  <p class="image-credit">Fotografías: José Cabezas</p>
 </div>
+<p class="image-credit">Fotografías: José Cabezas</p>

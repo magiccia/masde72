@@ -43,9 +43,6 @@
           {% endfor %}
         </div>
     </div>
-
-    <h2 class="captucabeza"> Criminales capturados en 2011, 2014 Y 2015 </h2>
-
     <div class="row">
         <div class="col-xs-6">
           {% for persona in capturados[0:3] %}
@@ -63,7 +60,7 @@
 
 {% for persona in culpables %}
 <section id="{{ persona.id }}">
-  <div class="culpable-header-wrapper" style="background-color: {{ persona.color }};">
+  <div class="culpable-header-wrapper">
     <div class="container">
       <h2>{{ persona.nombre }}</h2>
     </div>
@@ -79,24 +76,22 @@
 
         {{read_file("_textos/cap4-%s.md" % persona.id)|markdown}}
       </div>
-      <div class="col-md-4 info">
+      {#<div class="col-md-4 info">
         {% if persona.unknown_image %}
         <img src="img/home_logo.png" data-src="img/cap4_unknown.jpg" class="img-responsive">
         {% else %}
         <img src="img/home_logo.png" data-src="img/cap4_{{ persona.id }}.jpg" class="img-responsive">
         {% endif %}
-      </div>
+      </div>#}
     </div>
   </div>
 </section>
 
 {% endfor %}
 
-<h1 class="capturados"> Criminales capturados en 2011, 2014 Y 2015 </h1>
-
 {% for persona in capturados %}
 <section id="{{ persona.id }}">
-  <div class="culpable-header-wrapper" style="background-color: {{ persona.color }};">
+  <div class="culpable-header-wrapper">
     <div class="container">
       <h2>{{ persona.nombre }}</h2>
     </div>
@@ -112,13 +107,13 @@
 
         {{read_file("_textos/cap4-%s.md" % persona.id)|markdown}}
       </div>
-      <div class="col-md-4 info">
+      {#<div class="col-md-4 info">
         {% if persona.unknown_image %}
         <img src="img/home_logo.png" data-src="img/cap4_unknown.jpg" class="img-responsive">
         {% else %}
         <img src="img/home_logo.png" data-src="img/cap4_{{ persona.id }}.jpg" class="img-responsive">
         {% endif %}
-      </div>
+      </div>#}
     </div>
   </div>
 </section>

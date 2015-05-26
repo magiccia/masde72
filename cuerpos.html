@@ -1,0 +1,17 @@
+{% extends "_masde72_base.html" %}
+
+{% block content %}
+
+{% include "_fixed_nav.html" %}
+<div class="container">
+  <h1>Escena del crimen</h1>
+
+  <p><a href="capitulo2.html" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-chevron-left"></span> Volver</a></p>
+
+  {{ cuerpo_table(cuerpos) }}
+
+  <p><a href="capitulo2.html" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-chevron-left"></span> Volver</a></p>
+
+</div>
+
+{% endblock %}

@@ -247,8 +247,6 @@ p.caption {
   margin-top: 30px;
 }
 
-
-
 .page-capitulo3 h1, .page-capitulo3 h2, .page-capitulo3 h3 {
   color: #fff;
 }
@@ -299,6 +297,9 @@ p.caption {
   font-family: Courier, serif;
 }
 
+.image-credit {
+  font-size: 15px;
+}
 
 .page-capitulo4 .intro {
   background-image: url('../img/cap4_back.jpg');
@@ -362,6 +363,9 @@ p.caption {
   color: #000;
 }
 
+.audio-credit {
+  font-style: italic;
+}
 
 .creditos .logos {
   position: absolute;
@@ -658,6 +662,32 @@ dd {
   display: none;
   color: #ffd850;
   background-color: #b28282;
+}
+
+.cuerpos-table {
+  font-size: 14px;
+}
+.cuerpos-table .fecha-y-hora {
+  width: 10%;
+}
+.cuerpos-table .sexo {
+  width: 10%;
+}
+.cuerpos-table .edad {
+  width: 10%;
+}
+.cuerpos-table .estatura {
+  width : 10%;
+}
+.cuerpos-table .ropa-y-pertenencias {
+  width: 30%;
+}
+.cuerpos-table .filiacion {
+  width: 30%;
+}
+
+.page-cuerpos {
+  padding-top: 40px;
 }
 
 @media (max-width:767px) {

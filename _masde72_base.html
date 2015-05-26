@@ -43,3 +43,29 @@
   </div>
 </div>
 {% endmacro %}
+
+{% macro cuerpo_table(cuerpos) %}
+<table class="table cuerpos-table">
+  <thead>
+    <tr>
+      <th>Número</th>
+      <th>Sexo</th>
+      <th>Edad (años)</th>
+      <th>Estatura (metros)</th>
+      <th>Filación</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for cuerpo in cuerpos %}
+    <tr>
+      <td class="fecha-y-hora">{{ cuerpo.numero }}</td>
+      <td class="sexo">{{ cuerpo.sexo }}</td>
+      <td class="edad">{{ cuerpo.edad }}</td>
+      <td class="estatura">{{ cuerpo.estatura  }}</td>
+      <td class="filiacion">{{ cuerpo.filiacion }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endmacro %}
