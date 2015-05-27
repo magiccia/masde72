@@ -1,2 +1,3 @@
-<p>Los brasileños Juliard Aires Fernandes, de 20 años, y Herminio Cardoso dos Santos, de 24, volaron a su país el 1 de octubre, según la prensa local (la CNDH marca el día 4).</p> 
+<p>Los brasileños Juliard Aires Fernandes, de 20 años, y Herminio Cardoso dos Santos, de 24, volaron a su país el 1 de octubre, según la prensa local (la CNDH marca el día 4).</p>
+<p>Destaca que aunque la prensa y la CNDH registraron la repatriación del cuerpo de Juliard, la familia duda que sea él, pues no recibió pruebas científicas y en el ataúd, que las autoridades les prohibieron abrir, sólo había una bolsa llena de arcilla.</p> 
 <p>Un mes después, el 1 de noviembre fue repatriada a Brasil Natane Amaral da Silva (Esposa de Edilsimar Junior Faustino da Silva), según reportó la prensa brasileña.</p>
