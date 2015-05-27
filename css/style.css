@@ -189,6 +189,9 @@ section {
 .photos img {
   margin-bottom: 20px;
 }
+.photos img.no-margin {
+  margin-bottom: 0;
+}
 .video {
   margin: 30px 0;
 }
@@ -296,7 +299,8 @@ p.caption {
 }
 
 .image-credit {
-  font-size: 15px;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 .page-capitulo4 .intro {
@@ -343,12 +347,12 @@ p.caption {
 }
 
 .page-capitulo5 .intro {
-  background-image: url('../img/cap5_home.jpg');
+  background-image: url('../img/cap5_sf.jpg');
 }
 
 .page-capitulo5 .intro h1, .page-capitulo5 .intro h2 {
   color: #fff;
-  opacity: 0.8;
+  opacity: 1;
   text-shadow: 0 0 4px rgba(0,0,0,0.6);
 }
 

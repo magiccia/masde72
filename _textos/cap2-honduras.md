@@ -10,7 +10,8 @@
   </div>
 </div>
 <p>Una semana después, el 8 de septiembre, el cadáver de Misael Castro Bardales, que había sido repatriado bajo el nombre de Carlos Alejandro Espinoza, fue identificado por su hermana como su familiar. Daysi Castro lo reconoció por tres de sus tatuajes (uno eran las letras de sus iniciales, otro su apodo); posteriormente su identidad la confirmaría el cotejo de huellas dactilares en el Registro Nacional de la Personas.</p> 
-<p>El 15 de septiembre, tras dos semanas de análisis, el canciller de Honduras entregó los cadáveres de Jorge Alberto Osorio Sevilla, de 30 años, y de William Giovani Cortez Benitez, de 22, a sus respectivas familias.</p><div class="row photos">
+<p>El 15 de septiembre, tras dos semanas de análisis, el canciller de Honduras entregó los cadáveres de Jorge Alberto Osorio Sevilla, de 30 años, y de William Giovani Cortez Benitez, de 22, a sus respectivas familias.</p>
+<div class="row photos">
   <div class="col-md-6">
     <img src="img/home_logo.png" data-src="img/cap2_honduras3.jpg" class="img-responsive"/>
   </div>

@@ -6,11 +6,11 @@
 <div class="row photos">
   <div class="col-md-6">
     <img src="img/home_logo.png" data-src="img/cap2_guatemala1.jpg" class="img-responsive"/>
-    <img src="img/home_logo.png" data-src="img/cap2_guatemala2.jpg" class="img-responsive"/>
+    <img src="img/home_logo.png" data-src="img/cap2_guatemala2.jpg" class="img-responsive no-margin"/>
   </div>
   <div class="col-md-6">
     <img src="img/home_logo.png" data-src="img/cap2_guatemala3.jpg" class="img-responsive"/>
-    <img src="img/home_logo.png" data-src="img/cap2_guatemala4.jpg" class="img-responsive"/>
+    <img src="img/home_logo.png" data-src="img/cap2_guatemala4.jpg" class="img-responsive no-margin"/>
   </div>
 </div>
 <p class="image-credit">Fotografías: Luis Echeverría</p>
