@@ -27,10 +27,6 @@
   <li>Eredis Ayala Muñoz</li>
   <li>Carlos Alejandro Espinoza</li>
 </ul>
-<h4>1 de diciembre de 2010</h4>
-<ul>
-  <li>Edilsimar Junior Faustino da Silva</li>
-</ul>
 <h4>Julio de 2014</h4>
 <ul>
   <li>Eva Noemí</li>

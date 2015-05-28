@@ -2,4 +2,6 @@
 <ul>
   <li>Juliard Aires Fernandes</li>
   <li>Herminio Cardoso dos Santos</li>
-  <li>Natane Faustino Silva Amaral</li>
+  <li>Natane Amaral da Silva</li>
+  <li>Edilsimar Junior Faustino da Silva</li>
+</ul>

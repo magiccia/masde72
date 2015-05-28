@@ -305,6 +305,13 @@ p.caption {
   line-height: 20px;
 }
 
+.intro .image-credit {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: rgba(255,255,255,0.5);
+}
+
 .page-capitulo4 .intro {
   background-image: url('../img/cap4_back.jpg');
   color: #fff;
@@ -369,6 +376,8 @@ p.caption {
 
 .audio-credit {
   font-style: italic;
+  color: rgba(255,255,255,0.5);
+  boo
 }
 
 .creditos .logos {
