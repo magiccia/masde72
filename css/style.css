@@ -312,6 +312,11 @@ p.caption {
   color: rgba(255,255,255,0.5);
 }
 
+.page-capitulo4 .photo_credit4 {
+  font-size: 14px;
+  line-height: 20px;
+}
+
 .page-capitulo4 .intro {
   background-image: url('../img/cap4_back.jpg');
   color: #fff;

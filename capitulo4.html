@@ -76,13 +76,14 @@
 
         {{read_file("_textos/cap4-%s.md" % persona.id)|markdown}}
       </div>
-      {#<div class="col-md-4 info">
+      <div class="col-md-4 info">
         {% if persona.unknown_image %}
         <img src="img/home_logo.png" data-src="img/cap4_unknown.jpg" class="img-responsive">
         {% else %}
         <img src="img/home_logo.png" data-src="img/cap4_{{ persona.id }}.jpg" class="img-responsive">
         {% endif %}
-      </div>#}
+        <p class="photo_credit4"> {{ persona.photo_credit}}</p>
+      </div>
     </div>
   </div>
 </section>
@@ -107,13 +108,13 @@
 
         {{read_file("_textos/cap4-%s.md" % persona.id)|markdown}}
       </div>
-      {#<div class="col-md-4 info">
+      <div class="col-md-4 info">
         {% if persona.unknown_image %}
         <img src="img/home_logo.png" data-src="img/cap4_unknown.jpg" class="img-responsive">
         {% else %}
         <img src="img/home_logo.png" data-src="img/cap4_{{ persona.id }}.jpg" class="img-responsive">
         {% endif %}
-      </div>#}
+      </div>
     </div>
   </div>
 </section>
